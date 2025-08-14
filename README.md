@@ -50,7 +50,7 @@
 <details>
 <summary id="待办事项">📝 待办事项</summary>
 
-- 暂无公开代办列表
+- 暂无公开待办列表
 
 </details>
 
