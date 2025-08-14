@@ -5,7 +5,7 @@
 2
 00:01:39,710 --> 00:01:46,050
 蒙太奇字幕组原创翻译 转载须遵循CC BY-NC-SA 4.0协议
-翻译：小P  后期：novaeye & 小P
+翻译：小p  后期：novaeye
 字幕组纳新TG：MontageSubs
 
 3
@@ -508,7 +508,7 @@ as water levels continue to...
 
 104
 00:06:13,870 --> 00:06:17,760
-高达八十米巨浪袭击朱门灯塔
+（法语） 高达八十米巨浪袭击朱门灯塔
 
 105
 00:06:17,880 --> 00:06:20,720
@@ -516,7 +516,7 @@ as water levels continue to...
 
 106
 00:06:17,950 --> 00:06:20,880
-大规模疏散以应对这种前所未有的...
+（西班牙语） 大规模疏散以应对这种前所未有的...
 
 107
 00:06:20,950 --> 00:06:23,430
@@ -524,7 +524,7 @@ as water levels continue to...
 
 108
 00:06:21,000 --> 00:06:23,620
-岩浆正在流向韦尔辛根
+（德语） 岩浆正在流向韦尔辛根
 
 109
 00:06:23,630 --> 00:06:26,040
@@ -532,7 +532,7 @@ as water levels continue to...
 
 110
 00:06:23,700 --> 00:06:26,000
-示威者在...
+（日语） 示威者在...
 
 111
 00:06:26,100 --> 00:06:31,290
@@ -540,7 +540,7 @@ as water levels continue to...
 
 112
 00:06:26,130 --> 00:06:31,270
-洪水淹没了整个...
+（意大利语） 洪水淹没了整个...
 
 113
 00:06:34,310 --> 00:06:37,810
@@ -776,7 +776,7 @@ Missed you for lunch, missed you for dinner.
 
 159
 00:09:19,930 --> 00:09:24,690
-{\an9} 《封面女郎》
+{\an9}电影《封面女郎》(1944)
 
 160
 00:09:20,300 --> 00:09:21,870
@@ -934,7 +934,7 @@ You're just going right for it, aren't you?
 
 191
 00:10:34,760 --> 00:10:36,020
-陪我聊聊  
+陪我聊聊
 Humor me.
 
 192
@@ -1079,7 +1079,7 @@ I mean, it just the center doesn't hold.
 
 220
 00:12:03,160 --> 00:12:06,380
-没完没了
+有完没完
 It just won't let up.
 
 221
@@ -1483,7 +1483,7 @@ The Ohio EPA has now issued a code red air quality alert for Cleveland and its s
 
 302
 00:17:02,780 --> 00:17:06,520
-{\an8} 《封面女郎》
+{\an8}电影《封面女郎》(1944)
 
 303
 00:17:13,130 --> 00:17:14,780
@@ -1733,7 +1733,7 @@ They're saying it's the bub-bublonic,
 
 353
 00:19:45,620 --> 00:19:47,560
-对 鼠疫 
+对 鼠疫
 Bu-Bubonic plague. Yeah.
 
 354
@@ -1963,7 +1963,7 @@ There was a volcano in Germany. That's, that's crazy.
 
 399
 00:21:39,470 --> 00:21:41,980
-我们自我安慰“一切都会过去的”
+我们自我安慰 一切都会过去的
 And we just kept saying, "Oh, it's gonna blow over."
 
 400
@@ -2087,7 +2087,7 @@ I haven't seen one of those since I was a kid.
 
 424
 00:23:11,640 --> 00:23:14,810
-{\an8}谢谢你...
+{\an8}谢谢你 亠亠
 
 425
 00:23:19,180 --> 00:23:22,080
@@ -2184,7 +2184,7 @@ Most of them walked out. I-I-I transferred the last of the stable ones.
 
 445
 00:24:25,700 --> 00:24:30,090
-但是 菲莉西娅 有点怪事  
+但是 菲莉西娅 有点怪事
 But, Felicia, there's something weird.
 
 446
@@ -2232,7 +2232,7 @@ I don't think I need to be here anymore.
 
 455
 00:25:56,440 --> 00:25:59,190
-{\an8}呼打失败 无信号
+{\an8}呼出失败 无信号
 
 456
 00:26:47,060 --> 00:26:53,170
@@ -2326,7 +2326,7 @@ I'm heading there myself.
 
 474
 00:28:02,060 --> 00:28:03,530
--我前妻住那儿 -奥
+-我前妻住那儿 -噢
 -My ex lives there. -Huh.
 
 475
@@ -2447,7 +2447,7 @@ There "were"?
 
 498
 00:29:15,050 --> 00:29:17,160
-根据我的计算...
+根据我的计算
 Based on my calculations,
 
 499
@@ -3083,7 +3083,7 @@ Got an oat milk latte for Chuck.
 
 626
 00:42:01,460 --> 00:42:04,650
-{\an8}查克
+{\an8}查克 ^v^
 
 627
 00:42:04,480 --> 00:42:06,320
@@ -3562,7 +3562,7 @@ Buskers forever.
 
 722
 00:53:10,880 --> 00:53:12,430
-好了 好了  
+好了 好了
 Yeah. Buskers forever.
 
 723
@@ -3926,7 +3926,7 @@ Come on, little brother, let's dance.
 
 796
 01:00:33,210 --> 01:00:37,510
-{\an8}《封面女郎》
+{\an8}电影《封面女郎》(1944)
 
 797
 01:00:37,540 --> 01:00:42,380
@@ -4220,7 +4220,7 @@ And in all those years, I haven't been up to that damn cupola half a dozen times
 
 855
 01:04:15,940 --> 01:04:18,270
--还记得圣诞述异那个故事吗？ -嗯 
+-还记得圣诞述异那个故事吗？ -嗯
 -Y-You remember Scrooge? -Yeah.
 
 856
@@ -4750,7 +4750,7 @@ No, um, that's not exactly what I mean.
 
 961
 01:11:31,810 --> 01:11:37,010
-我是说 在我两手之间 里面装的是什么 
+我是说 在我两手之间 里面装的是什么
 What's in there? Right between my hands right now.
 
 962
@@ -4855,7 +4855,7 @@ what happens to that universe if someone...
 
 982
 01:12:48,280 --> 01:12:50,440
-比如说...
+比如说
 I don't know,
 
 983
@@ -4950,7 +4950,7 @@ Albie wore his mourning band, and lost weight,
 
 1001
 01:14:22,830 --> 01:14:25,220
-也不再讲笑话了 
+也不再讲笑话了
 and stopped telling his jokes
 
 1002
@@ -5085,7 +5085,7 @@ Oh, I'm so sorry.
 
 1028
 01:17:17,130 --> 01:17:23,070
-哦 对不起 真的 真是对不起 
+哦 对不起 真的 真是对不起
 Oh, I'm sorry. I'm so, so sorry. I'm sorry.
 
 1029
@@ -5835,7 +5835,7 @@ I know that might hurt, but it's the truth.
 
 1178
 01:26:48,070 --> 01:26:53,060
-数学不会撒谎 它只讲事实
+数学只讲事实 它不会撒谎
 Math is truth. It won't lie to you.
 
 1179
@@ -6040,7 +6040,7 @@ I see how their posture changes.
 
 1219
 01:30:14,600 --> 01:30:17,720
-说句实话 在我看来...
+说句实话 在我看来
 And don't mind me saying, but you look...
 
 1220
@@ -6560,7 +6560,7 @@ He flatly refused to move to Omaha to live with his mother's parents.
 
 1323
 01:40:56,270 --> 01:40:58,160
--听着 我真的很爱你们... -他这样说  
+-听着 我真的很爱你们... -他这样说
 -Look, I love you guys... -He said.
 
 1324
@@ -6779,7 +6779,7 @@ And I contain multitudes.
 1367
 01:47:20,310 --> 01:47:27,440
 蒙太奇字幕组原创翻译 转载须遵循CC BY-NC-SA 4.0协议
-翻译：小P  后期：novaeye & 小P
+翻译：小p  后期：novaeye
 字幕组纳新TG：MontageSubs
 
 1368

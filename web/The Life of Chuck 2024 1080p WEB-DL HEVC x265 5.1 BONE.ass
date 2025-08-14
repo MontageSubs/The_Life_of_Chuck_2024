@@ -31,7 +31,7 @@ Style: Note,Microsoft YaHei,18,&H00DDDDDD,&H0000FFFF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\pos(191,136)\fs18\fad(800,800)}查克的一生
-Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：MontageSubs
+Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p  后期：novaeye\N字幕组纳新TG：MontageSubs
 Dialogue: 0,0:01:54.27,0:02:01.16,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第三幕
 Dialogue: 0,0:01:56.36,0:02:01.16,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}谢谢你 查克
 Dialogue: 0,0:02:04.44,0:02:05.44,Note,,0,0,0,,{\pos(192,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
@@ -258,7 +258,7 @@ Dialogue: 0,0:11:47.97,0:11:51.03,Default-3,,0,0,0,,是的 太倒霉了 真的�
 Dialogue: 0,0:11:52.23,0:11:55.48,Default-3,,0,0,0,,互联网瘫痪 加州下沉\N{\rEng}The internet's down, and California's hanging by a thread.
 Dialogue: 0,0:11:55.50,0:11:58.65,Default-3,,0,0,0,,还有大火 饥荒 疫情和各种灾难\N{\rEng}There's fires and famines and plagues and all the rest.
 Dialogue: 0,0:11:58.67,0:12:02.49,Default-3,,0,0,0,,连我们医院也快崩溃了\N{\rEng}I mean, it just the center doesn't hold.
-Dialogue: 0,0:12:03.16,0:12:06.38,Default-3,,0,0,0,,没完没了\N{\rEng}It just won't let up.
+Dialogue: 0,0:12:03.16,0:12:06.38,Default-3,,0,0,0,,有完没完\N{\rEng}It just won't let up.
 Dialogue: 0,0:12:08.21,0:12:11.02,Default-3,,0,0,0,,那天还有多久？\N{\rEng}How long is this gonna go on?
 Dialogue: 0,0:12:11.73,0:12:14.41,Default-3,,0,0,0,,那之前还能撑多久？\N{\rEng}How much can we take before the whole thing...
 Dialogue: 0,0:12:14.69,0:12:17.66,Default-3,,0,0,0,,我是说 天塌下来前\N{\rEng}before the whole thing goes apart, I mean.
@@ -439,7 +439,7 @@ Dialogue: 0,0:21:26.33,0:21:28.05,Default-3,,0,0,0,,-是的 -还有俄罗斯政�
 Dialogue: 0,0:21:28.07,0:21:30.66,Default-3,,0,0,0,,巴基斯坦和印度间的四日战争\N{\rEng}You got the Four Day War between Pakistan and India
 Dialogue: 0,0:21:30.68,0:21:35.97,Default-3,,0,0,0,,还有他妈的德国火山喷发\N{\rEng}and the fucking... the volcano in Germany.
 Dialogue: 0,0:21:35.99,0:21:39.44,Default-3,,0,0,0,,德国火山还能喷发 太扯了\N{\rEng}There was a volcano in Germany. That's, that's crazy.
-Dialogue: 0,0:21:39.47,0:21:41.98,Default-3,,0,0,0,,我们自我安慰“一切都会过去的”\N{\rEng}And we just kept saying, "Oh, it's gonna blow over."
+Dialogue: 0,0:21:39.47,0:21:41.98,Default-3,,0,0,0,,我们自我安慰 一切都会过去的\N{\rEng}And we just kept saying, "Oh, it's gonna blow over."
 Dialogue: 0,0:21:42.00,0:21:45.69,Default-3,,0,0,0,,看来过不去的 对吧？\N{\rEng}That doesn't look to be happening, though, does it?
 Dialogue: 0,0:21:47.04,0:21:48.46,Default-3,,0,0,0,,是啊\N{\rEng}No.
 Dialogue: 0,0:21:48.48,0:21:52.33,Default-3,,0,0,0,,我觉得自杀的人最终会减少\N{\rEng}I think that suicides will slow down.
@@ -540,7 +540,7 @@ Dialogue: 0,0:29:08.41,0:29:15.88,Note,,0,0,0,,{\pos(260,170)\fs11\i1\frz8\1c&HA
 Dialogue: 0,0:29:08.41,0:29:15.88,Note,,0,0,0,,{\pos(320,156)\fs11\i1\frz8\1c&HA4AC88&\b1}谢谢你\N　查克！
 Dialogue: 0,0:29:11.53,0:29:13.32,Default-3,,0,0,0,,还零几秒钟\N{\rEng}Plus a few odd seconds.
 Dialogue: 0,0:29:13.53,0:29:15.02,Default-3,,0,0,0,,你说的是过去吧？\N{\rEng}There "were"?
-Dialogue: 0,0:29:15.05,0:29:17.16,Default-3,,0,0,0,,根据我的计算...\N{\rEng}Based on my calculations,
+Dialogue: 0,0:29:15.05,0:29:17.16,Default-3,,0,0,0,,根据我的计算\N{\rEng}Based on my calculations,
 Dialogue: 0,0:29:17.19,0:29:20.93,Default-3,,0,0,0,,相信我 我的数学很好\N{\rEng}which I assure you I can back up, my math is good,
 Dialogue: 0,0:29:21.02,0:29:26.40,Default-3,,0,0,0,,现在一天有24小时零2分钟长\N{\rEng}there are now 24 hours and two minutes in a day.
 Dialogue: 0,0:29:26.42,0:29:28.27,Default-3,,0,0,0,,知道这什么意思？\N{\rEng}Do you know what that means?
@@ -1027,7 +1027,7 @@ Dialogue: 0,1:12:29.78,1:12:35.33,Default-1,,0,0,0,,整个宇宙就在我两手�
 Dialogue: 0,1:12:35.35,1:12:40.85,Default-1,,0,0,0,,你能包罗万象\N{\rEng}You contain multitudes.
 Dialogue: 0,1:12:41.18,1:12:42.96,Default-1,,0,0,0,,那...\N{\rEng}So...
 Dialogue: 0,1:12:44.01,1:12:48.26,Default-1,,0,0,0,,那个宇宙会怎样 要是有人...\N{\rEng}what happens to that universe if someone...
-Dialogue: 0,1:12:48.28,1:12:50.44,Default-1,,0,0,0,,比如说...\N{\rEng}I don't know,
+Dialogue: 0,1:12:48.28,1:12:50.44,Default-1,,0,0,0,,比如说\N{\rEng}I don't know,
 Dialogue: 0,1:12:50.46,1:12:56.79,Default-1,,0,0,0,,在冰面上打滑 冲下高架桥 或者...\N{\rEng}hits a patch of ice and goes off an overpass or...
 Dialogue: 0,1:12:56.94,1:12:59.79,Default-1,,0,0,0,,别太纠结这些\N{\rEng}Don't worry too much about those things.
 Dialogue: 0,1:12:59.81,1:13:05.32,Default-1,,0,0,0,,只要记住 你包罗万象 查克\N{\rEng}Just remember that you contain multitudes, Chuck.
@@ -1228,7 +1228,7 @@ Dialogue: 0,1:26:32.04,1:26:35.78,Default-1,,0,0,0,,大家都爱看跳舞 没错
 Dialogue: 0,1:26:35.80,1:26:38.70,Default-1,,0,0,0,,可社会更需要会计师\N{\rEng}But it needs accountants,
 Dialogue: 0,1:26:38.72,1:26:43.84,Default-1,,0,0,0,,需求大所以机会也多\N{\rEng}so there's much more demand, so there's much more opportunity.
 Dialogue: 0,1:26:44.02,1:26:48.05,Default-1,,0,0,0,,我知道这话扎心 但这就是事实\N{\rEng}I know that might hurt, but it's the truth.
-Dialogue: 0,1:26:48.07,1:26:53.06,Default-1,,0,0,0,,数学不会撒谎 它只讲事实\N{\rEng}Math is truth. It won't lie to you.
+Dialogue: 0,1:26:48.07,1:26:53.06,Default-1,,0,0,0,,数学只讲事实 它不会撒谎\N{\rEng}Math is truth. It won't lie to you.
 Dialogue: 0,1:26:53.08,1:26:58.81,Default-1,,0,0,0,,数学不掺感情 它就是这么纯粹\N{\rEng}It doesn't factor in your preferences. It's pure that way.
 Dialogue: 0,1:26:59.00,1:27:02.56,Default-1,,0,0,0,,数学能做很多事\N{\rEng}Math can do a lot of things.
 Dialogue: 0,1:27:03.00,1:27:06.38,Default-1,,0,0,0,,数学可以是门艺术\N{\rEng}Math can be art.
@@ -1269,7 +1269,7 @@ Dialogue: 0,1:30:01.92,1:30:07.69,Default-1,,0,0,0,,我从八岁就开始跳舞 
 Dialogue: 0,1:30:07.71,1:30:10.12,Default-1,,0,0,0,,看过不少孩子受伤后的样子\N{\rEng}and I've seen when my kids get hurt.
 Dialogue: 0,1:30:10.14,1:30:12.63,Default-1,,0,0,0,,他们走路都不一样了\N{\rEng}I see how their walk changes.
 Dialogue: 0,1:30:12.66,1:30:14.57,Default-1,,0,0,0,,站姿也怪\N{\rEng}I see how their posture changes.
-Dialogue: 0,1:30:14.60,1:30:17.72,Default-1,,0,0,0,,说句实话 在我看来...\N{\rEng}And don't mind me saying, but you look...
+Dialogue: 0,1:30:14.60,1:30:17.72,Default-1,,0,0,0,,说句实话 在我看来\N{\rEng}And don't mind me saying, but you look...
 Dialogue: 0,1:30:18.25,1:30:21.40,Default-1,,0,0,0,,查克 你看上去好好的\N{\rEng}Well, you look fine to me, Chuck.
 Dialogue: 0,1:30:21.42,1:30:26.06,Default-1,,0,0,0,,我没逼你非得跟她跳 决定权在你\N{\rEng}I'm not saying that you have to dance with the girl. It's up to you.
 Dialogue: 0,1:30:26.09,1:30:31.20,Default-1,,0,0,0,,我只想说 不管跳不跳 别说谎\N{\rEng}I'm just saying dance or no dance, you don't have to lie.
@@ -1417,6 +1417,6 @@ Dialogue: 0,1:45:34.24,1:45:37.62,Default-1,,0,0,0,,我包罗万象\N{\rEng}And 
 Dialogue: 0,1:46:03.09,1:46:05.68,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}导演及影片编剧\N{\fs14\fsp1}迈克·弗拉纳根
 Dialogue: 0,1:46:05.68,1:46:08.23,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}原著短篇小说\N{\fs14\fsp1}史蒂芬·金
 Dialogue: 0,1:47:14.89,1:47:20.31,Note,,0,0,0,,{\pos(191,136)\fs18\1c&HA2B7C1&\fad(0,500)}查克的一生
-Dialogue: 0,1:47:20.31,1:47:27.44,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c&HA2B7C1&}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：MontageSubs
+Dialogue: 0,1:47:20.31,1:47:27.44,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c&HA2B7C1&}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p  后期：novaeye\N字幕组纳新TG：MontageSubs
 Dialogue: 0,1:47:22.10,1:47:27.24,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4\fad(1000,1000)}谨以缅怀\N{\fs14\fsp1}斯科特·沃普勒
 Dialogue: 0,1:50:42.68,1:50:49.75,Note,,0,0,0,,{\move(192,280,192,80)\fs12\1c&HA2B7C1&\fsp2}本故事纯属虚构 如有雷同纯属巧合
