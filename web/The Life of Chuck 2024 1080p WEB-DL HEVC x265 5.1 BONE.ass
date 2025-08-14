@@ -34,10 +34,11 @@ Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\pos(191,136)\fs18\fad(800,800)}
 Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：MontageSubs
 Dialogue: 0,0:01:54.27,0:02:01.16,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第三幕
 Dialogue: 0,0:01:56.36,0:02:01.16,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}谢谢你 查克
-Dialogue: 0,0:02:04.44,0:02:09.17,Note,,0,0,0,,{\pos(192,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
-Dialogue: 0,0:02:04.44,0:02:09.17,Note,,0,0,0,,{\pos(30,64)\fsp2\1c33AAAAAA\b1}游泳社团
-Dialogue: 0,0:02:04.44,0:02:09.17,Note,,0,0,0,,{\pos(144,64)\fsp2\1c33AAAAAA\b1}舞蹈社团
-Dialogue: 0,0:02:04.44,0:02:09.17,Note,,0,0,0,,{\pos(264,64)\fsp2\1c33AAAAAA\b1}数学竞赛社
+Dialogue: 0,0:02:04.44,0:02:05.44,Note,,0,0,0,,{\pos(192,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
+Dialogue: 0,0:02:04.44,0:02:05.44,Note,,0,0,0,,{\pos(144,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
+Dialogue: 0,0:02:05.44,0:02:10.96,Note,,0,0,0,,{\move(192,30,300,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
+Dialogue: 0,0:02:05.44,0:02:06.44,Note,,0,0,0,,{\move(144,60,154,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
+Dialogue: 0,0:02:06.44,0:02:10.96,Note,,0,0,0,,{\move(154,60,304,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
 Dialogue: 0,0:02:06.60,0:02:08.78,Default-3,,0,0,0,,...这非混沌 也非死亡\N{\rEng}"It is not chaos or death.
 Dialogue: 0,0:02:08.78,0:02:11.65,Default-3,,0,0,0,,是形象 契合 蓝图\N{\rEng}"It is form and union and plan.
 Dialogue: 0,0:02:11.65,0:02:13.55,Default-3,,0,0,0,,是永恒的生命\N{\rEng}"It is eternal life.
