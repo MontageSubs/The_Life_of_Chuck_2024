@@ -1,12 +1,8 @@
-# 示例 宇宙自助洗衣店 Cosmos Laundromat 2015 [◂电影双语标题+年份]
+# 查克的一生 The Life of Chuck (2024)
 
-示例 在一个荒凉的小岛，自杀羊弗兰克满足他的命运在一个古怪的推销员，谁提供他一生的礼物。他一点也不知道，他只能处理这么多的“寿命”。
+影片根据史蒂芬·金的同名短片小说改编，以三幕倒叙的方式，讲述查尔斯·克兰兹的一生，以他39岁因脑瘤去世为开端，以他在闹鬼的房子里度过的童年时光为结尾。
 
-[▲ 对这部电影的中文介绍，可以来自中文维基百科和TMDB，或者在许可协议不冲突的情况下来自其他来源，比如豆瓣，也可以自行从英语进行翻译]
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/500px-CosmosLaundromatPoster.jpg" alt="电影海报" width="200" />
-
-[▲ 此处提供电影海报的合理使用版本以供解释之用]
+<img src="https://www.themoviedb.org/t/p/w1280/2nbnPVh2OIRK3sbwBM4Kxpyxavi.jpg" alt="电影海报" width="200" />
 
 <table>
   <tr>
@@ -15,51 +11,47 @@
     <th>TMDB</th>
   </tr>
   <tr>
-    <!-- 豆瓣 --><td><a href="https://example.com"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
-    <!-- IMDb --><td><a href="https://example.com"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
-    <!-- TMDB --><td><a href="https://example.com"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
+    <!-- 豆瓣 --><td><a href="https://m.douban.com/movie/subject/36399569/"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
+    <!-- IMDb --><td><a href="https://www.imdb.com/title/tt12908150/"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
+    <!-- TMDB --><td><a href="https://www.themoviedb.org/movie/842924-the-life-of-chuck?language=zh-CN"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
   </tr>
 </table>
 
-[▲ 此处提供电影的各个数据库链接]
 
 
 
+<!--
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
 <table>
   <tr>
-    <th>字幕库</th>
-    <th>SubHD</th>
-    <th>射手网(伪)</th>
-    <th>OpenSubtitles</th>
+    <th>字幕库</th><th>SubHD</th><th>射手网(伪)</th><th>OpenSubtitles</th>
   </tr>
   <tr>
-    <!-- 字幕库 --><td><a href="https://example.com"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24" /></a></td>
-    <!-- SubHD --><td><a href="https://example.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24" /></a></td>
-    <!-- 射手网(伪) --><td><a href="https://example.com"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24" /></a></td>
-    <!-- OpenSubtitles --><td><a href="https://example.com"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24" /></a></td>
+    <td><a href="https://zimuku.org"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
   </tr>
 </table>
 
 [▲ 仅当字幕制作完成且发布后显示此节]
+-->
+
+
 
 <h1 id="字幕进度">⏳ 字幕进度</h1>
 
-- [x] 翻译（100%）
-- [ ] 特效（50%）
-- [ ] 发布（0%）
+- [x] 翻译（95%）
+- [ ] 特效（99%）
+- [ ] 发布（10%）
 
-[▲ 当字幕制作流程取得进展后请更新此节]
 
 <details>
 <summary id="待办事项">📝 待办事项</summary>
 
-- [x] 翻译第00:03:01-00:04:00（100%）
-- [ ] 特效00:04:00（50%）
-- [ ] 调整GitHub Readme（0%）
+- 暂无公开代办列表
 
-[▲ 此处可以作为上一节的详细补充，一个向外界披露的待办事项列表]
 </details>
 
 
