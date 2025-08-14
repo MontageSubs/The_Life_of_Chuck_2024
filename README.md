@@ -219,7 +219,7 @@ This project may feature third-party logos, names, and other marks owned by thei
 **您不可：**
 - 商业性使用本项目任何内容（包括直接销售、付费分发等）
 - 删除或更改署名信息
-- 在不遵守相同协议（SA）的情况下发布衍生作品
+- 在不遵守相同协议（相同方式共享）的情况下发布衍生作品
 
 欲了解完整条款，请参阅本仓库根目录下的 [LICENSE（许可协议）](./LICENSE) 文件。
 
