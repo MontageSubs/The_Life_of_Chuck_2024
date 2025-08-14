@@ -155,9 +155,9 @@
     <th>电报群组 Telegram Group</th>
   </tr>
   <tr>
-    <!-- 蓝天 BlueSky --><td><a href="https://bsky.app/profile/montagesubs.bsky.social"><img src="https://web-cdn.bsky.app/static/favicon-32x32.png" alt="蓝天 BlueSky" width="24" height="24" />@MontageSubs</a> </td>
-    <!-- 电报频道 Telegram Channel --><td><a href="https://t.me/s/MTSubs"><img src="https://t.me/favicon.ico" alt="电报频道 Telegram Channel" width="24" height="24" />@MTSubs</a></td>
-    <!-- 电报群组 Telegram Group --><td><a href="https://t.me/MontageSubs"><img src="https://t.me/favicon.ico" alt="电报群组 Telegram Group" width="24" height="24" />@MontageSubs</a></td>
+    <!-- 蓝天 BlueSky --><td><a href="https://bsky.app/profile/montagesubs.bsky.social"><img src="https://web-cdn.bsky.app/static/favicon-32x32.png" alt="蓝天 BlueSky" width="24" height="24" />  @MontageSubs</a> </td>
+    <!-- 电报频道 Telegram Channel --><td><a href="https://t.me/s/MTSubs"><img src="https://t.me/favicon.ico" alt="电报频道 Telegram Channel" width="24" height="24" />  @MTSubs</a></td>
+    <!-- 电报群组 Telegram Group --><td><a href="https://t.me/MontageSubs"><img src="https://t.me/favicon.ico" alt="电报群组 Telegram Group" width="24" height="24" />  @MontageSubs</a></td>
   </tr>
 </table>
 
