@@ -31,7 +31,7 @@ Style: Note,Microsoft YaHei,18,&H00DDDDDD,&H0000FFFF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\pos(191,136)\fs18\fad(800,800)}查克的一生
-Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5}{\b1}个人字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：grzmz
+Dialogue: 0,0:01:39.71,0:01:46.05,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：MontageSubs
 Dialogue: 0,0:01:54.27,0:02:01.16,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第三幕
 Dialogue: 0,0:01:56.36,0:02:01.16,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}谢谢你 查克
 Dialogue: 0,0:02:04.44,0:02:09.17,Note,,0,0,0,,{\pos(192,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
@@ -1416,6 +1416,6 @@ Dialogue: 0,1:45:34.24,1:45:37.62,Default-1,,0,0,0,,我包罗万象\N{\rEng}And 
 Dialogue: 0,1:46:03.09,1:46:05.68,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}导演及影片编剧\N{\fs14\fsp1}迈克·弗拉纳根
 Dialogue: 0,1:46:05.68,1:46:08.23,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}原著短篇小说\N{\fs14\fsp1}史蒂芬·金
 Dialogue: 0,1:47:14.89,1:47:20.31,Note,,0,0,0,,{\pos(191,136)\fs18\1c&HA2B7C1&\fad(0,500)}查克的一生
-Dialogue: 0,1:47:20.31,1:47:27.44,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c&HA2B7C1&}{\b1}个人字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：grzmz
+Dialogue: 0,1:47:20.31,1:47:27.44,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c&HA2B7C1&}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小P  后期：novaeye & 小P\N字幕组纳新TG：MontageSubs
 Dialogue: 0,1:47:22.10,1:47:27.24,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4\fad(1000,1000)}谨以缅怀\N{\fs14\fsp1}斯科特·沃普勒
 Dialogue: 0,1:50:42.68,1:50:49.75,Note,,0,0,0,,{\move(192,280,192,80)\fs12\1c&HA2B7C1&\fsp2}本故事纯属虚构 如有雷同纯属巧合
