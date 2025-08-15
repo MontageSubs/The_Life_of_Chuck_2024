@@ -203,9 +203,13 @@ We sincerely thank the following open-source or free software and platforms for 
 
 本项目中可能出现的第三方徽标、名称及其他标识，均为其各自权利人的商标或注册商标；我们仅在合理使用或其他法定著作权例外范围内使用，以准确传达其含义。
 
+如您认为本项目内容可能侵犯您的权利，请直接通过“[联系我们](#联系我们)”与我们联系，我们将严肃、及时地审查并处理您的权利主张。
+
 This project is maintained on a non-commercial, non-profit basis by a volunteer subtitle translation team, with the sole purpose of providing subtitles for films and TV series for educational, research, and commentary use. All subtitle text and formatting are derived from the original material under fair use or other applicable copyright exceptions and are released under the “[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](#许可协议)”. These subtitle files are provided exclusively for study, research, and review; to access the original video or audio, please obtain it through the rights holders or other legitimate channels. We neither engage in nor endorse any form of unauthorized production, distribution, or piracy.
 
 This project may feature third-party logos, names, and other marks owned by their respective rights holders. We use them solely under fair use or other applicable copyright exceptions to accurately convey their meaning.
+
+If you believe that any materials in this project may infringe upon your rights, please contact us directly via “[Contact Us](#联系我们)”; we will diligently and promptly review and address your claim.
 
 
 
