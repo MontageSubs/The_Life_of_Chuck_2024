@@ -2341,7 +2341,7 @@ I can walk with you if you like.
 
 477
 00:28:07,270 --> 00:28:09,540
-萨姆 你做什么工作的？
+山姆 你做什么工作的？
 What do you do, Sam?
 
 478
