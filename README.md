@@ -20,7 +20,7 @@
 
 
 
-<!--
+
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
 <table>
@@ -28,15 +28,12 @@
     <th>字幕库</th><th>SubHD</th><th>射手网(伪)</th><th>OpenSubtitles</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/217899.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/595208"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
     <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13225891/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
   </tr>
 </table>
-
-[▲ 仅当字幕制作完成且发布后显示此节]
--->
 
 
 
@@ -46,7 +43,7 @@
 - [X] 翻译
 - [X] 校对
 - [X] 特效
-- [ ] 发布（10%）
+- [ ] 发布（75%）
 
 
 <details>
