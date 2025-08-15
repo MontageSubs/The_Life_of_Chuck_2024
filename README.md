@@ -291,3 +291,13 @@ In accordance with CC BY-NC-SA 4.0, any use or redistribution of this project’
 - **Any contributors or other members who wish to be listed**
 
 Please ensure that this attribution is clearly visible whenever you share or publish these materials.
+
+
+---
+
+<div align="center">
+
+**蒙太奇字幕组 (MontageSubs)**  
+“靠爱发电 ❤️ Powered by love”
+
+</div>
