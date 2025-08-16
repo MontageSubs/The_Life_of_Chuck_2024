@@ -319,6 +319,6 @@ Please ensure that this attribution is clearly visible whenever you share or pub
 <div align="center">
 
 **蒙太奇字幕组 (MontageSubs)**  
-“靠爱发电 ❤️ Powered by love”
+“用爱发电 ❤️ Powered by love”
 
 </div>
