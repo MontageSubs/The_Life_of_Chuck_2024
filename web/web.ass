@@ -1025,10 +1025,10 @@ Dialogue: 0,1:12:21.27,1:12:26.75,Default-1,,0,0,0,,甚至想象的每个人都�
 Dialogue: 0,1:12:26.78,1:12:29.76,Default-1,,0,0,0,,它就变成了个小宇宙\N{\rEng}It'll be a universe.
 Dialogue: 0,1:12:29.78,1:12:35.33,Default-1,,0,0,0,,整个宇宙就在我两手之间\N{\rEng}A whole universe right between my hands.
 Dialogue: 0,1:12:35.35,1:12:40.85,Default-1,,0,0,0,,你能包罗万象\N{\rEng}You contain multitudes.
-Dialogue: 0,1:12:41.18,1:12:42.96,Default-1,,0,0,0,,那...\N{\rEng}So...
-Dialogue: 0,1:12:44.01,1:12:48.26,Default-1,,0,0,0,,那个宇宙会怎样 要是有人...\N{\rEng}what happens to that universe if someone...
+Dialogue: 0,1:12:41.18,1:12:42.96,Default-1,,0,0,0,,那\N{\rEng}So...
+Dialogue: 0,1:12:44.01,1:12:48.26,Default-1,,0,0,0,,那个宇宙会怎样 要是有人\N{\rEng}what happens to that universe if someone...
 Dialogue: 0,1:12:48.28,1:12:50.44,Default-1,,0,0,0,,比如说\N{\rEng}I don't know,
-Dialogue: 0,1:12:50.46,1:12:56.79,Default-1,,0,0,0,,在冰面上打滑 冲下高架桥 或者...\N{\rEng}hits a patch of ice and goes off an overpass or...
+Dialogue: 0,1:12:50.46,1:12:56.79,Default-1,,0,0,0,,在冰面上打滑 冲下高架桥 或者\N{\rEng}hits a patch of ice and goes off an overpass or...
 Dialogue: 0,1:12:56.94,1:12:59.79,Default-1,,0,0,0,,别太纠结这些\N{\rEng}Don't worry too much about those things.
 Dialogue: 0,1:12:59.81,1:13:05.32,Default-1,,0,0,0,,只要记住 你包罗万象 查克\N{\rEng}Just remember that you contain multitudes, Chuck.
 Dialogue: 0,1:13:05.34,1:13:08.77,Default-1,,0,0,0,,这多棒啊\N{\rEng}Isn't that wonderful?
@@ -1302,7 +1302,7 @@ Dialogue: 0,1:35:47.61,1:35:50.33,Default-1,,0,0,0,,千层万叠\N{\rEng}And mil
 Dialogue: 0,1:35:50.35,1:35:55.29,Default-1,,0,0,0,,也许 嗯 它们只是天文数字\N{\rEng}And sure, m-may... Yeah, maybe they were just math.
 Dialogue: 0,1:35:55.31,1:35:57.92,Default-1,,0,0,0,,却好像在翩翩起舞\N{\rEng}But they also danced.
 Dialogue: 0,1:35:57.94,1:36:02.38,Default-1,,0,0,0,,我知道 因为那一瞬我看见了\N{\rEng}I know 'cause I saw one of them.
-Dialogue: 0,1:36:02.88,1:36:06.52,Default-1,,0,0,0,,我那时想 宇宙广阔无限\N{\rEng}And I remember thinking, the universe is large
+Dialogue: 0,1:36:02.88,1:36:06.52,Default-1,,0,0,0,,我那时想 宇宙边疆无限\N{\rEng}And I remember thinking, the universe is large
 Dialogue: 0,1:36:06.54,1:36:09.06,Default-1,,0,0,0,,宇宙包罗万象\N{\rEng}and, and it contains multitudes,
 Dialogue: 0,1:36:09.09,1:36:13.46,Default-1,,0,0,0,,也包含了我\N{\rEng}but it-it also contains me.
 Dialogue: 0,1:36:13.59,1:36:19.67,Default-1,,0,0,0,,而在那一刻 我真觉得自己很精彩\N{\rEng}And in this moment...I am wonderful.
@@ -1415,7 +1415,7 @@ Dialogue: 0,1:45:26.54,1:45:29.28,Default-1,,0,0,0,,我很精彩\N{\rEng}I am wo
 Dialogue: 0,1:45:29.85,1:45:33.38,Default-1,,0,0,0,,我配得上这份精彩\N{\rEng}I deserve to be wonderful.
 Dialogue: 0,1:45:34.24,1:45:37.62,Default-1,,0,0,0,,我包罗万象\N{\rEng}And I contain multitudes.
 Dialogue: 0,1:46:03.09,1:46:05.68,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}导演及影片编剧\N{\fs14\fsp1}迈克·弗拉纳根
-Dialogue: 0,1:46:05.68,1:46:08.23,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}改编自同名短篇小说\N{\fs14\fsp1}史蒂芬·金
+Dialogue: 0,1:46:05.68,1:46:08.23,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}改编自同名短篇小说\N{\fs14\fsp1}原著作者史蒂芬·金
 Dialogue: 0,1:47:14.89,1:47:20.31,Note,,0,0,0,,{\pos(191,136)\fs18\1c&HA2B7C1&\fad(0,500)}查克的一生
 Dialogue: 0,1:47:20.31,1:47:27.44,Note,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c&HA2B7C1&}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p  后期：novaeye\N字幕组纳新TG：MontageSubs
 Dialogue: 0,1:47:22.10,1:47:27.24,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4\fad(1000,1000)}谨以缅怀\N{\fs14\fsp1}斯科特·沃普勒
