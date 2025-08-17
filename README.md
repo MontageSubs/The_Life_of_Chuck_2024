@@ -110,7 +110,7 @@
 
 加入我们的 电报 Telegram 群组，在那里你可以报名加入我们，并和我们一起体验制作字幕的乐趣！
 
-我们的群组是：https://t.me/MontageSubs
+我们的群组是：[https://t.me/MontageSubs](https://t.me/+eQEcQmc1OvM4ODJh)
 
 
 <h2 id="存储库结构">🗂️ 存储库结构</h2>
@@ -203,7 +203,7 @@
   <tr>
     <!-- 蓝天 BlueSky --><td><a href="https://bsky.app/profile/montagesubs.bsky.social"><img src="https://web-cdn.bsky.app/static/favicon-32x32.png" alt="蓝天 BlueSky" width="24" height="24" />  @MontageSubs</a> </td>
     <!-- 电报频道 Telegram Channel --><td><a href="https://t.me/s/MTSubs"><img src="https://t.me/favicon.ico" alt="电报频道 Telegram Channel" width="24" height="24" />  @MTSubs</a></td>
-    <!-- 电报群组 Telegram Group --><td><a href="https://t.me/MontageSubs"><img src="https://t.me/favicon.ico" alt="电报群组 Telegram Group" width="24" height="24" />  @MontageSubs</a></td>
+    <!-- 电报群组 Telegram Group --><td><a href="https://t.me/+eQEcQmc1OvM4ODJh"><img src="https://t.me/favicon.ico" alt="电报群组 Telegram Group" width="24" height="24" />  @MontageSubs</a></td>
   </tr>
 </table>
 
