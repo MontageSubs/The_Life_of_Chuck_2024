@@ -49,11 +49,11 @@
     <th>字幕库</th><th>SubHD</th><th>射手网(伪)</th><th>OpenSubtitles ass格式</th><th>OpenSubtitles srt 格式</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org/detail/217899.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/220569.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
     <td><a href="https://subhd.tv/a/595208"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/13228742/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/13228744/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
+    <td><a href="https://assrt.net/xml/sub/668/668049.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13326916/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13326913/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
 </table>
 
