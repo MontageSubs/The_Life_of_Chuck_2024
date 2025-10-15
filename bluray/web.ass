@@ -1,0 +1,1451 @@
+[Script Info]
+;SrtEdit 9.0.2025.930
+;Copyright(C) 2005-2025 Yuan Weiguo
+;MusicBeat: 60
+;ManualBilingual:    
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default-3,Microsoft YaHei,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,33,1
+Style: Default-2,Microsoft YaHei,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,12,1
+Style: Default-1,Microsoft YaHei,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,2,1
+Style: Eng,Microsoft YaHei,10,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,2,1
+Style: Note,Microsoft YaHei,18,&H00DDDDDD,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,2,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.02,0:00:10.24,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2}（霓虹影业）
+Dialogue: 0,0:00:19.96,0:00:22.81,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2}（无畏影业）
+Dialogue: 0,0:00:32.92,0:00:35.91,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2}（电影国度娱乐）
+Dialogue: 0,0:00:44.89,0:00:48.04,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2}（QW格迈尔公司）
+Dialogue: 0,0:00:56.39,0:01:00.47,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2} （红室影业）
+Dialogue: 0,0:01:02.76,0:01:07.04,Note,,0,0,0,,{\pos(193,130)\fs10\fsp3\fad(300,300)}出品公司\N{\fs14}霓虹影业
+Dialogue: 0,0:01:09.75,0:01:14.13,Note,,0,0,0,,{\pos(193,120)\fs10\fsp3\fad(300,300)}制作公司\N{\fs14}无畏影业\N红室影业
+Dialogue: 0,0:01:17.30,0:01:21.35,Note,,0,0,0,,{\pos(193,120)\fs10\fsp3\fad(300,300)}制作公司\N{\fs14}QW格迈尔公司\N电影国度娱乐
+Dialogue: 0,0:01:24.71,0:01:31.05,Note,,0,0,0,,{\pos(191,136)\fs18\fad(800,800)}查克的一生
+Dialogue: 0,0:01:32.85,0:01:37.63,Note,,0,0,0,,{\pos(193,130)\fs10\fsp3\fad(300,300)}字幕译制\N{\fs14}蒙太奇字幕组
+Dialogue: 0,0:01:39.27,0:01:46.16,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第三幕
+Dialogue: 0,0:01:41.36,0:01:46.16,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}谢谢你 查克
+Dialogue: 0,0:01:49.44,0:01:50.44,Note,,0,0,0,,{\pos(192,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
+Dialogue: 0,0:01:49.44,0:01:50.44,Note,,0,0,0,,{\pos(144,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
+Dialogue: 0,0:01:50.44,0:01:55.96,Note,,0,0,0,,{\move(192,30,300,30)\fs13\shad0.5\bord0.5\fsp2}课后兴趣班纳新
+Dialogue: 0,0:01:50.44,0:01:51.44,Note,,0,0,0,,{\move(144,60,154,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
+Dialogue: 0,0:01:51.44,0:01:55.96,Note,,0,0,0,,{\move(154,60,304,60)\fsp2\1c33AAAAAA\b1}游泳社团\h\h\h\h\h\h\h\h\h\h\h\h\h舞蹈社团\h\h\h\h\h\h\h\h\h\h\h\h\h数学竞赛社
+Dialogue: 0,0:01:51.60,0:01:53.78,Default-3,,0,0,33,,...这非混沌 也非死亡\N{\rEng}"It is not chaos or death.
+Dialogue: 0,0:01:53.78,0:01:56.65,Default-3,,0,0,33,,是形象 契合 蓝图\N{\rEng}"It is form and union and plan.
+Dialogue: 0,0:01:56.65,0:01:58.55,Default-3,,0,0,33,,是永恒的生命\N{\rEng}"It is eternal life.
+Dialogue: 0,0:01:58.57,0:02:00.46,Default-3,,0,0,33,,是幸福\N{\rEng}"It is happiness.
+Dialogue: 0,0:02:01.14,0:02:12.06,Note,,0,0,0,,{\pos(300,46)\fs13}【诗为美国诗人沃尔特·惠特曼《草叶集·自我之歌》】
+Dialogue: 0,0:02:00.83,0:02:02.75,Default-3,,0,0,33,,过去与现在都已凋零\N{\rEng}"The past and present wilt.
+Dialogue: 0,0:02:02.75,0:02:04.66,Default-3,,0,0,33,,我充盈它们 又将它们掏空\N{\rEng}"I have filled them, emptied them,
+Dialogue: 0,0:02:04.66,0:02:07.53,Default-3,,0,0,33,,然后继续去充盈未来的下一折页\N{\rEng}"and proceed to fill my next fold of the future.
+Dialogue: 0,0:02:07.53,0:02:10.75,Default-3,,0,0,33,,云端的倾听者啊！有何秘密要向我倾诉？\N{\rEng}"Listener up there! What have you to confide to me?
+Dialogue: 0,0:02:10.75,0:02:13.67,Default-3,,0,0,33,,当我细嗅暮色时 直视我的面庞\N{\rEng}"Look in my face while I snuff the sidle of evening.
+Dialogue: 0,0:02:13.67,0:02:18.76,Default-3,,0,0,33,,放心说吧 无人能闻得见 我只多留片刻\N{\rEng}"Talk honestly, no one else hears you, and I stay only a minute longer."
+Dialogue: 0,0:02:18.76,0:02:21.24,Default-3,,0,0,33,,我是否自相矛盾？\N{\rEng}"Do I contradict myself?
+Dialogue: 0,0:02:21.24,0:02:22.77,Default-3,,0,0,33,,好吧 那我就自相矛盾\N{\rEng}"Very well then, I contradict myself.
+Dialogue: 0,0:02:22.77,0:02:25.60,Default-3,,0,0,33,,我心疆无限 我包罗万象\N{\rEng}I am large, I contain multitudes."
+Dialogue: 0,0:02:25.60,0:02:26.77,Default-3,,0,0,33,,天哪\N{\rEng}My God.
+Dialogue: 0,0:02:28.25,0:02:29.25,Default-3,,0,0,33,,怎么了？\N{\rEng}What is it?
+Dialogue: 0,0:02:30.64,0:02:33.89,Default-3,,0,0,33,,什么事让你打断惠特曼的诗？\N{\rEng}Clearly something more interesting than Whitman.
+Dialogue: 0,0:02:33.91,0:02:36.59,Default-3,,0,0,33,,是加州 那又地震了\N{\rEng}California. There was another earthquake.
+Dialogue: 0,0:02:36.61,0:02:39.98,Default-3,,0,0,33,,从圣巴巴拉到弗雷斯诺一大片地都没了...\N{\rEng}A huge chunk's gone from Santa Barbara to Fresno.
+Dialogue: 0,0:02:40.00,0:02:41.55,Default-3,,0,0,33,,-太可怕了 -...沉入大海了\N{\rEng}-It's fucking crazy. -Into the ocean.
+Dialogue: 0,0:02:41.57,0:02:43.37,Default-3,,0,0,33,,-就那样没了 -别慌 别慌\N{\rEng}-Just like that. -Alright, alright.
+Dialogue: 0,0:02:42.91,0:02:44.77,Note,,0,0,0,,{\pos(138,146)\frz31\b1\fs16\1c00CCCCCC}"全  没  了!"
+Dialogue: 0,0:02:42.91,0:02:44.77,Note,,0,0,0,,{\pos(150,182)\frz31\b1\fs14\shad0.5\bord0.5\1c00333333\2c00BBBBBB\3c00BBBBBB}9.1级地震袭击加州
+Dialogue: 0,0:02:44.79,0:02:47.13,Note,,0,0,0,,{\move(150,170,130,170)\frz31\fs12)\1c00222222}无网络连接
+Dialogue: 0,0:02:43.61,0:02:44.61,Default-3,,0,0,33,,冷静\N{\rEng}Settle down.
+Dialogue: 0,0:02:46.27,0:02:47.23,Default-3,,0,0,33,,没网了\N{\rEng}Got no connection.
+Dialogue: 0,0:02:47.68,0:02:49.25,Default-3,,0,0,33,,你们有网吗？\N{\rEng}Anybody else have one?
+Dialogue: 0,0:02:49.27,0:02:51.14,Default-3,,0,0,33,,没有\N{\rEng}No.
+Dialogue: 0,0:02:54.10,0:02:59.50,Default-3,,0,0,33,,抱歉 网还用不了\N{\rEng}Oh, eh, sorry. Network's still down.
+Dialogue: 0,0:02:54.13,0:02:55.87,Note,,0,0,0,,{\pos(144,170)\fs10\blur0.2\1c00222222}无网络连接
+Dialogue: 0,0:02:59.59,0:03:01.92,Default-3,,0,0,33,,不过 这有纸质文件\N{\rEng}I've got his file here, though.
+Dialogue: 0,0:03:01.94,0:03:03.96,Default-3,,0,0,33,,迪伦最近在摸鱼\N{\rEng}Uh, Dylan's been diving lately.
+Dialogue: 0,0:03:03.98,0:03:07.86,Default-3,,0,0,33,,这学期他成绩从A和B跌到了D\N{\rEng}I mean, this semester, he's gone from As and Bs to Ds.
+Dialogue: 0,0:03:07.90,0:03:09.26,Default-3,,0,0,33,,你有纸质备份？\N{\rEng}You keep hard copies?
+Dialogue: 0,0:03:09.29,0:03:12.58,Default-3,,0,0,33,,当网时好时坏时就开始保存了\N{\rEng}When the network started acting up, a lot of us started keeping hard copies.
+Dialogue: 0,0:03:12.60,0:03:15.63,Default-3,,0,0,33,,你觉得这次网还能恢复吗？\N{\rEng}What do you think? I mean, you think it's coming back?
+Dialogue: 0,0:03:15.65,0:03:17.56,Default-3,,0,0,33,,我不知道\N{\rEng}Well, I don't, I don't know.
+Dialogue: 0,0:03:17.65,0:03:19.50,Default-3,,0,0,33,,我还记得互联网诞生前的世界\N{\rEng}I remember the world before the internet.
+Dialogue: 0,0:03:19.52,0:03:20.98,Default-3,,0,0,33,,没网的惨状不难想象\N{\rEng}Why is it so hard to imagine carrying on without it?
+Dialogue: 0,0:03:21.00,0:03:22.44,Default-3,,0,0,33,,对吧？\N{\rEng}It is, though, isn't it?
+Dialogue: 0,0:03:22.52,0:03:24.72,Default-3,,0,0,33,,还能恢复网吗？还有戏吗？\N{\rEng}How do we go back? How... Can we go back?
+Dialogue: 0,0:03:24.74,0:03:26.51,Default-3,,0,0,33,,如果这次彻底没戏了怎么活？\N{\rEng}What if it's down for good this time?
+Dialogue: 0,0:03:26.53,0:03:27.79,Default-3,,0,0,33,,还没网\N{\rEng}Internet's still down.
+Dialogue: 0,0:03:27.87,0:03:29.23,Default-3,,0,0,33,,是没网 但别担心\N{\rEng}Yeah, but lucky for us,
+Dialogue: 0,0:03:29.26,0:03:31.31,Default-3,,0,0,33,,我有所有学生的纸质文件\N{\rEng}I've got hard copies for each student.
+Dialogue: 0,0:03:31.34,0:03:32.25,Default-3,,0,0,33,,我有预感\N{\rEng}I think this might be it.
+Dialogue: 0,0:03:32.27,0:03:33.61,Default-3,,0,0,33,,我感觉这次网不会恢复了\N{\rEng}I don't think it's coming back this time.
+Dialogue: 0,0:03:33.64,0:03:35.02,Default-3,,0,0,33,,你八成是对的\N{\rEng}You might be right.
+Dialogue: 0,0:03:35.04,0:03:37.82,Default-3,,0,0,33,,但重点是艾米丽 她开始旷课了\N{\rEng}But I do think we should talk about Emily.  Her attendance has really fallen off.
+Dialogue: 0,0:03:37.84,0:03:39.37,Default-3,,0,0,33,,她旷课了？\N{\rEng}Her attendance?
+Dialogue: 0,0:03:39.50,0:03:42.87,Default-3,,0,0,33,,全球旷工旷课都破天荒了\N{\rEng}Absenteeism's at an all-time high all over the world.
+Dialogue: 0,0:03:42.89,0:03:45.87,Default-3,,0,0,33,,医生旷 飞行员旷 警察也旷\N{\rEng}We got doctors and pilots and cops
+Dialogue: 0,0:03:45.89,0:03:49.14,Default-3,,0,0,33,,大家都他妈擅离职守\N{\rEng}and everyone's just pissing the fuck off, right?
+Dialogue: 0,0:03:49.16,0:03:51.92,Default-3,,0,0,33,,但你却只想着艾米丽？\N{\rEng}But you, you want to talk to us about Emily?
+Dialogue: 0,0:03:51.94,0:03:54.01,Default-3,,0,0,33,,现在还怎么上课？\N{\rEng}How are they supposed to study, anyway?
+Dialogue: 0,0:03:54.03,0:03:56.14,Default-3,,0,0,33,,网络崩溃已经八个月了\N{\rEng}Web's been on the fritz for eight months.
+Dialogue: 0,0:03:56.16,0:03:59.04,Default-3,,0,0,33,,有一半网站都是乱码\N{\rEng}Half those sites are just garbled.
+Dialogue: 0,0:03:59.17,0:04:00.93,Default-3,,0,0,33,,我懂 网坏了\N{\rEng}I mean, I get it, sites go dark.
+Dialogue: 0,0:04:00.95,0:04:02.78,Default-3,,0,0,33,,但其他问题呢？\N{\rEng}But what about all that other stuff?
+Dialogue: 0,0:04:02.80,0:04:04.42,Default-3,,0,0,33,,有些网站还好\N{\rEng}Like, sites are there,
+Dialogue: 0,0:04:04.45,0:04:07.58,Default-3,,0,0,33,,但都是错字和错误标点\N{\rEng}but all the punctuation's wrong. words spelled wrong.
+Dialogue: 0,0:04:07.60,0:04:10.03,Default-3,,0,0,33,,你能解释吗？\N{\rEng}How do you explain that?
+Dialogue: 0,0:04:10.74,0:04:12.42,Default-3,,0,0,33,,我不能\N{\rEng}Well, I can't,
+Dialogue: 0,0:04:12.44,0:04:15.49,Default-3,,0,0,33,,但布莱恩还能来上课\N{\rEng}but Brian can still prepare for class.
+Dialogue: 0,0:04:15.57,0:04:18.56,Default-3,,0,0,33,,即便没网 课本都还在啊\N{\rEng}I mean, the library's still here. Internet or not.
+Dialogue: 0,0:04:18.58,0:04:20.54,Default-3,,0,0,33,,色情网站没了\N{\rEng}Pornhub's down.
+Dialogue: 0,0:04:21.75,0:04:24.60,Default-3,,0,0,33,,安德森老师 你知道吗？\N{\rEng}Did you know that, Mr. Anderson?
+Dialogue: 0,0:04:26.15,0:04:27.44,Default-3,,0,0,33,,呃 是啊\N{\rEng}Yeah, I, uh,
+Dialogue: 0,0:04:27.46,0:04:30.59,Default-3,,0,0,33,,我 我 我听说了 是的\N{\rEng}I, I, I had noticed that. Yeah.
+Dialogue: 0,0:04:30.89,0:04:32.70,Default-3,,0,0,33,,对不起 小布给你添麻烦了\N{\rEng}Sorry if Bri's been any trouble.
+Dialogue: 0,0:04:32.72,0:04:33.86,Default-3,,0,0,33,,这家就我一人了\N{\rEng}It's just me now.
+Dialogue: 0,0:04:33.86,0:04:37.32,Default-3,,0,0,33,,他妈妈跑了 我不知道去哪了\N{\rEng}His mom... she left, I don't know where.
+Dialogue: 0,0:04:37.34,0:04:38.97,Default-3,,0,0,33,,听说最近这事常见\N{\rEng}That's been happening a lot more I hear,
+Dialogue: 0,0:04:38.99,0:04:41.71,Default-3,,0,0,33,,人们只是玩失踪\N{\rEng}people just ghosting.
+Dialogue: 0,0:04:41.73,0:04:45.50,Default-3,,0,0,33,,她高中那会儿认识个无缘的男友\N{\rEng}Hers was some star-crossed boyfriend from high school.
+Dialogue: 0,0:04:45.52,0:04:48.10,Default-3,,0,0,33,,待在一起有一个月吧\N{\rEng}They dated a month.
+Dialogue: 0,0:04:48.12,0:04:49.14,Default-3,,0,0,33,,那该死的一个月\N{\rEng}Goddamn month.
+Dialogue: 0,0:04:49.16,0:04:54.03,Default-3,,0,0,33,,就为了那一个月 她竟然丢下二十年的感情\N{\rEng}She's gonna throw 20 years in the trash to chase down a month.
+Dialogue: 0,0:04:54.06,0:04:56.99,Default-3,,0,0,33,,我猜她一直藕断丝连他\N{\rEng}I guess she never stopped thinking about him.
+Dialogue: 0,0:04:57.01,0:04:58.86,Default-3,,0,0,33,,谁心里没有放不下的人\N{\rEng}I guess we've all got someone like that.
+Dialogue: 0,0:04:58.89,0:05:00.41,Default-3,,0,0,33,,我懂 我懂\N{\rEng}I mean, I get it,
+Dialogue: 0,0:05:00.43,0:05:04.67,Default-3,,0,0,33,,就像那些穿紫袍说的那样 要真是末日了\N{\rEng}if it really is the end, like those kooks in the purple robes say,
+Dialogue: 0,0:05:04.67,0:05:07.91,Default-3,,0,0,33,,最终和谁一起面对呢？\N{\rEng}then who do you want to be with for it?
+Dialogue: 0,0:05:07.93,0:05:09.90,Default-3,,0,0,33,,她要抛弃骨肉吗？\N{\rEng}But to leave her son?
+Dialogue: 0,0:05:13.02,0:05:15.84,Default-3,,0,0,33,,对了 她说会回来的\N{\rEng}Uh, she says she'll be back.
+Dialogue: 0,0:05:15.98,0:05:18.33,Default-3,,0,0,33,,我也不确定\N{\rEng}I don't know. Um...
+Dialogue: 0,0:05:22.51,0:05:23.86,Default-3,,0,0,33,,该死的色情网站\N{\rEng}Fuckin' Pornhub.
+Dialogue: 0,0:05:25.13,0:05:26.76,Default-3,,0,0,33,,万一永远不回来了呢？\N{\rEng}What if that never comes back?
+Dialogue: 0,0:05:26.78,0:05:29.04,Default-3,,0,0,33,,真他妈的倒霉\N{\rEng}Fuckin' tragedy.
+Dialogue: 0,0:05:30.11,0:05:35.11,Default-3,,0,0,33,,就算这真是一切的结局\N{\rEng}I mean, even if it is the end of all things...
+Dialogue: 0,0:05:35.13,0:05:39.14,Default-3,,0,0,33,,这也提前把我结束了\N{\rEng}that's just fuckin' mean.
+Dialogue: 0,0:05:42.92,0:05:45.46,Default-3,,0,0,33,,-见笑了 -嗯\N{\rEng}-Sorry. -Yeah.
+Dialogue: 0,0:05:46.64,0:05:54.24,Note,,0,0,0,,{\pos(210,204)\fs16\b1\shad0.5\bord0.5\fsp2}美国新闻 北加州变成废墟
+Dialogue: 0,0:05:47.27,0:05:50.37,Default-3,,0,0,33,,{\i1}北加州满目疮痍 令人心碎\N{\rEng}{\i1}It's a scene of devastation and heartbreak in California,
+Dialogue: 0,0:05:50.45,0:05:54.29,Default-3,,0,0,33,,{\i1}救援人员正努力在残骸中搜寻\N{\rEng}{\i1}as rescue workers sift through what remains of the northern portion of the state.
+Dialogue: 0,0:05:54.37,0:05:57.16,Default-3,,0,0,33,,{\i1}造成北约克郡350人死亡\N{\rEng}{\i1}350 dead in North Yorkshire
+Dialogue: 0,0:05:54.40,0:05:58.57,Note,,0,0,0,,{\pos(164,220)\fs16\b1\shad0.5\bord0.5\fsp2}英国新闻 约克郡惨剧
+Dialogue: 0,0:05:57.24,0:05:58.87,Default-3,,0,0,33,,{\i1}水位还在持续上涨...\N{\rEng}{\i1}as water levels continue to...
+Dialogue: 0,0:05:58.68,0:06:02.69,Note,,0,0,0,,{\pos(238,224)\fs13.5\b1\shad0.5\bord0.5\fsp2}法国新闻 巨大海啸袭击布列塔尼海岸
+Dialogue: 0,0:05:58.87,0:06:02.76,Default-3,,0,0,33,,{\i1}(法语) 高达八十米巨浪袭击朱门灯塔
+Dialogue: 0,0:06:02.88,0:06:05.72,Note,,0,0,0,,{\pos(284,212)\fs13.5\b1\shad0.5\bord0.5\fsp1}墨西哥新闻 蒙特雷被森林大火吞噬
+Dialogue: 0,0:06:02.95,0:06:05.88,Default-3,,0,0,33,,{\i1}(西班牙语) 大规模疏散以应对这种前所未有的...
+Dialogue: 0,0:06:05.95,0:06:08.43,Note,,0,0,0,,{\pos(164,212)\fs13.5\b1\shad0.5\bord0.5\fsp1}德国新闻 韦尔辛根火山喷发
+Dialogue: 0,0:06:06.00,0:06:08.62,Default-3,,0,0,33,,{\i1}(德语) 岩浆正在流向韦尔辛根
+Dialogue: 0,0:06:08.63,0:06:11.04,Note,,0,0,0,,{\pos(320,43)\fs13.5\b1\shad0.5\bord0.5\fsp1}日本新闻 警察与抗议者发生冲突
+Dialogue: 0,0:06:08.70,0:06:11.00,Default-3,,0,0,33,,{\i1}(日语) 示威者在...
+Dialogue: 0,0:06:11.10,0:06:16.29,Note,,0,0,0,,{\pos(134,204)\fs14\b1\shad0.5\bord0.5\fsp1}意大利新闻 灾难性洪水吞噬利沃诺住宅
+Dialogue: 0,0:06:11.13,0:06:16.27,Default-3,,0,0,33,,{\i1}(意大利语) 洪水淹没了整个...
+Dialogue: 0,0:06:19.31,0:06:22.81,Default-3,,0,0,33,,马蒂·安德森第一次看到那广告牌那天\N{\rEng}The day Marty Anderson first saw the billboard
+Dialogue: 0,0:06:22.83,0:06:28.21,Default-3,,0,0,33,,恰巧就在互联网彻底瘫痪前\N{\rEng}was just before the internet finally went down for good.
+Dialogue: 0,0:06:28.75,0:06:31.19,Default-3,,0,0,33,,在那之前网时好时坏有八个月了\N{\rEng}It had been wobbling for eight months,
+Dialogue: 0,0:06:31.28,0:06:34.69,Default-3,,0,0,33,,但占据头条的是其他事件\N{\rEng}but other problems, like fires, earthquakes,
+Dialogue: 0,0:06:34.71,0:06:39.48,Default-3,,0,0,33,,像是大火 地震 鸟和鱼的彻底灭绝\N{\rEng}and whole species of birds and fish dying off had taken priority.
+Dialogue: 0,0:06:39.50,0:06:44.55,Default-3,,0,0,33,,{\an9\i1}...烧到现在 这成为美国史上最严重的山火\N{\rEng}{\i1}...till today, thought to be the largest wildfire in United States history.
+Dialogue: 0,0:06:48.38,0:06:53.45,Default-3,,0,0,33,,在过去 马蒂会直接走收费公路\N{\rEng}Ordinarily, Marty would've driven by way of the Turnpike bypass,
+Dialogue: 0,0:06:53.47,0:07:00.53,Default-3,,0,0,33,,但自奥特溪桥塌了后那条路就走不通了\N{\rEng}but that wasn't possible due to the collapse of the bridge over Otter Creek.
+Dialogue: 0,0:07:00.55,0:07:03.86,Note,,0,0,0,,{\pos(146,94)\fs13.5\i1\frz14.5\1c&H555023&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:07:00.55,0:07:03.86,Note,,0,0,0,,{\pos(154,128)\fs10\i1\frz14\1c&H75827F&\b1}39个{\u1}峥嵘{\u0}岁月！
+Dialogue: 0,0:07:00.55,0:07:03.86,Note,,0,0,0,,{\pos(152,150)\fs10\i1\frz14\1c&H75827F&\b1}谢谢你\N查克！
+Dialogue: 0,0:07:14.40,0:07:18.25,Note,,0,0,0,,{\pos(76,106)\fs22\i1\frz16\1c&H555023&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:07:14.40,0:07:18.25,Note,,0,0,0,,{\pos(104,160)\fs16\i1\frz16\1c&H75827F&\b1}39个{\u1}峥嵘{\u0}岁月！
+Dialogue: 0,0:07:14.40,0:07:18.25,Note,,0,0,0,,{\pos(102,194)\fs16\i1\frz16\1c&H75827F&\b1}谢谢你\N查克！
+Dialogue: 0,0:07:19.37,0:07:21.24,Default-3,,0,0,33,,{\an9\i1}由于加州最近的灾难\N{\rEng}{\i1}Well, with what happened in California,
+Dialogue: 0,0:07:21.33,0:07:24.68,Default-3,,0,0,33,,{\an9\i1}内华达州现在是全美人口最多的州\N{\rEng}{\i1}that officially makes Nevada one of the most populous states in the Union now.
+Dialogue: 0,0:07:24.76,0:07:26.33,Default-3,,0,0,33,,{\an9\i1}但需要强调的是...\N{\rEng}{\i1}The thing that must be said here is...
+Dialogue: 0,0:07:26.42,0:07:29.95,Default-3,,0,0,33,,菲莉西娅·戈登是市立医院的护士\N{\rEng}Felicia Gordon is a nurse at City General.
+Dialogue: 0,0:07:30.03,0:07:35.36,Default-3,,0,0,33,,最近几周她却更像是名收殓员\N{\rEng}Though for the last few weeks, she's felt more like an undertaker.
+Dialogue: 0,0:07:35.38,0:07:39.68,Default-3,,0,0,33,,自夏末以来员工就不断的辞职\N{\rEng}The staff, whose numbers have been dwindling since late summer,
+Dialogue: 0,0:07:39.71,0:07:44.84,Default-3,,0,0,33,,大家给自己起名叫“自杀小队”\N{\rEng}have begun referring to themselves as the Suicide Squad.
+Dialogue: 0,0:07:43.91,0:07:45.81,Default-3,,0,0,33,,{\an9\i1}稍事休息\N{\rEng}{\i1}We'll be back to talk more about this
+Dialogue: 0,0:07:45.83,0:07:51.52,Default-3,,0,0,33,,{\an9\i1}稍后将带来中西部大火和缺水的最新情况\N{\rEng}{\i1}and, uh, also about the fires in the Midwest, speaking of water scarcity, back after this break.
+Dialogue: 0,0:07:55.53,0:08:01.78,Default-3,,0,0,33,,{\an9\i1}感谢查尔斯·查克·克兰兹39年来的峥嵘岁月\N{\rEng}{\i1}We'd like to say thank you to Charles Krantz for 39 great years.
+Dialogue: 0,0:08:01.80,0:08:04.04,Default-3,,0,0,33,,{\an9\i1}谢谢你 查克\N{\rEng}{\i1}Thanks, Chuck.
+Dialogue: 0,0:08:06.94,0:08:08.02,Default-3,,0,0,33,,嘿\N{\rEng}Hey.
+Dialogue: 0,0:08:09.20,0:08:10.44,Default-3,,0,0,33,,听说你又救了一个？\N{\rEng}Heard you got another one.
+Dialogue: 0,0:08:10.46,0:08:12.08,Default-3,,0,0,33,,嗯 又一个\N{\rEng}Yeah. One more.
+Dialogue: 0,0:08:12.16,0:08:15.27,Default-3,,0,0,33,,我的没那么幸运 手腕都割烂了 你懂的\N{\rEng}Mine wasn't so lucky. Slit wrists, so...
+Dialogue: 0,0:08:15.29,0:08:17.25,Default-3,,0,0,33,,真没办法了\N{\rEng}what were we supposed to do really?
+Dialogue: 0,0:08:17.34,0:08:18.95,Default-3,,0,0,33,,听说玛丽露的事了吗？\N{\rEng}Hear about Marilou?
+Dialogue: 0,0:08:19.04,0:08:20.69,Default-3,,0,0,33,,没 怎么了？\N{\rEng}No. What about Marilou?
+Dialogue: 0,0:08:20.78,0:08:21.91,Default-3,,0,0,33,,她不干了\N{\rEng}She left!
+Dialogue: 0,0:08:22.52,0:08:24.63,Default-3,,0,0,33,,-还记得她前任佩德罗吗？ -记得\N{\rEng}-Her ex. Remember Pedro? -Mm-hm.
+Dialogue: 0,0:08:24.65,0:08:26.61,Default-3,,0,0,33,,他冒出来 嘟囔了几句\N{\rEng}He showed up, and I don't know what he said to her,
+Dialogue: 0,0:08:26.61,0:08:29.20,Default-3,,0,0,33,,两人牵着手就走了\N{\rEng}but she walked out holding his hand.
+Dialogue: 0,0:08:29.22,0:08:30.94,Default-3,,0,0,33,,他们离婚离的有多难熬\N{\rEng}And I remember how bad that divorce was.
+Dialogue: 0,0:08:30.96,0:08:32.66,Default-3,,0,0,33,,-有印象吗？ -嗯 记得\N{\rEng}-Do you remember? -Yeah, I remember.
+Dialogue: 0,0:08:32.74,0:08:36.99,Default-3,,0,0,33,,好吧 往事如烟了 他们又拉上了手\N{\rEng}Well, I guess that's all bridge water 'cause off she went.
+Dialogue: 0,0:08:36.36,0:08:37.80,Default-3,,0,0,33,,{\an9\i1}...地陷不断出现\N{\rEng}{\i1}...sinkholes that have been opening up.
+Dialogue: 0,0:08:37.88,0:08:39.34,Default-3,,0,0,33,,现在婚姻都咋样？\N{\rEng}I wonder what the stats are.
+Dialogue: 0,0:08:39.36,0:08:43.74,Default-3,,0,0,33,,是分居多还是复合多？\N{\rEng}You think more people are splitting up or getting back together?
+Dialogue: 0,0:08:43.76,0:08:46.08,Default-3,,0,0,33,,是结婚多还是离婚多？\N{\rEng}I mean, do you think marriage rates are up or divorce rates...
+Dialogue: 0,0:08:46.10,0:08:47.77,Default-3,,0,0,33,,结婚多\N{\rEng}Marriages.
+Dialogue: 0,0:08:47.98,0:08:50.00,Default-3,,0,0,33,,-你是个乐天派 -不\N{\rEng}-You're an optimist. -No.
+Dialogue: 0,0:08:50.63,0:08:53.70,Default-3,,0,0,33,,离婚周期长 没人会去排这个队\N{\rEng}Divorce takes way longer, and I don't think anyone's filing.
+Dialogue: 0,0:08:53.72,0:08:56.92,Default-3,,0,0,33,,填文件就得半年多 何苦呢？\N{\rEng}Why bother? Six months of paperwork at least. Probably more.
+Dialogue: 0,0:08:56.94,0:09:00.43,Default-3,,0,0,33,,结婚领证上下只要一小时\N{\rEng}Marriage license is one page and it takes an hour or so.
+Dialogue: 0,0:09:00.47,0:09:03.23,Default-3,,0,0,33,,所以我猜结婚多\N{\rEng}I'm gonna guess marriages.
+Dialogue: 0,0:09:03.69,0:09:05.22,Default-3,,0,0,33,,{\an7\i1}午餐不见你 晚餐也不在\N{\rEng}{\i1}Missed you for lunch, missed you for dinner.
+Dialogue: 0,0:09:04.93,0:09:09.69,Note,,0,0,0,,{\pos(340,46)\fs13}【电影《封面女郎》(1944)】
+Dialogue: 0,0:09:05.30,0:09:06.87,Default-3,,0,0,33,,{\an7\i1}怎么了？辟谷了吗？\N{\rEng}{\i1}What's the matter? Don't you eat anymore?
+Dialogue: 0,0:09:06.95,0:09:08.61,Default-3,,0,0,33,,{\an7\i1}好吧 我不饿\N{\rEng}{\i1}Well, I wasn't hungry tonight.
+Dialogue: 0,0:09:08.69,0:09:10.18,Default-3,,0,0,33,,{\an7\i1}那你今早也不饿吗？\N{\rEng}{\i1}Weren't you hungry this morning either?
+Dialogue: 0,0:09:10.26,0:09:14.49,Default-3,,0,0,33,,{\an7\i1}谁拿了我的舞蹈袜？天哪 谁那么坏\N{\rEng}{\i1}Who stole my nylons? Egads! The very...
+Dialogue: 0,0:09:11.19,0:09:13.18,Note,,0,0,0,,{\pos(99,76)\frz22\fs9\b1\1c&HAFB349&}菲莉西娅·戈登来电
+Dialogue: 0,0:09:14.49,0:09:15.18,Default-3,,0,0,33,,{\an7\i1}不饿\N{\rEng}{\i1}Not very.
+Dialogue: 0,0:09:15.27,0:09:17.50,Default-3,,0,0,33,,{\an7\i1}昨晚排练到很晚吗？\N{\rEng}{\i1}Too much rehearsal last night, huh?
+Dialogue: 0,0:09:17.53,0:09:18.94,Default-3,,0,0,33,,{\an7\i1}就像锻炼一样\N{\rEng}{\i1}It was kind of a workout.
+Dialogue: 0,0:09:18.96,0:09:20.73,Default-3,,0,0,33,,{\an7\i1}赖床了？所以今早来的那么晚\N{\rEng}{\i1}That why you slept late?
+Dialogue: 0,0:09:20.76,0:09:21.76,Default-3,,0,0,33,,{\an7\i1}我可没晚起\N{\rEng}{\i1}Oh, I didn't sleep late.
+Dialogue: 0,0:09:21.79,0:09:22.99,Default-3,,0,0,33,,{\an7\i1}我去了上城区\N{\rEng}{\i1}I went uptown.
+Dialogue: 0,0:09:23.01,0:09:25.30,Default-3,,0,0,33,,{\an7\i1}-去购物？ -不是\N{\rEng}{\i1}-Shopping? -No.
+Dialogue: 0,0:09:27.71,0:09:28.71,Default-3,,0,0,33,,喂\N{\rEng}Hey.
+Dialogue: 0,0:09:30.67,0:09:31.87,Default-3,,0,0,33,,喂\N{\rEng}Hi.
+Dialogue: 0,0:09:34.33,0:09:35.77,Default-3,,0,0,33,,你给挂了？\N{\rEng}You hung up?
+Dialogue: 0,0:09:35.85,0:09:37.20,Default-3,,0,0,33,,是啊\N{\rEng}Yeah.
+Dialogue: 0,0:09:37.68,0:09:40.40,Default-3,,0,0,33,,但后来想你看的到 所以又...\N{\rEng}But then I figured you probably saw it. So...
+Dialogue: 0,0:09:42.03,0:09:43.03,Default-3,,0,0,33,,还好吗？\N{\rEng}How are you?
+Dialogue: 0,0:09:43.77,0:09:45.60,Default-3,,0,0,33,,还行吧\N{\rEng}I'm okay, I guess.
+Dialogue: 0,0:09:45.69,0:09:46.78,Default-3,,0,0,33,,你呢？\N{\rEng}How are you?
+Dialogue: 0,0:09:47.47,0:09:50.65,Default-3,,0,0,33,,我上班时想到你了\N{\rEng}I was, um, thinking about you today.
+Dialogue: 0,0:09:50.68,0:09:54.46,Default-3,,0,0,33,,当时在猜结婚多还是离婚多\N{\rEng}We were at work talking about marriages and divorces. Like, which are happening more now...
+Dialogue: 0,0:09:54.48,0:09:56.48,Default-3,,0,0,33,,我赌结婚多\N{\rEng}Marriages, I bet.
+Dialogue: 0,0:09:56.65,0:09:58.84,Default-3,,0,0,33,,没人愿意等离婚\N{\rEng}Ain't nobody waiting on a divorce.
+Dialogue: 0,0:09:59.27,0:10:01.47,Default-3,,0,0,33,,那么再婚呢？\N{\rEng}What about remarriages?
+Dialogue: 0,0:10:02.75,0:10:04.42,Default-3,,0,0,33,,要约炮得先请我喝酒\N{\rEng}You want to buy a guy a drink first or...
+Dialogue: 0,0:10:04.44,0:10:05.77,Default-3,,0,0,33,,我打赌人们都在复合\N{\rEng}I bet those are happening.
+Dialogue: 0,0:10:05.79,0:10:07.63,Default-3,,0,0,33,,这很有意义\N{\rEng}I mean, it makes sense.
+Dialogue: 0,0:10:07.71,0:10:13.15,Default-3,,0,0,33,,人们现在渴望慰藉和熟悉的事物\N{\rEng}People wanting something comforting and familiar.
+Dialogue: 0,0:10:13.98,0:10:16.76,Default-3,,0,0,33,,那么 你今天过得怎么样？\N{\rEng}So... how was your day?
+Dialogue: 0,0:10:17.29,0:10:19.74,Default-3,,0,0,33,,你想复合的意图太明显了 不觉得吗？\N{\rEng}You're just going right for it, aren't you?
+Dialogue: 0,0:10:19.76,0:10:21.02,Default-3,,0,0,33,,陪我聊聊\N{\rEng}Humor me.
+Dialogue: 0,0:10:21.20,0:10:26.99,Default-3,,0,0,33,,呃 今天就那样\N{\rEng}It was, um...It was a day, I guess.
+Dialogue: 0,0:10:27.08,0:10:29.69,Default-3,,0,0,33,,有点怪\N{\rEng}You know? Weird.
+Dialogue: 0,0:10:30.21,0:10:34.35,Default-3,,0,0,33,,家长会开的就像对牛弹琴\N{\rEng}Parent-teacher sessions, felt like pissing in the wind.
+Dialogue: 0,0:10:34.56,0:10:36.02,Default-3,,0,0,33,,你听说加州的事儿了吧？\N{\rEng}You know about California, right?
+Dialogue: 0,0:10:36.04,0:10:37.79,Default-3,,0,0,33,,听说了\N{\rEng}Yeah.
+Dialogue: 0,0:10:37.87,0:10:39.46,Default-3,,0,0,33,,我听说大部分人都迁移了\N{\rEng}I know they're saying most of it was already evacuated,
+Dialogue: 0,0:10:39.48,0:10:42.94,Default-3,,0,0,33,,今天就有几十万灾民东迁\N{\rEng}but I heard today there are hundreds of thousands of refugees trekking east.
+Dialogue: 0,0:10:42.96,0:10:45.73,Default-3,,0,0,33,,知道现在内华达州是全美人口最多的州吗？\N{\rEng}Did you know Nevada is one of the most  populous states in the Union now?
+Dialogue: 0,0:10:45.75,0:10:50.71,Default-3,,0,0,33,,听国家电台科学家说 加州就跟烂墙皮一样往下掉\N{\rEng}I heard a, a scientist on NPR say California is peeling away like old wallpaper.
+Dialogue: 0,0:10:50.71,0:10:53.90,Default-3,,0,0,33,,今天下午 日本又有一座核电站被淹\N{\rEng}And another Japanese reactor got inundated this afternoon.
+Dialogue: 0,0:10:53.93,0:10:56.22,Default-3,,0,0,33,,他们虽说 停机了 一切安全\N{\rEng}And they're saying, you know, it was shut down and all's well,
+Dialogue: 0,0:10:56.24,0:10:58.19,Default-3,,0,0,33,,但我就是没法相信\N{\rEng}but I just, I, I don't think I believe that.
+Dialogue: 0,0:10:58.24,0:11:00.41,Default-3,,0,0,33,,你真是个怀疑论者\N{\rEng}Cynic.
+Dialogue: 0,0:11:00.44,0:11:03.33,Default-3,,0,0,33,,好吧 马蒂 这日子就是这么不靠谱\N{\rEng}Well, we're living in cynical times, Marty.
+Dialogue: 0,0:11:03.36,0:11:06.01,Default-3,,0,0,33,,不少人都认为天要塌了\N{\rEng}I mean, some people think we're living in the last times.
+Dialogue: 0,0:11:06.03,0:11:08.18,Default-3,,0,0,33,,不再是邪教成员这样想了\N{\rEng}Not just the religious crazies either. Not anymore.
+Dialogue: 0,0:11:08.20,0:11:14.28,Default-3,,0,0,33,,市立医院自杀小队的许多专家也这样说\N{\rEng}And you are hearing that from a member in good standing of the City General Suicide Squad.
+Dialogue: 0,0:11:14.30,0:11:15.58,Default-3,,0,0,33,,那是我们的自称\N{\rEng}That's what we call ourselves now.
+Dialogue: 0,0:11:15.60,0:11:17.18,Default-3,,0,0,33,,可没瞎说\N{\rEng}No lie.
+Dialogue: 0,0:11:17.34,0:11:21.89,Default-3,,0,0,33,,{\rNote\fs12}用于抢救吞药自尽{\r}\N今天有6人没挺过来 但救回了18人 主要用{\u1}纳洛酮{\u0}\N{\rEng}We lost six today, but there's 18 more we dragged back, mostly with {\u1}naloxone{\u0}.
+Dialogue: 0,0:11:21.91,0:11:23.50,Default-3,,0,0,33,,但这种药已经供不上了\N{\rEng}But supplies of that are getting very thin.
+Dialogue: 0,0:11:23.52,0:11:28.40,Default-3,,0,0,33,,我听药房说最多坚持到月底\N{\rEng}And I heard the head pharmacist say we might be completely out by the end of the month.
+Dialogue: 0,0:11:28.88,0:11:30.34,Default-3,,0,0,33,,太倒霉了\N{\rEng}That sucks.
+Dialogue: 0,0:11:30.36,0:11:32.10,Default-3,,0,0,33,,是啊 是啊\N{\rEng}Yeah. Yeah.
+Dialogue: 0,0:11:32.97,0:11:36.03,Default-3,,0,0,33,,是的 太倒霉了 真的太倒霉了\N{\rEng}Yeah, that sucks. It, it really sucks.
+Dialogue: 0,0:11:37.23,0:11:40.48,Default-3,,0,0,33,,互联网瘫痪 加州下沉\N{\rEng}The internet's down, and California's hanging by a thread.
+Dialogue: 0,0:11:40.50,0:11:43.65,Default-3,,0,0,33,,还有大火 饥荒 疫情和各种灾难\N{\rEng}There's fires and famines and plagues and all the rest.
+Dialogue: 0,0:11:43.67,0:11:47.49,Default-3,,0,0,33,,连我们医院也快崩溃了\N{\rEng}I mean, it just the center doesn't hold.
+Dialogue: 0,0:11:48.16,0:11:51.38,Default-3,,0,0,33,,有完没完\N{\rEng}It just won't let up.
+Dialogue: 0,0:11:53.21,0:11:56.02,Default-3,,0,0,33,,那天还有多久？\N{\rEng}How long is this gonna go on?
+Dialogue: 0,0:11:56.73,0:11:59.41,Default-3,,0,0,33,,那之前还能撑多久？\N{\rEng}How much can we take before the whole thing...
+Dialogue: 0,0:11:59.69,0:12:02.66,Default-3,,0,0,33,,我是说 天塌下来前\N{\rEng}before the whole thing goes apart, I mean.
+Dialogue: 0,0:12:06.80,0:12:11.53,Default-3,,0,0,33,,{\rNote\fs12}卡尔·萨根是知名的美国天文学家{\r}\N我在教孩子们{\u1}卡尔·萨根{\u0}的理论\N{\rEng}I'm teaching the kids {\u1}Carl Sagan{\u0} right now.
+Dialogue: 0,0:12:11.66,0:12:14.48,Default-3,,0,0,33,,你听说过他的宇宙历年法吗？\N{\rEng}You ever hear what he said about the cosmic calendar?
+Dialogue: 0,0:12:14.75,0:12:18.08,Default-3,,0,0,33,,呃 想不起来 应该没听过\N{\rEng}Uh... I don't know. I don't think so.
+Dialogue: 0,0:12:18.10,0:12:21.34,Default-3,,0,0,33,,你知道 宇宙已有150亿年历史\N{\rEng}Well, the universe is 15 billion years old.
+Dialogue: 0,0:12:21.36,0:12:26.24,Default-3,,0,0,33,,如果你把这150亿年\N{\rEng}And if you took all of that all, all 15 billion years
+Dialogue: 0,0:12:26.33,0:12:30.40,Default-3,,0,0,33,,都给它压缩到365天的日历中\N{\rEng}and compress them into a single calendar year,
+Dialogue: 0,0:12:30.42,0:12:34.25,Default-3,,0,0,33,,那么宇宙大爆炸发生在1月1日第一秒\N{\rEng}then the Big Bang happens in the first second, January 1st.
+Dialogue: 0,0:12:30.49,0:12:34.04,Note,,0,0,0,,{\pos(202,60)\fs28\1c00222222\b1\blur0.5}一    月    份
+Dialogue: 0,0:12:34.25,0:12:36.60,Default-3,,0,0,33,,而如今\N{\rEng}And, and today,
+Dialogue: 0,0:12:36.60,0:12:43.82,Default-3,,0,0,33,,我们正处于12月31日 最后一天的最后一刻\N{\rEng}oh, right now, we're in the final millisecond of the last minute of the last day, December 31st.
+Dialogue: 0,0:12:36.60,0:12:37.44,Note,,0,0,0,,{\pos(202,60)\fs28\1c00222222\b1\blur0.5}十 二 月 份
+Dialogue: 0,0:12:43.82,0:12:45.76,Default-3,,0,0,33,,回到起点\N{\rEng}But if you go back to the start,
+Dialogue: 0,0:12:45.78,0:12:51.11,Default-3,,0,0,33,,回到大爆炸发生的1月1日夜里\N{\rEng}if the, if the Big Bang happens at midnight, January 1st,
+Dialogue: 0,0:12:51.13,0:12:55.20,Default-3,,0,0,33,,日历里每个月等于12.5亿年\N{\rEng}then each month of this calendar is one and a quarter billion years long.
+Dialogue: 0,0:12:55.22,0:12:57.48,Default-3,,0,0,33,,嘿 别考我数学\N{\rEng}Hey, nobody told me there was math on this exam.
+Dialogue: 0,0:12:57.53,0:13:00.21,Default-3,,0,0,33,,宇宙在1月1日诞生\N{\rEng}The universe starts January 1st,
+Dialogue: 0,0:13:00.23,0:13:04.90,Default-3,,0,0,33,,但此时我们的银河系还没形成 形成要到5月\N{\rEng}but the, uh, the Milky Way didn't form until May.
+Dialogue: 0,0:13:03.23,0:13:04.54,Note,,0,0,0,,{\pos(138,146)\fs13\1c00222222\b1}五月份
+Dialogue: 0,0:13:04.93,0:13:10.44,Default-3,,0,0,33,,我们的太阳和地球 要到9月中旬才形成\N{\rEng}Our sun and our earth, they don't show up until mid-September.
+Dialogue: 0,0:13:08.60,0:13:10.01,Note,,0,0,0,,{\pos(202,60)\fs28\1c00222222\b1\blur0.5}九   月   份
+Dialogue: 0,0:13:10.46,0:13:13.44,Default-3,,0,0,33,,生命不久后就有了 但没轮到我们\N{\rEng}Life appears soon after. But not us.
+Dialogue: 0,0:13:13.46,0:13:16.57,Default-3,,0,0,33,,猜猜我们什么时候出现的？\N{\rEng}No. No, no, we don't appear for guess how long?
+Dialogue: 0,0:13:16.59,0:13:18.79,Default-3,,0,0,33,,再说一遍 今天不考数学\N{\rEng}Again, I was told there'd be no math.
+Dialogue: 0,0:13:18.81,0:13:21.08,Default-3,,0,0,33,,在12月31日\N{\rEng}December 31st.
+Dialogue: 0,0:13:21.12,0:13:22.69,Default-3,,0,0,33,,出现在日历上的最后一天\N{\rEng}Last day on the calendar,
+Dialogue: 0,0:13:20.61,0:13:22.75,Note,,0,0,0,,{\pos(202,60)\fs28\1c00222222\b1\blur0.5}十 二 月 份
+Dialogue: 0,0:13:22.77,0:13:29.31,Default-3,,0,0,33,,最早的人类出现在晚上10点半左右\N{\rEng}and the very first human beings on Earth made their debut around 10:30 p.m.
+Dialogue: 0,0:13:29.35,0:13:32.81,Default-3,,0,0,33,,出现在最后一天的晚上10点半\N{\rEng}10:30 p.m. on the last day.
+Dialogue: 0,0:13:32.83,0:13:37.20,Default-3,,0,0,33,,每一分钟代表着3万年\N{\rEng}And, um, every minute since then is 30,000 years.
+Dialogue: 0,0:13:37.22,0:13:46.86,Default-3,,0,0,33,,晚上11:46 距离午夜14分钟 人类才学会用火\N{\rEng}So, 11:46 p.m., only 14 minutes ago, humanity tamed fire
+Dialogue: 0,0:13:46.88,0:13:50.79,Default-3,,0,0,33,,在距离午夜只剩几秒钟时\N{\rEng}and now we're out of minutes, we're into seconds.
+Dialogue: 0,0:13:50.93,0:13:52.83,Default-3,,0,0,33,,到11点59分20秒\N{\rEng}11:59 and 20 seconds,
+Dialogue: 0,0:13:52.85,0:14:00.92,Default-3,,0,0,33,,动植物才被驯化 人类刚开始能制造工具\N{\rEng}the domestication of plants and animals begin, an application for the human talent for making tools.
+Dialogue: 0,0:14:00.94,0:14:04.27,Default-3,,0,0,33,,到11点59分35秒\N{\rEng}11:59 and 35 seconds,
+Dialogue: 0,0:14:04.29,0:14:10.06,Default-3,,0,0,33,,农耕社区演变为首批城市雏形\N{\rEng}agricultural communities evolved into the first cities.
+Dialogue: 0,0:14:10.08,0:14:12.02,Default-3,,0,0,33,,我们记载的所有历史\N{\rEng}Our recorded history,
+Dialogue: 0,0:14:12.04,0:14:14.76,Default-3,,0,0,33,,听说过的所有人\N{\rEng}everyone we've ever heard of,
+Dialogue: 0,0:14:14.78,0:14:24.45,Default-3,,0,0,33,,所有历史书上的事 都只发生在最后10秒钟里\N{\rEng}every single thing in any one of our history books happens in the last 10 seconds.
+Dialogue: 0,0:14:24.49,0:14:32.41,Default-3,,0,0,33,,所有事都集中在最后一天最后一分钟的最后十秒\N{\rEng}The last 10 seconds of the last minute of the last day on the calendar.
+Dialogue: 0,0:14:32.41,0:14:35.62,Default-3,,0,0,33,,日历的最后一天\N{\rEng}December 31st.
+Dialogue: 0,0:14:38.85,0:14:41.53,Default-3,,0,0,33,,该怎么回答你那天还有多久？\N{\rEng}So how long is it gonna go on?
+Dialogue: 0,0:14:41.55,0:14:43.70,Default-3,,0,0,33,,我不知道 小菲\N{\rEng}I don't know, Fel.
+Dialogue: 0,0:14:44.28,0:14:48.14,Default-3,,0,0,33,,要是你说得对 很可能真是这样\N{\rEng}If you're right, and you might be,
+Dialogue: 0,0:14:48.16,0:14:52.02,Default-3,,0,0,33,,这可能就是末世 宇宙正在消亡\N{\rEng}that this really is the, the last times and the universe is dying,
+Dialogue: 0,0:14:52.04,0:14:53.67,Default-3,,0,0,33,,就算它在快速消亡\N{\rEng}and let's just say it's a fast death,
+Dialogue: 0,0:14:53.69,0:14:59.02,Default-3,,0,0,33,,即使这一切都发生在最后一秒\N{\rEng}even if all of this is happening in the, the last split second,
+Dialogue: 0,0:14:59.04,0:15:00.98,Default-3,,0,0,33,,最后一微秒\N{\rEng}microsecond,
+Dialogue: 0,0:15:01.00,0:15:03.25,Default-3,,0,0,33,,谁知道对我们来说是多久\N{\rEng}who knows how long that'll last.
+Dialogue: 0,0:15:03.28,0:15:06.42,Default-3,,0,0,33,,也许是几秒钟 也可以是无限长\N{\rEng}Maybe seconds, maybe eons.
+Dialogue: 0,0:15:06.44,0:15:12.86,Default-3,,0,0,33,,也许发生在宇宙吐出最后一口气的时候\N{\rEng}Maybe all this is happening as the cosmos burps out its last breath.
+Dialogue: 0,0:15:12.88,0:15:21.55,Default-3,,0,0,33,,也许发生在宇宙最后一次心跳的时候\N{\rEng}Maybe it's all happening in the last single solitary heartbeat.
+Dialogue: 0,0:15:23.11,0:15:25.94,Default-3,,0,0,33,,你真能说 马蒂\N{\rEng}Jesus, Marty.
+Dialogue: 0,0:15:27.16,0:15:28.61,Default-3,,0,0,33,,是吧\N{\rEng}Yeah.
+Dialogue: 0,0:15:34.73,0:15:37.79,Default-3,,0,0,33,,好了 小菲 我该挂了 我...\N{\rEng}Listen, Fel, I should go. I've, um...
+Dialogue: 0,0:15:38.87,0:15:42.12,Default-3,,0,0,33,,还得批改试卷呢\N{\rEng}I've got tests to grade.
+Dialogue: 0,0:15:42.65,0:15:44.34,Default-3,,0,0,33,,马蒂\N{\rEng}Marty...
+Dialogue: 0,0:15:45.61,0:15:48.64,Default-3,,0,0,33,,一切都完了 我们也只剩下句真倒霉\N{\rEng}the world is going down the drain, and all we can say is, "That sucks."
+Dialogue: 0,0:15:48.66,0:15:52.58,Default-3,,0,0,33,,说不定谁都躲不掉这劫\N{\rEng}So, maybe we're going down the drain too.
+Dialogue: 0,0:15:52.62,0:15:54.25,Default-3,,0,0,33,,说不定\N{\rEng}Maybe.
+Dialogue: 0,0:15:54.45,0:15:56.73,Default-3,,0,0,33,,听说了吗 查克·克兰兹要退休了\N{\rEng}But, you know, Chuck Krantz is retiring.
+Dialogue: 0,0:15:56.75,0:16:01.13,Default-3,,0,0,33,,都要天塌下来了 还有这个插曲\N{\rEng}So...I guess there's a gleam of light in the darkness.
+Dialogue: 0,0:16:01.15,0:16:02.76,Default-3,,0,0,33,,听说了 39个峥嵘岁月\N{\rEng}Yes. Thirty-nine great years.
+Dialogue: 0,0:16:02.79,0:16:04.44,Default-3,,0,0,33,,哦 你也看到那个奇葩的广告牌了？\N{\rEng}Oh, you saw that weird billboard?
+Dialogue: 0,0:16:04.46,0:16:06.44,Default-3,,0,0,33,,不 是从收音机里听到的广告\N{\rEng}No, it was an ad on the radio that, um,
+Dialogue: 0,0:16:06.46,0:16:08.35,Default-3,,0,0,33,,之前跟你讲的那个国家电台\N{\rEng}that NPR show I was telling you about.
+Dialogue: 0,0:16:08.37,0:16:11.68,Default-3,,0,0,33,,国资电台都开始打广告了 这真是世界末日了\N{\rEng}If they're running ads on NPR, it really is the end of the world.
+Dialogue: 0,0:16:11.70,0:16:15.62,Default-3,,0,0,33,,在这个乱世他还怎么算广告覆盖率\N{\rEng}Tell me, how does Chuck Krantz rate this kind of coverage?
+Dialogue: 0,0:16:15.64,0:16:18.15,Default-3,,0,0,33,,我是说 他像个会计师\N{\rEng}I mean... looks like an accountant.
+Dialogue: 0,0:16:18.17,0:16:20.25,Default-3,,0,0,33,,我从没听说过他\N{\rEng}I've never heard of him.
+Dialogue: 0,0:16:20.39,0:16:22.20,Default-3,,0,0,33,,广告一定用了张老照片\N{\rEng}Used an old photo too, I guess.
+Dialogue: 0,0:16:22.23,0:16:26.42,Default-3,,0,0,33,,他看着都不到40 咋来的40年工龄\N{\rEng}I mean, the guy barely looks 40 at all, let alone 40 years on the job.
+Dialogue: 0,0:16:26.44,0:16:28.60,Default-3,,0,0,33,,无奇不有\N{\rEng}The world is full of mysteries.
+Dialogue: 0,0:16:30.00,0:16:33.03,Default-3,,0,0,33,,嘿 马蒂 别喝烈酒了\N{\rEng}And, hey, no hard stuff, Marty.
+Dialogue: 0,0:16:33.05,0:16:36.47,Default-3,,0,0,33,,喝点啤酒吧\N{\rEng}Okay? Have a beer instead.
+Dialogue: 0,0:16:37.01,0:16:38.63,Default-3,,0,0,33,,遵命\N{\rEng}You got it.
+Dialogue: 0,0:16:42.15,0:16:47.37,Default-3,,0,0,33,,{\i1}俄州环保局对克利夫兰一带下达了空气红色警报\N{\rEng}{\i1}The Ohio EPA has now issued a code red air quality alert for Cleveland and its surrounding...
+Dialogue: 0,0:16:44.13,0:16:47.36,Note,,0,0,0,,{\pos(203,181)\fs8.5\b1\shad0.5\bord0.5}俄州山火蔓延 克利夫兰居民紧急疏散
+Dialogue: 0,0:16:44.13,0:16:47.36,Note,,0,0,0,,{\pos(196,207)\fs8.5\b1\shad0.5\bord0.5}（滚动新闻：余震后加州海岸线不断下沉）
+Dialogue: 0,0:16:47.78,0:16:51.52,Note,,0,0,0,,{\pos(340,46)\fs13} 电影《封面女郎》(1944)
+Dialogue: 0,0:16:58.13,0:16:59.78,Note,,0,0,0,,{\pos(193,142)\fsp4\shad0.5\bord0.5\fs12\1c00444444}信号中断
+Dialogue: 0,0:17:02.38,0:17:05.16,Note,,0,0,0,,{\pos(193,142)\fsp4\shad0.5\bord0.5\fs12\1c00444444}信号中断
+Dialogue: 0,0:17:06.22,0:17:10.81,Note,,0,0,0,,{\pos(193,142)\fsp4\shad0.5\bord0.5\fs12\1c00444444}信号中断
+Dialogue: 0,0:17:13.92,0:17:15.58,Default-3,,0,0,33,,我勒个去\N{\rEng}Shit on a stick.
+Dialogue: 0,0:17:20.31,0:17:26.24,Default-3,,0,0,33,,{\i1}感谢查尔斯·查克·克兰兹39年来的峥嵘岁月\N{\rEng}{\i1}We'd like to say thank you to Charles Krantz for 39 great years.
+Dialogue: 0,0:17:21.99,0:17:23.10,Note,,0,0,0,,{\pos(156,98)\fs18\i1\frz5\1c&H7B4A0C&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:17:26.24,0:17:27.80,Default-3,,0,0,33,,{\i1}谢谢你 查克\N{\rEng}{\i1}Thanks, Chuck.
+Dialogue: 0,0:17:26.27,0:17:35.45,Note,,0,0,0,,{\move(156,98,156,88)\fs18\i1\frz5\1c&H7B4A0C&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:17:26.27,0:17:35.45,Note,,0,0,0,,{\pos(162,164)\fs18\i1\frz5\1c&HC5D6C0&\b1}39个{\u1}峥嵘{\u0}岁月！
+Dialogue: 0,0:17:26.27,0:17:35.45,Note,,0,0,0,,{\pos(168,200)\fs18\i1\frz5\1c&HC5D6C0&\b1}谢谢你\N查克！
+Dialogue: 0,0:17:35.50,0:17:37.65,Note,,0,0,0,,{\pos(193,142)\fsp4\shad0.5\bord0.5\fs12\1c00444444}信号中断
+Dialogue: 0,0:17:55.44,0:17:56.44,Default-3,,0,0,33,,格斯\N{\rEng}Gus!
+Dialogue: 0,0:17:57.61,0:17:59.66,Default-3,,0,0,33,,哦 嘿 马蒂\N{\rEng}Oh. Hey, Marty.
+Dialogue: 0,0:18:00.31,0:18:01.97,Default-3,,0,0,33,,怎么不开车了？\N{\rEng}Where's your car?
+Dialogue: 0,0:18:02.14,0:18:07.30,Default-3,,0,0,33,,车 车停在半山腰了 好几百辆车都扔路上了\N{\rEng}It's... it's on, it's on the sidewalk halfway down Main Street Hill with a hundred others.
+Dialogue: 0,0:18:07.32,0:18:08.87,Default-3,,0,0,33,,我只好步行\N{\rEng}I finally just had to turn around.
+Dialogue: 0,0:18:08.89,0:18:10.69,Default-3,,0,0,33,,该死 我走了\N{\rEng}Fuck it, I walked...
+Dialogue: 0,0:18:10.71,0:18:12.22,Default-3,,0,0,33,,猜我走了多远？ 这有五公里了吧？\N{\rEng}What do you think it is, like, three miles?
+Dialogue: 0,0:18:12.24,0:18:14.18,Default-3,,0,0,33,,我走了将近五公里\N{\rEng}I just walked three miles.
+Dialogue: 0,0:18:14.20,0:18:16.39,Default-3,,0,0,33,,哦 你是这要去学校吧 等下\N{\rEng}Oh, you're going to school. Hold on a sec.
+Dialogue: 0,0:18:16.41,0:18:20.22,Default-3,,0,0,33,,呃 我想下 你得绕 你得绕\N{\rEng}Uh, real quick, you gotta, you gotta go,
+Dialogue: 0,0:18:20.24,0:18:22.23,Default-3,,0,0,33,,你得绕道走11号公路\N{\rEng}listen to me, you gotta go out Route 11
+Dialogue: 0,0:18:22.25,0:18:24.58,Default-3,,0,0,33,,然后在转到19号公路\N{\rEng}and then hook back on, on, on 19.
+Dialogue: 0,0:18:24.60,0:18:26.84,Default-3,,0,0,33,,是呀 路上会很堵\N{\rEng}Yeah. There's gonna be plenty of traffic.
+Dialogue: 0,0:18:26.86,0:18:28.32,Default-3,,0,0,33,,你大概得绕至少30公里\N{\rEng}You gotta go out at least 20 miles.
+Dialogue: 0,0:18:28.34,0:18:29.80,Default-3,,0,0,33,,运气好中午能到\N{\rEng}You might make it before lunch.
+Dialogue: 0,0:18:29.82,0:18:32.24,Default-3,,0,0,33,,-别指望早到 -发生了什么事？\N{\rEng}-I wouldn't count on it. -What happened?
+Dialogue: 0,0:18:32.26,0:18:34.46,Default-3,,0,0,33,,市场街和主街交叉那有大地坑\N{\rEng}Giant sinkhole opened up on Market and Main.
+Dialogue: 0,0:18:34.48,0:18:36.55,Default-3,,0,0,33,,老兄 陷得太大了\N{\rEng}Man, the-the thing, it, uh, it's huge.
+Dialogue: 0,0:18:36.57,0:18:38.81,Default-3,,0,0,33,,要么是降雨导致的\N{\rEng}All the rain probably had something to do with it,
+Dialogue: 0,0:18:38.83,0:18:40.59,Default-3,,0,0,33,,要么是缺乏维护\N{\rEng}lack of maintenance maybe more so.
+Dialogue: 0,0:18:40.61,0:18:42.90,Default-3,,0,0,33,,至少轮不到我去修\N{\rEng}But it's not my department, thank God.
+Dialogue: 0,0:18:42.92,0:18:46.95,Default-3,,0,0,33,,但是 坑下面得有二十多辆车吧\N{\rEng}But, yeah, there's, there's gotta be 20 cars at the bottom.
+Dialogue: 0,0:18:46.97,0:18:50.34,Default-3,,0,0,33,,那些车里的人 永远上不来了\N{\rEng}And some of the people in some of those cars, they ain't comin' back.
+Dialogue: 0,0:18:50.36,0:18:53.21,Default-3,,0,0,33,,老天 我昨天下班就堵在那里\N{\rEng}Jesus, I was, I was just there last night,
+Dialogue: 0,0:18:53.23,0:18:54.74,Default-3,,0,0,33,,堵在那好久\N{\rEng}backed up in traffic.
+Dialogue: 0,0:18:54.76,0:18:57.52,Default-3,,0,0,33,,幸好你今早不在那里\N{\rEng}Thank God you weren't there this morning.
+Dialogue: 0,0:18:57.54,0:19:00.13,Default-3,,0,0,33,,听说加州的事了吧\N{\rEng}I assume you know about California.
+Dialogue: 0,0:19:00.15,0:19:01.83,Default-3,,0,0,33,,我今早没看电视\N{\rEng}I didn't turn on the TV this morning.
+Dialogue: 0,0:19:01.85,0:19:03.05,Default-3,,0,0,33,,-难怪 -有什么新闻吗？\N{\rEng}-Oh! -Is there something new?
+Dialogue: 0,0:19:03.07,0:19:06.01,Default-3,,0,0,33,,都沉下去了\N{\rEng}The, the rest of it went.
+Dialogue: 0,0:19:06.03,0:19:09.53,Default-3,,0,0,33,,电视说北加州20%还尚存\N{\rEng}I-I mean, th-they're saying that 20% of Northern California is hanging in there,
+Dialogue: 0,0:19:09.55,0:19:11.32,Default-3,,0,0,33,,实际也许还剩10%\N{\rEng}which probably means, what, 10%?
+Dialogue: 0,0:19:11.34,0:19:15.24,Default-3,,0,0,33,,但是粮食产区都没了\N{\rEng}But the food-producing regions are... they're gone.
+Dialogue: 0,0:19:15.43,0:19:17.19,Default-3,,0,0,33,,中西部被烧成个焦土\N{\rEng}And with the Midwest turning to charcoal
+Dialogue: 0,0:19:17.21,0:19:18.89,Default-3,,0,0,33,,佛州又被水淹\N{\rEng}and Florida flooding, that's like
+Dialogue: 0,0:19:18.91,0:19:23.37,Default-3,,0,0,33,,全国粮仓都没了\N{\rEng}all the food-producing regions in the country just gone.
+Dialogue: 0,0:19:23.39,0:19:24.77,Default-3,,0,0,33,,欧洲的情况也差不多\N{\rEng}And the same thing with Europe.
+Dialogue: 0,0:19:24.79,0:19:26.33,Default-3,,0,0,33,,亚洲也在闹饥荒\N{\rEng}I mean, it's famine time in Asia.
+Dialogue: 0,0:19:26.35,0:19:27.77,Default-3,,0,0,33,,听说那死了一百万人\N{\rEng}There's a million people dead.
+Dialogue: 0,0:19:27.79,0:19:29.37,Default-3,,0,0,33,,他们管它叫做 树...树疫\N{\rEng}They're saying it's the bub-bublonic,
+Dialogue: 0,0:19:29.39,0:19:30.60,Default-3,,0,0,33,,-树疫病 -鼠疫\N{\rEng}-bubonic plague. -Bubonic.
+Dialogue: 0,0:19:30.62,0:19:32.56,Default-3,,0,0,33,,对 鼠...鼠疫\N{\rEng}Bu-Bubonic plague. Yeah.
+Dialogue: 0,0:19:32.58,0:19:34.86,Default-3,,0,0,33,,还有蜜蜂 十多年前就不正常\N{\rEng}And the bees, I mean, they were in trouble a decade ago,
+Dialogue: 0,0:19:34.88,0:19:36.34,Default-3,,0,0,33,,但现在所有蜜蜂都没了\N{\rEng}but they're completely gone now.
+Dialogue: 0,0:19:36.36,0:19:39.04,Default-3,,0,0,33,,也许南美洲还有几个蜂巢吧\N{\rEng}I mean, there's a couple of hives or whatever down in South America,
+Dialogue: 0,0:19:39.06,0:19:40.96,Default-3,,0,0,33,,但不产蜂蜜\N{\rEng}but there ain't no honey, honey.
+Dialogue: 0,0:19:40.98,0:19:44.74,Default-3,,0,0,33,,没有这些小虫虫 怎么给剩下的庄稼授粉呢\N{\rEng}And without those little guys, like, what's gonna pollinate all the crops we have left?
+Dialogue: 0,0:19:44.76,0:19:45.79,Default-3,,0,0,33,,要我说 我可...\N{\rEng}I mean, I can't do...
+Dialogue: 0,0:19:45.81,0:19:47.14,Default-3,,0,0,33,,先打住 稍后聊\N{\rEng}Excuse me. One sec.
+Dialogue: 0,0:19:47.16,0:19:48.44,Default-3,,0,0,33,,哦 哦 好\N{\rEng}Yeah, yeah. That's-that's cool.
+Dialogue: 0,0:19:48.46,0:19:50.31,Default-3,,0,0,33,,是 安 安德莉娅吗？\N{\rEng}A-Andrea? Are you,
+Dialogue: 0,0:19:50.33,0:19:52.19,Default-3,,0,0,33,,你是中西部信托银行的安德莉娅吗？\N{\rEng}are you Andrea from Midwest Trust?
+Dialogue: 0,0:19:52.21,0:19:54.23,Default-3,,0,0,33,,我是菲莉西娅·安德森的丈夫\N{\rEng}I'm Felicia Anderson's husband.
+Dialogue: 0,0:19:54.25,0:19:56.41,Default-3,,0,0,33,,实际上 是前夫\N{\rEng}Ex, actually.
+Dialogue: 0,0:19:56.43,0:19:57.93,Default-3,,0,0,33,,我觉得你和小菲互相认识\N{\rEng}I think you and Fel know each other.
+Dialogue: 0,0:19:57.95,0:19:59.72,Default-3,,0,0,33,,我们之前在大卫家聚会时见过\N{\rEng}We met at a, a, a game night at David's.
+Dialogue: 0,0:19:59.75,0:20:00.83,Default-3,,0,0,33,,几晚游戏聚会\N{\rEng}A few game nights.
+Dialogue: 0,0:20:00.85,0:20:02.20,Default-3,,0,0,33,,对 记得\N{\rEng}Yeah, sure.
+Dialogue: 0,0:20:02.22,0:20:03.81,Default-3,,0,0,33,,你想干什么？\N{\rEng}What do you want?
+Dialogue: 0,0:20:03.83,0:20:06.07,Default-3,,0,0,33,,车堵在路上 我刚走了半天\N{\rEng}I just had a long walk, and my car is stuck,
+Dialogue: 0,0:20:06.09,0:20:10.42,Default-3,,0,0,33,,而银行 斜了\N{\rEng}and the bank is, it's leaning.
+Dialogue: 0,0:20:10.44,0:20:11.83,Default-3,,0,0,33,,斜了？\N{\rEng}Leaning?
+Dialogue: 0,0:20:12.01,0:20:13.24,Default-3,,0,0,33,,是的\N{\rEng}Yeah.
+Dialogue: 0,0:20:13.53,0:20:16.24,Default-3,,0,0,33,,银行就在地坑旁边\N{\rEng}It's on the edge of the sinkhole.
+Dialogue: 0,0:20:16.45,0:20:17.99,Default-3,,0,0,33,,估计我的职业生涯到此为止\N{\rEng}Guess that's the end of my job.
+Dialogue: 0,0:20:18.01,0:20:21.17,Default-3,,0,0,33,,嘿 你们银行上头那广告牌是啥意思\N{\rEng}Hey, I'm curious about the billboard on the bank building.
+Dialogue: 0,0:20:21.19,0:20:22.48,Default-3,,0,0,33,,-你看到了吗？ -怎么能躲得过？\N{\rEng}-Have you seen it? -How could I miss it?
+Dialogue: 0,0:20:22.50,0:20:25.86,Default-3,,0,0,33,,那广告还出现在电视上\N{\rEng}And I saw the ads too, on TV.
+Dialogue: 0,0:20:25.89,0:20:28.21,Default-3,,0,0,33,,电视不再播卖车卖家具的广告了\N{\rEng}No more ads for cars or discount furniture.
+Dialogue: 0,0:20:28.24,0:20:32.61,Default-3,,0,0,33,,只播“感谢查尔斯·克兰兹39年来的峥嵘岁月 谢谢你 查克”\N{\rEng}Just, "Charles Krantz, 39 great years. Thanks, Chuck."
+Dialogue: 0,0:20:32.64,0:20:34.53,Default-3,,0,0,33,,他不是你银行的人？\N{\rEng}So, he doesn't work at the bank?
+Dialogue: 0,0:20:34.55,0:20:37.40,Default-3,,0,0,33,,他不是从你银行退休？\N{\rEng}He's not retiring from the bank?
+Dialogue: 0,0:20:37.42,0:20:40.10,Default-3,,0,0,33,,我根本不认识这个人\N{\rEng}I don't know Charles Krantz.
+Dialogue: 0,0:20:40.12,0:20:44.93,Default-3,,0,0,33,,我觉得这就是个恶搞 玩行为艺术\N{\rEng}I think it's just a prank. Performance art.
+Dialogue: 0,0:20:44.95,0:20:46.51,Default-3,,0,0,33,,你保重\N{\rEng}Take care.
+Dialogue: 0,0:20:52.83,0:20:55.51,Default-3,,0,0,33,,他们看起来像是灾民\N{\rEng}They look like refugees.
+Dialogue: 0,0:20:55.53,0:20:56.71,Default-3,,0,0,33,,是啊\N{\rEng}Yeah.
+Dialogue: 0,0:20:58.92,0:21:01.39,Default-3,,0,0,33,,至少大家不再惊慌失措了\N{\rEng}No one looks that concerned.
+Dialogue: 0,0:21:01.41,0:21:03.17,Default-3,,0,0,33,,那又怎样？\N{\rEng}What good would that do?
+Dialogue: 0,0:21:03.19,0:21:05.69,Default-3,,0,0,33,,刚开始大家都惊慌失措\N{\rEng}All was concerned at the start.
+Dialogue: 0,0:21:05.71,0:21:07.52,Default-3,,0,0,33,,还记得那些抗议吗？\N{\rEng}Remember the protests?
+Dialogue: 0,0:21:07.54,0:21:09.39,Default-3,,0,0,33,,还记得他们推倒白宫的围栏吗？\N{\rEng}You remember they knocked over the fence at the White House,
+Dialogue: 0,0:21:09.41,0:21:11.31,Default-3,,0,0,33,,记得他们向那些学生开枪吗？\N{\rEng}and all those students got shot?
+Dialogue: 0,0:21:11.33,0:21:13.05,Default-3,,0,0,33,,-是的 -还有俄罗斯政府被推翻\N{\rEng}-Yeah. -And the overthrow of the Russian government.
+Dialogue: 0,0:21:13.07,0:21:15.66,Default-3,,0,0,33,,巴基斯坦和印度间的四日战争\N{\rEng}You got the Four Day War between Pakistan and India
+Dialogue: 0,0:21:15.68,0:21:20.97,Default-3,,0,0,33,,还有他妈的德国火山喷发\N{\rEng}and the fucking... the volcano in Germany.
+Dialogue: 0,0:21:20.99,0:21:24.44,Default-3,,0,0,33,,德国火山还能喷发 太扯了\N{\rEng}There was a volcano in Germany. That's, that's crazy.
+Dialogue: 0,0:21:24.47,0:21:26.98,Default-3,,0,0,33,,我们自我安慰 一切都会过去的\N{\rEng}And we just kept saying, "Oh, it's gonna blow over."
+Dialogue: 0,0:21:27.00,0:21:30.69,Default-3,,0,0,33,,看来过不去的 对吧？\N{\rEng}That doesn't look to be happening, though, does it?
+Dialogue: 0,0:21:32.04,0:21:33.46,Default-3,,0,0,33,,是啊\N{\rEng}No.
+Dialogue: 0,0:21:33.48,0:21:37.33,Default-3,,0,0,33,,我觉得自杀的人最终会减少\N{\rEng}I think that suicides will slow down.
+Dialogue: 0,0:21:37.35,0:21:42.95,Default-3,,0,0,33,,我觉得人们最终会等待\N{\rEng}I think people will just...wait.
+Dialogue: 0,0:21:43.93,0:21:46.08,Default-3,,0,0,33,,等什么？\N{\rEng}For what?
+Dialogue: 0,0:21:46.10,0:21:48.15,Default-3,,0,0,33,,等结局\N{\rEng}The end.
+Dialogue: 0,0:21:49.89,0:21:53.02,Default-3,,0,0,33,,万物的大结局\N{\rEng}This is the end of everything.
+Dialogue: 0,0:21:53.20,0:21:56.11,Default-3,,0,0,33,,{\rNote\fs10}库伯勒-罗丝悲伤模型五阶段：否认 愤怒 恳求 沮丧 接受{\r}\N我们正处在{\u1}悲伤模型{\u0}第五阶段\N{\rEng}I mean, we're, we're going through {\u1}the five stages of grief{\u0}.
+Dialogue: 0,0:21:56.11,0:22:00.46,Default-3,,0,0,33,,你明白吗？我们到了最后阶段\N{\rEng}Don't you get it? I mean, we just, we just landed on the final stage.
+Dialogue: 0,0:22:00.46,0:22:02.50,Default-3,,0,0,33,,接受\N{\rEng}Acceptance.
+Dialogue: 0,0:22:03.60,0:22:10.38,Default-3,,0,0,33,,等待 才是最难熬的\N{\rEng}The waiting...I think that's the hardest part.
+Dialogue: 0,0:22:10.74,0:22:13.63,Default-3,,0,0,33,,灾难不打声招呼就冒出来了\N{\rEng}And the whole thing, it just, it-it came out of nowhere, right?
+Dialogue: 0,0:22:13.65,0:22:16.29,Default-3,,0,0,33,,我是说 大家早知道有自然环境问题\N{\rEng}I mean, everyone knew there was trouble with the environment.
+Dialogue: 0,0:22:16.31,0:22:19.81,Default-3,,0,0,33,,即便是右翼疯子也私下里心知肚明\N{\rEng}I mean, I think even the right-wing nutjobs were secretly, they got it.
+Dialogue: 0,0:22:19.83,0:22:21.39,Default-3,,0,0,33,,但现在\N{\rEng}But this...
+Dialogue: 0,0:22:22.83,0:22:24.33,Default-3,,0,0,33,,现在这些\N{\rEng}this...
+Dialogue: 0,0:22:24.53,0:22:30.43,Default-3,,0,0,33,,现在这些不过是各种屁事的集合\N{\rEng}this is just 60 different varieties of shit.
+Dialogue: 0,0:22:30.45,0:22:33.91,Default-3,,0,0,33,,屁事排山倒海地来\N{\rEng}It's just so much shit that happened fast.
+Dialogue: 0,0:22:33.93,0:22:38.18,Default-3,,0,0,33,,现在一年都十四个月了\N{\rEng}It's like a year, man. Fourteen months.
+Dialogue: 0,0:22:38.20,0:22:42.04,Default-3,,0,0,33,,倒霉啊\N{\rEng}Sucks.
+Dialogue: 0,0:22:44.64,0:22:48.52,Default-3,,0,0,33,,是啊 倒霉啊\N{\rEng}Yeah. Sucks.
+Dialogue: 0,0:22:52.17,0:22:54.63,Default-3,,0,0,33,,飞机写字\N{\rEng}Skywriting.
+Dialogue: 0,0:22:56.61,0:23:00.19,Default-3,,0,0,33,,长大后就再也没见过这种事\N{\rEng}I haven't seen one of those since I was a kid.
+Dialogue: 0,0:22:56.64,0:22:59.81,Note,,0,0,0,,{\pos(210,100)\frz-22\fs26\i1\fsp12\blur0.5\1c&HAFB992&}谢谢你 亠亠
+Dialogue: 0,0:23:04.18,0:23:07.08,Default-3,,0,0,33,,搞什么鬼？\N{\rEng}What the fuck?
+Dialogue: 0,0:23:07.11,0:23:12.57,Default-3,,0,0,33,,我也想问同样的问题\N{\rEng}My sentiments... exactly.
+Dialogue: 0,0:23:08.88,0:23:13.71,Note,,0,0,0,,{\pos(210,100)\frz-22\fs26\i1\fsp12\blur0.5\1c&HAFB992&}谢谢你 查克
+Dialogue: 0,0:23:21.29,0:23:23.18,Note,,0,0,0,,{\move(20,100,300,100)\fsp2\1c&H22A2C2&\shad1\bord1}谢谢你 查克！
+Dialogue: 0,0:23:23.83,0:23:25.83,Note,,0,0,0,,{\move(20,80,230,80)\fsp2\1c&H5CA179&\shad1\bord1}街头艺人万岁
+Dialogue: 0,0:23:26.02,0:23:28.06,Note,,0,0,0,,{\move(20,80,230,80)\fsp2\1c&H49330F&\2c00FFFFFF\3c00FFFFFF\shad1\bord1}查克万岁
+Dialogue: 0,0:23:28.13,0:23:29.69,Note,,0,0,0,,{\move(20,80,230,80)\fsp2\1c&H202F75&\2c00222222\3c00222222\shad1\bord1}查克我爱你
+Dialogue: 0,0:23:29.73,0:23:33.13,Note,,0,0,0,,{\move(20,80,230,80)\fsp2\1c&H1196C0&\2c00222222\3c00222222\shad1\bord1}查克yyds
+Dialogue: 0,0:23:37.01,0:23:41.08,Note,,0,0,0,,{\pos(100, 100)\fsp2\1c&H0C91BA&\shad1\bord1}爱你 查克
+Dialogue: 0,0:23:45.70,0:23:47.42,Default-3,,0,0,33,,喂 喂 喂  你上哪去了？\N{\rEng}Whoa, whoa, whoa, where have you been?
+Dialogue: 0,0:23:47.44,0:23:50.73,Default-3,,0,0,33,,你不知道吗？我跑过来的\N{\rEng}Are you kidding? I had to run here.
+Dialogue: 0,0:23:50.75,0:23:53.78,Default-3,,0,0,33,,路全堵了 一半人把车都仍路上了\N{\rEng}The traffic's insane, and half the cars are empty.
+Dialogue: 0,0:23:53.80,0:23:54.91,Default-3,,0,0,33,,温斯顿医生跑了\N{\rEng}Dr. Winston's MIA.
+Dialogue: 0,0:23:54.93,0:23:56.60,Default-3,,0,0,33,,-什么意思？ -你没听错\N{\rEng}-What? -Yeah.
+Dialogue: 0,0:23:56.62,0:23:58.95,Default-3,,0,0,33,,他今天早上过来看了一圈转头就走了\N{\rEng}He walked in this morning, and he looked around and he walked out again.
+Dialogue: 0,0:23:58.97,0:24:00.48,Default-3,,0,0,33,,再也找不到他了\N{\rEng}And now I can't find him.
+Dialogue: 0,0:24:00.50,0:24:02.44,Default-3,,0,0,33,,他把对讲机都扔门口了\N{\rEng}He dropped his pager when he walked out.
+Dialogue: 0,0:24:02.46,0:24:04.74,Default-3,,0,0,33,,好 那我来开刀\N{\rEng}Okay. I'll scrub in.
+Dialogue: 0,0:24:04.76,0:24:07.09,Default-3,,0,0,33,,床位都空了\N{\rEng}The beds are empty.
+Dialogue: 0,0:24:07.11,0:24:10.68,Default-3,,0,0,33,,病人基本都自己走出去了 我把最后一个扶出去的\N{\rEng}Most of them walked out. I-I-I transferred the last of the stable ones.
+Dialogue: 0,0:24:10.70,0:24:15.09,Default-3,,0,0,33,,但是 菲莉西娅 有点怪事\N{\rEng}But, Felicia, there's something weird.
+Dialogue: 0,0:24:16.21,0:24:18.57,Default-3,,0,0,33,,怎么回事？\N{\rEng}What is that?
+Dialogue: 0,0:24:30.27,0:24:32.46,Default-3,,0,0,33,,机子坏了吗？\N{\rEng}What's wrong with the monitor?
+Dialogue: 0,0:24:32.49,0:24:36.41,Default-3,,0,0,33,,这就是怪事 不只这一台\N{\rEng}That's the thing, it-it's, it's not just that one.
+Dialogue: 0,0:24:59.64,0:25:03.11,Default-3,,0,0,33,,我搞不懂 小菲 搞不懂\N{\rEng}I don't know, Fel. I don't know.
+Dialogue: 0,0:25:03.13,0:25:07.59,Default-3,,0,0,33,,我 我也不想待在这了\N{\rEng}I mean... I might want to get out of here.
+Dialogue: 0,0:25:07.61,0:25:09.85,Default-3,,0,0,33,,我想回家\N{\rEng}I might wanna go home.
+Dialogue: 0,0:25:09.87,0:25:14.09,Default-3,,0,0,33,,没必要再待在这了\N{\rEng}I don't think I need to be here anymore.
+Dialogue: 0,0:25:15.34,0:25:18.66,Note,,0,0,0,,{\pos(192,170)\shad0.5\bord0.5}信号中断
+Dialogue: 0,0:25:36.87,0:25:41.12,Note,,0,0,0,,{\pos(154,70)\frz30\fs9\b1\1c&HAFB349&}菲莉西娅
+Dialogue: 0,0:25:41.44,0:25:44.19,Note,,0,0,0,,{\pos(172,108)\frz30\fs9\b1\1c00AAAAAA}呼出失败 无信号
+Dialogue: 0,0:26:32.06,0:26:38.17,Note,,0,0,0,,{\move(180,30,200,60)\fs18\i1\frz5\1c&H665A31&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:26:38.17,0:26:39.32,Note,,0,0,0,,{\pos(180,50)\fs18\i1\frz5\1c&H665A31&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:26:38.17,0:26:39.32,Note,,0,0,0,,{\pos(190,260)\fs14\i1\frz8\1c&HA1BFB7&\b1}39个{\u1}峥嵘{\u0}岁月！
+Dialogue: 0,0:26:38.17,0:26:39.32,Note,,0,0,0,,{\pos(200,290)\fs14\i1\frz8\1c&HA1BFB7&\b1}谢谢你\N查克！
+Dialogue: 0,0:26:56.67,0:26:58.63,Default-3,,0,0,33,,还好吗 老先生？\N{\rEng}You okay, sir?
+Dialogue: 0,0:26:58.72,0:27:02.00,Default-3,,0,0,33,,好 就歇歇脚\N{\rEng}Yeah. Just taking a rest.
+Dialogue: 0,0:27:02.64,0:27:05.88,Default-3,,0,0,33,,我走去市中心看大地坑了\N{\rEng}I walked downtown to look at the sinkhole
+Dialogue: 0,0:27:05.90,0:27:07.93,Default-3,,0,0,33,,还用手机拍了几张照片\N{\rEng}and take a few pictures with my phone.
+Dialogue: 0,0:27:07.95,0:27:11.28,Default-3,,0,0,33,,我以为电视台可能会想要\N{\rEng}Thought one of the local TV stations might be interested,
+Dialogue: 0,0:27:11.30,0:27:15.54,Default-3,,0,0,33,,但全都停播了\N{\rEng}but they all seem to be off the air.
+Dialogue: 0,0:27:15.56,0:27:18.67,Default-3,,0,0,33,,除了克兰兹的广告\N{\rEng}Except for pictures of Krantz.
+Dialogue: 0,0:27:19.57,0:27:23.09,Default-3,,0,0,33,,到处都是克兰兹啊\N{\rEng}All Krantz all the time.
+Dialogue: 0,0:27:23.44,0:27:26.29,Default-3,,0,0,33,,-知道他是谁吗？ -不知道\N{\rEng}-Any idea who he is? -None.
+Dialogue: 0,0:27:26.31,0:27:31.65,Default-3,,0,0,33,,我问过至少二十多人 没人知道\N{\rEng}I've asked two dozen people, at least. Nobody knows.
+Dialogue: 0,0:27:31.67,0:27:36.13,Default-3,,0,0,33,,克兰兹可是这个时代的幕后大佬啊\N{\rEng}Our man, Krantz, is the Oz of the apocalypse.
+Dialogue: 0,0:27:36.15,0:27:38.91,Default-3,,0,0,33,,只闻其名 不见其身啊\N{\rEng}Our last meme.
+Dialogue: 0,0:27:38.93,0:27:41.31,Default-3,,0,0,33,,-你往哪走？ -丰收里\N{\rEng}-Where are you heading? -Harvest Acres.
+Dialogue: 0,0:27:41.33,0:27:44.61,Default-3,,0,0,33,,世外桃源般的小区\N{\rEng}Nice little enclave off the beaten track.
+Dialogue: 0,0:27:44.63,0:27:47.04,Default-3,,0,0,33,,我正要去那儿\N{\rEng}I'm heading there myself.
+Dialogue: 0,0:27:47.06,0:27:48.53,Default-3,,0,0,33,,-我前妻住那儿 -噢\N{\rEng}-My ex lives there. -Huh.
+Dialogue: 0,0:27:48.55,0:27:49.82,Default-3,,0,0,33,,好吧\N{\rEng}Well...
+Dialogue: 0,0:27:49.90,0:27:52.25,Default-3,,0,0,33,,要一起去吗？\N{\rEng}I can walk with you if you like.
+Dialogue: 0,0:27:52.27,0:27:54.54,Default-3,,0,0,33,,山姆 你做什么工作的？\N{\rEng}What do you do, Sam?
+Dialogue: 0,0:27:54.56,0:27:56.95,Default-3,,0,0,33,,如果还有工作的话\N{\rEng}If you still do anything, I mean.
+Dialogue: 0,0:27:57.24,0:28:01.42,Default-3,,0,0,33,,亚伯勒殡仪馆的老板兼首席殡葬师\N{\rEng}Owner and chief undertaker for Yarborough Funeral Home.
+Dialogue: 0,0:28:01.42,0:28:02.98,Default-3,,0,0,33,,噢 老天\N{\rEng}Oh, man!
+Dialogue: 0,0:28:03.00,0:28:04.24,Default-3,,0,0,33,,是啊\N{\rEng}Yeah.
+Dialogue: 0,0:28:04.26,0:28:06.68,Default-3,,0,0,33,,生意之前好到爆\N{\rEng}We had a boom.
+Dialogue: 0,0:28:06.70,0:28:07.99,Default-3,,0,0,33,,谈起这个就高兴\N{\rEng}It's hard to feel good about it,
+Dialogue: 0,0:28:08.01,0:28:11.38,Default-3,,0,0,33,,最火的还是前几周\N{\rEng}but business was never better than it was a few weeks ago.
+Dialogue: 0,0:28:12.14,0:28:17.78,Default-3,,0,0,33,,但我真正志向所在是气象学\N{\rEng}But my real interest's meteorology.
+Dialogue: 0,0:28:17.80,0:28:21.21,Default-3,,0,0,33,,年轻时我曾想当电视上天气预报员\N{\rEng}Dreamed of being a television weatherman in my salad days,
+Dialogue: 0,0:28:21.21,0:28:23.78,Default-3,,0,0,33,,也许能成全国台的\N{\rEng}maybe even one of the networks.
+Dialogue: 0,0:28:23.80,0:28:26.05,Default-3,,0,0,33,,但 没成\N{\rEng}But n-no.
+Dialogue: 0,0:28:26.07,0:28:27.96,Default-3,,0,0,33,,不过还继续关注着\N{\rEng}I keep up, though.
+Dialogue: 0,0:28:27.98,0:28:30.53,Default-3,,0,0,33,,读有关的书\N{\rEng}Read the journals.
+Dialogue: 0,0:28:30.55,0:28:37.10,Default-3,,0,0,33,,想听的话 有些我读到的奇闻异事\N{\rEng}And I can tell you something amazing if you want to hear.
+Dialogue: 0,0:28:37.12,0:28:42.11,Default-3,,0,0,33,,大家都说一天有24小时 对吧？\N{\rEng}You know how people say there are 24 hours in a day?
+Dialogue: 0,0:28:42.13,0:28:44.04,Default-3,,0,0,33,,其实他们错了\N{\rEng}Well, they're wrong.
+Dialogue: 0,0:28:44.09,0:28:51.55,Default-3,,0,0,33,,在恒星日中一天有23小时零56分钟\N{\rEng}There were 23 hours and 56 minutes in a stellar day.
+Dialogue: 0,0:28:53.41,0:29:00.88,Note,,0,0,0,,{\pos(250,126)\fs16\i1\frz5\1c&H665A31&\b1}查尔斯·查克·克兰兹
+Dialogue: 0,0:28:53.41,0:29:00.88,Note,,0,0,0,,{\pos(260,170)\fs11\i1\frz8\1c&HA4AC88&\b1}39个{\u1}峥嵘{\u0}岁月！
+Dialogue: 0,0:28:53.41,0:29:00.88,Note,,0,0,0,,{\pos(320,156)\fs11\i1\frz8\1c&HA4AC88&\b1}谢谢你\N查克！
+Dialogue: 0,0:28:56.53,0:28:58.32,Default-3,,0,0,33,,还零几秒钟\N{\rEng}Plus a few odd seconds.
+Dialogue: 0,0:28:58.53,0:29:00.02,Default-3,,0,0,33,,你说的是过去吧？\N{\rEng}There "were"?
+Dialogue: 0,0:29:00.05,0:29:02.16,Default-3,,0,0,33,,根据我的计算\N{\rEng}Based on my calculations,
+Dialogue: 0,0:29:02.19,0:29:05.93,Default-3,,0,0,33,,相信我 我的数学很好\N{\rEng}which I assure you I can back up, my math is good,
+Dialogue: 0,0:29:06.02,0:29:11.40,Default-3,,0,0,33,,现在一天有24小时零2分钟长\N{\rEng}there are now 24 hours and two minutes in a day.
+Dialogue: 0,0:29:11.42,0:29:13.27,Default-3,,0,0,33,,知道这什么意思？\N{\rEng}Do you know what that means?
+Dialogue: 0,0:29:13.29,0:29:15.44,Default-3,,0,0,33,,地球自转速度在减慢？\N{\rEng}Well, you're saying the Earth's rotation is slowing down?
+Dialogue: 0,0:29:15.46,0:29:17.44,Default-3,,0,0,33,,没错\N{\rEng}Exactly.
+Dialogue: 0,0:29:18.08,0:29:22.19,Default-3,,0,0,33,,很多人将这些灾难归咎于我们破坏环境\N{\rEng}Lot of folks think all of these disasters are 'cause of what we've done to the environment.
+Dialogue: 0,0:29:22.21,0:29:23.95,Default-3,,0,0,33,,并非如此\N{\rEng}Not so.
+Dialogue: 0,0:29:24.43,0:29:27.63,Default-3,,0,0,33,,我先承认 我们对待母亲非常坏\N{\rEng}I'm the first to admit, we treated our mother,
+Dialogue: 0,0:29:27.65,0:29:31.42,Default-3,,0,0,33,,是的 地球母亲 万物之母\N{\rEng}yes, she's our mother, all of us, very badly.
+Dialogue: 0,0:29:31.44,0:29:34.68,Default-3,,0,0,33,,我们肯定玷污了她 几近强暴\N{\rEng}Certainly molested her, if not outright raped her.
+Dialogue: 0,0:29:34.70,0:29:41.86,Default-3,,0,0,33,,但比起宇宙那浩瀚机制 我们只不过是一粒尘埃\N{\rEng}But... we're puny compared to the great clock of the universe.
+Dialogue: 0,0:29:41.88,0:29:43.12,Default-3,,0,0,33,,是呀\N{\rEng}No.
+Dialogue: 0,0:29:43.32,0:29:45.00,Default-3,,0,0,33,,不论是什么原因\N{\rEng}Whatever's happening
+Dialogue: 0,0:29:45.02,0:29:48.87,Default-3,,0,0,33,,问题绝对比环境恶化更大\N{\rEng}is much larger than environmental degradation.
+Dialogue: 0,0:29:48.89,0:29:51.57,Default-3,,0,0,33,,这就是数学告诉我的\N{\rEng}The math says so.
+Dialogue: 0,0:29:51.59,0:29:54.53,Default-3,,0,0,33,,数学能做很多事\N{\rEng}And, and math can do a lot of things.
+Dialogue: 0,0:29:54.55,0:30:01.34,Default-3,,0,0,33,,数学可以是门艺术 但数学可不会撒谎\N{\rEng}I mean, math can be art... but it can't lie.
+Dialogue: 0,0:30:01.77,0:30:21.18,Note,,0,0,0,,{\pos(122, 210)\fs10\fsp2\shad0.5\bord0.5\1c00AAAAAA}丰收里小区
+Dialogue: 0,0:30:05.82,0:30:10.24,Default-3,,0,0,33,,你看 我要先坐会儿\N{\rEng}You know what? I think I'll sit
+Dialogue: 0,0:30:10.26,0:30:17.94,Default-3,,0,0,33,,边欣赏日落 边歇歇脚\N{\rEng}and enjoy the sunset while I wait for the arthritis to settle a bit.
+Dialogue: 0,0:30:17.96,0:30:21.25,Default-3,,0,0,33,,要一起坐会儿吗？\N{\rEng}You care to join me?
+Dialogue: 0,0:30:24.23,0:30:26.18,Default-3,,0,0,33,,我还想继续走\N{\rEng}I think I'll go on.
+Dialogue: 0,0:30:26.49,0:30:29.82,Default-3,,0,0,33,,你前妻 我理解\N{\rEng}The ex. I understand.
+Dialogue: 0,0:30:29.84,0:30:35.20,Default-3,,0,0,33,,好的 一路顺风 安德森先生\N{\rEng}Well, it was nice speaking with you, Mr. Anderson.
+Dialogue: 0,0:31:15.37,0:31:16.72,Default-3,,0,0,33,,你好\N{\rEng}Hey.
+Dialogue: 0,0:31:17.19,0:31:18.68,Default-3,,0,0,33,,你好\N{\rEng}Hey.
+Dialogue: 0,0:31:19.07,0:31:24.18,Default-3,,0,0,33,,别怕 我正去我前妻那儿 菲莉西娅·安德森\N{\rEng}Don't worry. I'm going to see my ex-wife, Felicia Anderson.
+Dialogue: 0,0:31:24.20,0:31:26.88,Default-3,,0,0,33,,她现在改回娘家姓戈登了\N{\rEng}I think she's back to Gordon now.
+Dialogue: 0,0:31:26.90,0:31:29.97,Default-3,,0,0,33,,她住在费恩巷19号\N{\rEng}She lives on Fern Lane, number 19.
+Dialogue: 0,0:31:29.99,0:31:33.42,Default-3,,0,0,33,,是的 我认识戈登小姐\N{\rEng}Yeah, I know Miss Gordon.
+Dialogue: 0,0:31:33.86,0:31:36.23,Default-3,,0,0,33,,你大晚上出来干嘛？\N{\rEng}What are you doing out?
+Dialogue: 0,0:31:36.61,0:31:39.95,Default-3,,0,0,33,,溜旱冰\N{\rEng}I wanted to go skating.
+Dialogue: 0,0:31:40.83,0:31:43.64,Default-3,,0,0,33,,以前我特别喜欢溜旱冰\N{\rEng}I used to love skating.
+Dialogue: 0,0:31:43.66,0:31:46.79,Default-3,,0,0,33,,那现在就该就去溜\N{\rEng}Then you should go skating.
+Dialogue: 0,0:31:47.96,0:31:49.51,Default-3,,0,0,33,,也许我真该去溜\N{\rEng}Maybe I should.
+Dialogue: 0,0:31:49.53,0:31:53.60,Default-3,,0,0,33,,你都跟戈登小姐分手了 咋还去见她？\N{\rEng}Why do you see Miss Gordon if she's your ex?
+Dialogue: 0,0:31:53.62,0:31:55.56,Default-3,,0,0,33,,我还是喜欢她\N{\rEng}I still like her.
+Dialogue: 0,0:31:55.58,0:31:58.06,Default-3,,0,0,33,,你们吵架吗？\N{\rEng}Do you fight?
+Dialogue: 0,0:31:58.15,0:31:59.96,Default-3,,0,0,33,,以前吵\N{\rEng}We used to.
+Dialogue: 0,0:32:00.94,0:32:03.05,Default-3,,0,0,33,,分手后 我们相处得更好了\N{\rEng}We get along better now that we're exes.
+Dialogue: 0,0:32:03.07,0:32:06.38,Default-3,,0,0,33,,戈登小姐有时会来送她烤的姜饼干\N{\rEng}Miss Gordon gives us gingersnap cookies sometimes.
+Dialogue: 0,0:32:06.41,0:32:08.20,Default-3,,0,0,33,,我其实更喜欢奥利奥 不过...\N{\rEng}I like Oreos better, but...
+Dialogue: 0,0:32:08.22,0:32:12.07,Default-3,,0,0,33,,就像是盒巧克力 不能每颗都合心意 对吧？\N{\rEng}That's just the way the cookie crumbles, right?
+Dialogue: 0,0:32:12.07,0:32:13.64,Default-3,,0,0,33,,姜饼干里没巧克力\N{\rEng}Gingersnaps don't crumble.
+Dialogue: 0,0:32:13.64,0:32:15.85,Default-3,,0,0,33,,除非和奥利奥一起吃...\N{\rEng}At least not until you crunch them...
+Dialogue: 0,0:32:25.22,0:32:27.54,Default-3,,0,0,33,,你抓紧回家吧\N{\rEng}You better go home, I guess.
+Dialogue: 0,0:32:29.57,0:32:32.62,Default-3,,0,0,33,,没路灯 天太黑 没法溜\N{\rEng}It's too dark for skating without streetlights.
+Dialogue: 0,0:32:33.92,0:32:37.23,Default-3,,0,0,33,,会没事吗？\N{\rEng}Is everything gonna be okay?
+Dialogue: 0,0:32:39.89,0:32:41.88,Default-3,,0,0,33,,当然会\N{\rEng}Sure it is.
+Dialogue: 0,0:32:50.58,0:32:53.13,Note,,0,0,0,,{\pos(110,110)\frz10\i1\blur0.5\1c&HCCDF97&}谢谢你\N查克！
+Dialogue: 0,0:33:16.14,0:33:17.92,Default-3,,0,0,33,,回家去\N{\rEng}Go home.
+Dialogue: 0,0:33:18.66,0:33:21.86,Default-3,,0,0,33,,回家去找你爸妈\N{\rEng}Go home to your Mom and Dad.
+Dialogue: 0,0:33:23.15,0:33:25.56,Default-3,,0,0,33,,抓紧\N{\rEng}Do it now.
+Dialogue: 0,0:34:04.41,0:34:07.45,Default-3,,0,0,33,,哦 谢天谢地 谢天谢地\N{\rEng}Oh, thank God. Oh, thank God.
+Dialogue: 0,0:34:07.84,0:34:11.64,Default-3,,0,0,33,,-谢天谢地 -这些都 都...\N{\rEng}-Thank God. -They, they just...
+Dialogue: 0,0:34:13.24,0:34:16.09,Default-3,,0,0,33,,这些都突然冒出来了\N{\rEng}They just, they just started showing up.
+Dialogue: 0,0:34:16.11,0:34:18.81,Default-3,,0,0,33,,我知道 我知道 我也看到了\N{\rEng}No, I know, I know, I saw.
+Dialogue: 0,0:34:18.90,0:34:20.97,Default-3,,0,0,33,,只是这个小区吗？\N{\rEng}Is it just here?
+Dialogue: 0,0:34:20.99,0:34:23.44,Default-3,,0,0,33,,我觉得到处都有\N{\rEng}I think it's everywhere.
+Dialogue: 0,0:34:24.90,0:34:28.33,Default-3,,0,0,33,,看起来时候到了\N{\rEng}I think it's almost...
+Dialogue: 0,0:34:32.00,0:34:33.43,Default-3,,0,0,33,,是啊\N{\rEng}Yeah...
+Dialogue: 0,0:34:34.17,0:34:36.86,Default-3,,0,0,33,,是的 时候到了\N{\rEng}Yeah, I think it's almost...
+Dialogue: 0,0:36:17.28,0:36:20.78,Default-3,,0,0,33,,这是我见过的最亮的星空\N{\rEng}It's the brightest I've ever seen the stars.
+Dialogue: 0,0:36:25.20,0:36:27.45,Default-3,,0,0,33,,看那里\N{\rEng}Just look at that.
+Dialogue: 0,0:36:29.42,0:36:32.23,Default-3,,0,0,33,,那是天鹰座\N{\rEng}There's Aquila the eagle.
+Dialogue: 0,0:36:32.25,0:36:33.68,Default-3,,0,0,33,,嗯\N{\rEng}Mm-hm.
+Dialogue: 0,0:36:34.21,0:36:35.42,Default-3,,0,0,33,,那是...\N{\rEng}There's, uh...
+Dialogue: 0,0:36:35.86,0:36:38.95,Default-3,,0,0,33,,天鹅座\N{\rEng}Cygnus the swan.
+Dialogue: 0,0:36:46.52,0:36:48.75,Default-3,,0,0,33,,你看到了吗？\N{\rEng}You see it?
+Dialogue: 0,0:37:01.67,0:37:03.97,Default-3,,0,0,33,,那是北极...\N{\rEng}And there's the North Sta...
+Dialogue: 0,0:37:07.33,0:37:09.70,Default-3,,0,0,33,,你看到刚才那个吗？\N{\rEng}Did you just see that?
+Dialogue: 0,0:37:09.72,0:37:11.34,Default-3,,0,0,33,,看到了\N{\rEng}Yeah.
+Dialogue: 0,0:37:16.42,0:37:18.72,Default-3,,0,0,33,,火星也没了\N{\rEng}There goes Mars.
+Dialogue: 0,0:37:33.53,0:37:36.51,Default-3,,0,0,33,,我好怕\N{\rEng}I'm scared.
+Dialogue: 0,0:37:38.45,0:37:40.34,Default-3,,0,0,33,,我也是\N{\rEng}I am too.
+Dialogue: 0,0:37:40.36,0:37:42.92,Default-3,,0,0,33,,没事的 亲爱的\N{\rEng}It's okay, honey.
+Dialogue: 0,0:37:44.10,0:37:46.88,Default-3,,0,0,33,,你先走一步\N{\rEng}You go on.
+Dialogue: 0,0:37:47.93,0:37:52.61,Default-3,,0,0,33,,我们到那里再重逢\N{\rEng}You go on ahead, okay?
+Dialogue: 0,0:37:55.90,0:37:59.44,Default-3,,0,0,33,,活了才39年\N{\rEng}Just thirty-nine years.
+Dialogue: 0,0:38:05.35,0:38:09.64,Default-3,,0,0,33,,是39个峥嵘岁月\N{\rEng}Thirty-nine great years.
+Dialogue: 0,0:38:15.40,0:38:18.15,Default-3,,0,0,33,,谢谢你 查克\N{\rEng}Thanks, Chuck.
+Dialogue: 0,0:38:43.07,0:38:44.42,Default-3,,0,0,33,,我爱...\N{\rEng}I love y...
+Dialogue: 0,0:38:58.13,0:39:05.69,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第二幕
+Dialogue: 0,0:39:00.50,0:39:05.69,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}街头艺人万岁
+Dialogue: 0,0:39:08.71,0:39:12.41,Default-2,,0,0,12,,多亏她那开着旧面包车的朋友麦克帮忙\N{\rEng}With the help of her friend, Mac, who has an old van,
+Dialogue: 0,0:39:12.50,0:39:15.82,Default-2,,0,0,12,,泰勒·弗兰克才能把架子鼓摆到\N{\rEng}Taylor Franck sets up her drum kit in
+Dialogue: 0,0:39:15.85,0:39:20.11,Default-2,,0,0,12,,第八街长廊上她最喜欢的那个地方\N{\rEng}her favored spot on the Eighth Street Promenade.
+Dialogue: 0,0:39:22.11,0:39:24.18,Default-2,,0,0,12,,这天是周四下午\N{\rEng}It's Thursday afternoon.
+Dialogue: 0,0:39:24.20,0:39:27.05,Default-2,,0,0,12,,这天的天气 真是绝了\N{\rEng}The weather is fucking gorgeous,
+Dialogue: 0,0:39:27.08,0:39:31.10,Default-2,,0,0,12,,街上人来人往 大家都在幻想着周末\N{\rEng}and the streets are thronged with people looking forward to the weekend,
+Dialogue: 0,0:39:31.12,0:39:34.06,Default-2,,0,0,12,,毕竟幻想总比现实好\N{\rEng}which is always better than the weekend itself.
+Dialogue: 0,0:39:34.08,0:39:36.54,Default-2,,0,0,12,,-泰勒 都差不多了吧？ -嗯 谢了\N{\rEng}-All good. Taylor? -Yeah, thanks.
+Dialogue: 0,0:39:36.56,0:39:39.50,Default-2,,0,0,12,,老铁 别忘分我一成收入\N{\rEng}Ten percent is all the thanks I want, dude.
+Dialogue: 0,0:39:39.61,0:39:45.95,Default-2,,0,0,12,,泰勒和麦克都在城堡街的心疗唱片店打零工\N{\rEng}Taylor, and Mac too, work part-time at Doctor Records on Castle Street.
+Dialogue: 0,0:39:45.98,0:39:50.15,Default-2,,0,0,12,,打赏多时 泰勒挣得差不多跟打零工一样\N{\rEng}But on a good day Taylor can make almost as much busking.
+Dialogue: 0,0:39:47.23,0:39:51.34,Note,,0,0,0,,{\pos(330,176)\shad0.5\bord0.5\1c&H586EAB&\fs20}魔 术 帽\N{\1c&H657D6D&\fs18}每笔打赏都会\N{\1c&H586EAB&\fs18\b1}精彩翻倍!
+Dialogue: 0,0:39:52.32,0:39:57.81,Default-2,,0,0,12,,{\rNote\fs13}茱莉亚学院是世界顶尖的音乐学校{\r}\N当初考上{\u1}茱莉亚{\u0}时 她爸妈可没料到她会上街打鼓\N{\rEng}Busk-drumming isn't what her parents saw for her when she enrolled at {\u1}Juilliard{\u0},
+Dialogue: 0,0:39:57.89,0:40:01.02,Default-2,,0,0,12,,更不知道她现在还辍了学\N{\rEng}and they don't know yet that she dropped out.
+Dialogue: 0,0:40:01.46,0:40:04.68,Default-2,,0,0,12,,在茱莉亚他们教你多动脑子\N{\rEng}Juilliard wanted you to think about what you were doing,
+Dialogue: 0,0:40:04.77,0:40:14.94,Default-2,,0,0,12,,在泰勒眼里 跟着鼓点走就对了 多想一下灵感就跑了\N{\rEng}but as far as Taylor is concerned, the beat is your friend and thinking is the enemy.
+Dialogue: 0,0:40:17.69,0:40:21.41,Default-2,,0,0,12,,她先热身 一开始节奏简单\N{\rEng}She starts warming up, going easy at first.
+Dialogue: 0,0:40:21.43,0:40:24.20,Default-2,,0,0,12,,节奏缓慢 不敲牛铃\N{\rEng}slow tempo, no cowbell,
+Dialogue: 0,0:40:24.40,0:40:29.60,Default-2,,0,0,12,,不在乎魔术帽空着 里面只有她自己放的钱\N{\rEng}not minding that the magic hat stays empty except for her two crumpled dollars
+Dialogue: 0,0:40:29.62,0:40:35.39,Default-2,,0,0,12,,还有个滑板小子随随便便丢进去的硬币\N{\rEng}and a quarter flipped contemptuously by a dude on a skateboard.
+Dialogue: 0,0:40:35.41,0:40:39.21,Default-2,,0,0,12,,时间还早 总能找到切入点\N{\rEng}There is time. There is a way in.
+Dialogue: 0,0:40:39.23,0:40:45.52,Default-2,,0,0,12,,找到切入点才是占最大头的乐趣\N{\rEng}Finding the in is half the fun. Maybe even most of it.
+Dialogue: 0,0:40:46.37,0:40:52.27,Default-2,,0,0,12,,珍妮丝·哈利迪在书店工作一天后正在回家\N{\rEng}Janice Halliday is on her way home from seven hours at Paper and Page,
+Dialogue: 0,0:40:52.29,0:40:55.45,Default-2,,0,0,12,,大概会去海边走走\N{\rEng}and may walk all the way to the ocean.
+Dialogue: 0,0:40:55.47,0:40:59.10,Default-2,,0,0,12,,谈了一年多的男友刚甩了她\N{\rEng}Her boyfriend of 16 months just broke up with her,
+Dialogue: 0,0:40:59.12,0:41:01.57,Default-2,,0,0,12,,随便发个消息甩了她\N{\rEng}and he did it the modern way.
+Dialogue: 0,0:40:59.17,0:41:01.70,Note,,0,0,0,,{\pos(274,108)\frz-12\fs9\1c00444444\b1}女：怎么不回我消息了？
+Dialogue: 0,0:40:59.17,0:41:01.70,Note,,0,0,0,,{\pos(274,150)\frz-13\fs9\1c00444444\b1}男：咱俩不合适
+Dialogue: 0,0:40:59.17,0:41:01.70,Note,,0,0,0,,{\pos(274,174)\frz-13\fs9\1c00444444\b1}男：你是个好人
+Dialogue: 0,0:40:59.17,0:41:01.70,Note,,0,0,0,,{\pos(256,184)\frz-13\fs9\1c00444444\b1}男：继续做朋友？？
+Dialogue: 0,0:41:01.57,0:41:02.98,Default-2,,0,0,12,,王八蛋！\N{\rEng}Motherfucker!
+Dialogue: 0,0:41:03.00,0:41:10.03,Default-2,,0,0,12,,这突如其来 犹如当头一棒把门关在脸上\N{\rEng}It was totally unexpected, like having a door slammed in your face just as you were getting ready to walk through it.
+Dialogue: 0,0:41:10.05,0:41:11.59,Default-2,,0,0,12,,-那感觉... -真他妈离谱\N{\rEng}-It was... -Fucking bullshit!
+Dialogue: 0,0:41:11.61,0:41:13.16,Default-2,,0,0,12,,...真他妈离谱\N{\rEng}...fucking bullshit.
+Dialogue: 0,0:41:13.18,0:41:17.43,Default-2,,0,0,12,,她从没动过真情 也没天真地以为自己爱过他\N{\rEng}She isn't in love with him. never even kidded herself that she was.
+Dialogue: 0,0:41:17.45,0:41:19.30,Default-2,,0,0,12,,-但依然... -他喵的糟透了\N{\rEng}-But still it... -Fucking sucks.
+Dialogue: 0,0:41:19.32,0:41:22.61,Default-2,,0,0,12,,...打她个措手不及\N{\rEng}...is a dismaying shock just the same.
+Dialogue: 0,0:41:22.63,0:41:27.65,Default-2,,0,0,12,,她打算回家后喝点酒 顺便哭一场\N{\rEng}She supposes she'll have some wine when she gets home and cry.
+Dialogue: 0,0:41:27.67,0:41:33.09,Default-2,,0,0,12,,说不定还会播个爵士乐 在屋里醉舞一番\N{\rEng}Maybe queue up one of her big band playlists and dance drunk around the room.
+Dialogue: 0,0:41:33.11,0:41:35.88,Default-2,,0,0,12,,她读高中时就爱跳舞\N{\rEng}She loved to dance in high school.
+Dialogue: 0,0:41:35.90,0:41:38.80,Default-2,,0,0,12,,也许能借此重温当年那份快乐\N{\rEng}Maybe she can recapture a little of that happiness.
+Dialogue: 0,0:41:38.82,0:41:41.03,Default-2,,0,0,12,,-去你妈的 -你说什么？\N{\rEng}-Fucking really?! -Excuse me.
+Dialogue: 0,0:41:41.05,0:41:43.52,Default-2,,0,0,12,,对不起 对不起 没说你 没说你\N{\rEng}Sorry, sorry, sorry. Not you, not you.
+Dialogue: 0,0:41:44.34,0:41:45.96,Default-2,,0,0,12,,他喵的！\N{\rEng}Fuck!
+Dialogue: 0,0:41:46.04,0:41:48.52,Default-2,,0,0,12,,查克的拿铁好了\N{\rEng}Got an oat milk latte for Chuck.
+Dialogue: 0,0:41:46.46,0:41:49.65,Note,,0,0,0,,{\pos(192,130)\frz14\1c00222222\b1}查 克  {\fs20}^{\fs12}v{\fs20}^
+Dialogue: 0,0:41:49.48,0:41:51.32,Default-2,,0,0,12,,查尔斯·查克·克兰兹\N{\rEng}Charles Krantz,
+Dialogue: 0,0:41:51.79,0:41:56.33,Default-2,,0,0,12,,在朋友眼中 他总一身会计行头\N{\rEng}Chuck to his friends, is dressed in the armor of accountancy.
+Dialogue: 0,0:41:56.35,0:41:59.95,Default-2,,0,0,12,,灰西装 蓝衬衣配蓝领带\N{\rEng}Gray suit, blue shirt, blue tie.
+Dialogue: 0,0:41:59.97,0:42:04.95,Default-2,,0,0,12,,脚上那双温莎牌皮鞋虽不贵 却耐穿\N{\rEng}His Samuel Windsor shoes are inexpensive but sturdy.
+Dialogue: 0,0:42:04.97,0:42:11.22,Default-2,,0,0,12,,他来这参加个主题为“二十一世纪银行业”的研讨会\N{\rEng}He's here for a week-long conference titled "Banking in the 21st Century."
+Dialogue: 0,0:42:11.24,0:42:14.96,Default-2,,0,0,12,,他的中西部信托银行派他来的\N{\rEng}He's been sent by his bank, Midwest Trust,
+Dialogue: 0,0:42:14.98,0:42:16.88,Default-2,,0,0,12,,全程报销\N{\rEng}all expenses paid.
+Dialogue: 0,0:42:16.90,0:42:20.75,Default-2,,0,0,12,,查克对嘉宾和座谈都挺有兴趣\N{\rEng}Chuck has enjoyed the speakers and the panels.
+Dialogue: 0,0:42:20.77,0:42:22.32,Default-2,,0,0,12,,他上过一个座谈会\N{\rEng}He was on one panel
+Dialogue: 0,0:42:22.34,0:42:27.37,Default-2,,0,0,12,,明天中午大会结束前还要再参加一个\N{\rEng}and is scheduled to be on another before the conference ends at noon tomorrow,
+Dialogue: 0,0:42:27.39,0:42:33.76,Default-2,,0,0,12,,但他可不想下班后还和那群同行混在一起\N{\rEng}but has no wish to spend his off-duty hours in the company of 70 other accountants.
+Dialogue: 0,0:42:33.78,0:42:39.12,Default-2,,0,0,12,,他精通会计的那套行话 也觉得自己能融入别的圈子\N{\rEng}He speaks their language, but likes to think he speaks others as well.
+Dialogue: 0,0:42:39.14,0:42:44.94,Default-2,,0,0,12,,至少曾经那么自信 如今却大不如前了\N{\rEng}At least he did, although some of the vocabulary is now lost.
+Dialogue: 0,0:42:44.96,0:42:51.00,Default-2,,0,0,12,,现在 他穿着他温莎牌牛津鞋正在午后散步\N{\rEng}Now, his sensible Samuel Windsor Oxfords are taking him for an afternoon walk.
+Dialogue: 0,0:42:51.02,0:42:55.05,Default-2,,0,0,12,,现在的生活没能达到最初的设想\N{\rEng}His life is narrower than the one he once hoped for,
+Dialogue: 0,0:42:55.07,0:42:57.41,Default-2,,0,0,12,,可他已经释然了\N{\rEng}but he's made peace with that.
+Dialogue: 0,0:42:57.46,0:43:02.79,Default-2,,0,0,12,,他明白水往低处流是自然规律\N{\rEng}He understands that narrowing is the natural order of things.
+Dialogue: 0,0:43:02.81,0:43:07.41,Default-2,,0,0,12,,他有个忠贞不渝的妻子叫珍妮\N{\rEng}He has a wife, Ginny, to whom he is scrupulously faithful,
+Dialogue: 0,0:43:07.43,0:43:11.54,Default-2,,0,0,12,,还有个聪明风趣的儿子上初中\N{\rEng}and an intelligent, good-humored son in middle school.
+Dialogue: 0,0:43:11.56,0:43:18.19,Default-2,,0,0,12,,他还有九个月可活 只不过他还不知道\N{\rEng}He also has only nine months to live, though he doesn't know that yet.
+Dialogue: 0,0:43:21.61,0:43:28.94,Default-2,,0,0,12,,泰勒已经敲了十分钟了 分文未得 毫无灵感\N{\rEng}Taylor has been on the job for 10 minutes now and has nothing to show for it.
+Dialogue: 0,0:43:29.97,0:43:33.91,Default-2,,0,0,12,,她看见个西装男朝她走来\N{\rEng}She sees a Mr. Businessman type coming toward her
+Dialogue: 0,0:43:33.93,0:43:36.43,Default-2,,0,0,12,,不知为何 他身上有股气息\N{\rEng}and something about him, God knows what,
+Dialogue: 0,0:43:36.45,0:43:41.52,Default-2,,0,0,12,,让泰勒忍不住大张旗鼓宣布他登场了\N{\rEng}makes Taylor want to announce his approach.
+Dialogue: 0,0:43:41.54,0:43:46.06,Default-2,,0,0,12,,她先用松弛的摇摆热场 又切换到更撩人的节奏\N{\rEng}She slips first into a reggae beat, then something slinkier.
+Dialogue: 0,0:43:46.08,0:43:50.40,Default-2,,0,0,12,,今天头一次 泰勒火花被点燃\N{\rEng}And for the first time today, Taylor feels a spark
+Dialogue: 0,0:43:50.42,0:43:54.67,Default-2,,0,0,12,,便在核心鼓点上敲着牛铃\N{\rEng}and begins to whack the cowbell on the downbeat.
+Dialogue: 0,0:43:54.69,0:43:56.10,Default-2,,0,0,12,,真带感\N{\rEng}It's pretty cool.
+Dialogue: 0,0:43:56.12,0:44:02.92,Default-2,,0,0,12,,鼓点已经到来 那律动带你一路向前\N{\rEng}The groove has arrived, and the groove is like a road you want to follow.
+Dialogue: 0,0:44:02.92,0:44:06.68,Default-2,,0,0,12,,她本可把节拍提快 玩点花样\N{\rEng}She could speed the beat up, get some tom in there,
+Dialogue: 0,0:44:06.70,0:44:12.17,Default-2,,0,0,12,,但此刻目光是那西装男 多此一举反而不搭\N{\rEng}but she's watching Mr. Businessman and that seems wrong for this dude.
+Dialogue: 0,0:44:12.19,0:44:18.69,Default-2,,0,0,12,,她以为那西装男只是路过 要去商务酒店\N{\rEng}She believes Mr. Businessman will just go on past on his way to the business hotel,
+Dialogue: 0,0:44:18.71,0:44:23.87,Default-2,,0,0,12,,等他一走 泰勒再换节拍\N{\rEng}and when he's gone, Taylor will switch to something else.
+Dialogue: 0,0:44:24.89,0:44:28.03,Default-2,,0,0,12,,可他却停下脚步\N{\rEng}But instead of floating on by...
+Dialogue: 0,0:46:45.95,0:46:47.10,Default-2,,0,0,12,,赏个脸\N{\rEng}Come on.
+Dialogue: 0,0:46:48.47,0:46:50.02,Default-2,,0,0,12,,来吧 小老妹\N{\rEng}Come on, little sister.
+Dialogue: 0,0:46:50.61,0:46:51.72,Default-2,,0,0,12,,来跳舞吧\N{\rEng}Let's dance.
+Dialogue: 0,0:46:51.74,0:46:53.26,Default-2,,0,0,12,,跳\N{\rEng}Dance.
+Dialogue: 0,0:46:56.61,0:46:58.44,Default-2,,0,0,12,,对了\N{\rEng}Yeah!
+Dialogue: 0,0:46:58.53,0:47:01.06,Default-2,,0,0,12,,我带你跳 有我别怕\N{\rEng}I'll lead you. I got you.
+Dialogue: 0,0:47:49.49,0:47:50.88,Default-2,,0,0,12,,啊\N{\rEng}Uh.
+Dialogue: 0,0:47:55.63,0:47:59.25,Default-2,,0,0,12,,没事 眼镜的事儿 眼镜的事儿\N{\rEng}It's okay. It's my glasses. It's my glasses.
+Dialogue: 0,0:49:39.86,0:49:40.99,Default-2,,0,0,12,,现在该做什么？\N{\rEng}What are we doing?
+Dialogue: 0,0:49:41.78,0:49:42.82,Default-2,,0,0,12,,我也不知道\N{\rEng}I don't know.
+Dialogue: 0,0:49:59.71,0:50:01.69,Default-2,,0,0,12,,大伙 今天就到这了\N{\rEng}No more today, folks.
+Dialogue: 0,0:50:01.88,0:50:03.48,Default-2,,0,0,12,,今天就到这了\N{\rEng}No more today.
+Dialogue: 0,0:50:03.84,0:50:07.25,Default-2,,0,0,12,,今天就到这了 得见好就收\N{\rEng}No more today. We gotta quit while we're ahead.
+Dialogue: 0,0:50:07.91,0:50:11.82,Note,,0,0,0,,{\pos(330,146)\shad0.5\bord0.5\1c&H586EAB&\fs20}魔 术 帽\N{\1c&H657D6D&\fs18}每笔打赏都会\N{\1c&H586EAB&\fs18\b1}精彩翻倍!
+Dialogue: 0,0:50:09.54,0:50:11.29,Default-2,,0,0,12,,要搭把手吗\N{\rEng}Do you need a-any help at all or...
+Dialogue: 0,0:50:11.37,0:50:12.81,Default-2,,0,0,12,,好 帮把这个收起来\N{\rEng}Here, can you, uh, take this?
+Dialogue: 0,0:50:12.89,0:50:14.42,Default-2,,0,0,12,,-好 -拧这里\N{\rEng}-Sure. -Just, just spin the thingy here.
+Dialogue: 0,0:50:14.50,0:50:16.47,Default-2,,0,0,12,,-小心别夹手了 -会雨过天晴的\N{\rEng}But watch out for your fingers. -It'll, it'll, it'll get 'em good.
+Dialogue: 0,0:50:16.55,0:50:18.30,Default-2,,0,0,12,,懂了吧\N{\rEng}you know what I mean?
+Dialogue: 0,0:50:18.37,0:50:20.50,Default-2,,0,0,12,,-好 好 -找点事散散心\N{\rEng}-Yeah, yeah. -To doing something else.
+Dialogue: 0,0:50:20.60,0:50:22.69,Default-2,,0,0,12,,刚太神奇了\N{\rEng}What just happened?
+Dialogue: 0,0:50:22.77,0:50:24.69,Default-2,,0,0,12,,跳的太神了\N{\rEng}That was incredible.
+Dialogue: 0,0:50:24.78,0:50:26.13,Default-2,,0,0,12,,你们是舞蹈演员吗？\N{\rEng}You dance for a living?
+Dialogue: 0,0:50:26.21,0:50:27.87,Default-2,,0,0,12,,哦 不 不\N{\rEng}No. Oh, no. I...
+Dialogue: 0,0:50:27.95,0:50:29.87,Default-2,,0,0,12,,-不 不是的 -你做什么的？\N{\rEng}-No, I do not, sir. -What do you do for a living?
+Dialogue: 0,0:50:29.96,0:50:31.85,Default-2,,0,0,12,,哎呦 我好像不小心搞坏了\N{\rEng}Oh, no, I think I... Did I... I didn't break it, did I?
+Dialogue: 0,0:50:31.87,0:50:34.07,Default-2,,0,0,12,,这个好像坏了\N{\rEng}I think he broke it.
+Dialogue: 0,0:50:35.31,0:50:36.84,Default-2,,0,0,12,,去喷泉吧\N{\rEng}Let's hit the pond.
+Dialogue: 0,0:50:36.92,0:50:39.17,Default-2,,0,0,12,,那儿没停车位\N{\rEng}We'll never find parking by the Common.
+Dialogue: 0,0:50:39.53,0:50:40.57,Default-2,,0,0,12,,那也要停\N{\rEng}We will today.
+Dialogue: 0,0:50:41.92,0:50:46.19,Default-2,,0,0,12,,今天 就像魔术一样\N{\rEng}Today...is magic.
+Dialogue: 0,0:50:50.67,0:50:54.47,Default-2,,0,0,12,,你们在哪练的这身舞功？\N{\rEng}Where did you learn to dance like that?
+Dialogue: 0,0:51:00.16,0:51:02.40,Default-2,,0,0,12,,别 别 别 那是你赚的\N{\rEng}Oh, no, no, no, that's yours.
+Dialogue: 0,0:51:02.42,0:51:04.01,Default-2,,0,0,12,,不 有福同享\N{\rEng}Nope, we split it even.
+Dialogue: 0,0:51:04.03,0:51:08.47,Default-2,,0,0,12,,要我自己敲 一天也赚不了这么多\N{\rEng}By myself, I wouldn't have made half as much if I drummed till midnight.
+Dialogue: 0,0:51:17.44,0:51:18.61,Default-2,,0,0,12,,你没事吧？\N{\rEng}You okay?
+Dialogue: 0,0:51:20.66,0:51:22.34,Default-2,,0,0,12,,还好\N{\rEng}Yeah.
+Dialogue: 0,0:51:23.92,0:51:26.69,Default-2,,0,0,12,,就是有点头疼\N{\rEng}Yeah. Just one of my headaches.
+Dialogue: 0,0:51:28.36,0:51:30.82,Default-2,,0,0,12,,不了 不了 真用不着 你留着吧\N{\rEng}Oh, no, no, no. Come on. I don't need it. You keep it.
+Dialogue: 0,0:51:30.84,0:51:33.26,Default-2,,0,0,12,,来吧 老兄 你应得的\N{\rEng}Come on, man, you earned it.
+Dialogue: 0,0:51:33.28,0:51:40.00,Default-2,,0,0,12,,拿去吃顿饭 转手送人也行 但这钱我偏要交给你\N{\rEng}Buy yourself dinner. Give it away. But I'm handing it to you.
+Dialogue: 0,0:51:42.64,0:51:44.40,Default-2,,0,0,12,,你们干这行都能当职业了\N{\rEng}You could do this for a living, you know?
+Dialogue: 0,0:51:44.42,0:51:46.36,Default-2,,0,0,12,,我可不敢这么说\N{\rEng}I don't know about that.
+Dialogue: 0,0:51:46.38,0:51:50.30,Default-2,,0,0,12,,我真觉得靠街头表演 我们能红 能赚大钱\N{\rEng}I really think we could busk our way to fame and fortune.
+Dialogue: 0,0:51:52.78,0:51:56.83,Default-2,,0,0,12,,你怎么会停在我面前？\N{\rEng}What made you stop in front of me?
+Dialogue: 0,0:51:58.04,0:52:01.62,Default-2,,0,0,12,,又为什么突然跳起舞？\N{\rEng}Why did you start moving?
+Dialogue: 0,0:52:01.90,0:52:08.47,Default-2,,0,0,12,,他本可以说 鼓点让他想起了他那不成气候的追旧青年乐队\N{\rEng}He could say it was because he was thinking about his old half-assed band, The Retros,
+Dialogue: 0,0:52:08.49,0:52:14.37,Default-2,,0,0,12,,还有他多么的喜欢跟着节奏跳舞\N{\rEng}and how he liked to dance across the stage during instrumental breaks.
+Dialogue: 0,0:52:14.41,0:52:16.16,Default-2,,0,0,12,,但他没这么说\N{\rEng}But that's not it.
+Dialogue: 0,0:52:19.59,0:52:21.76,Default-2,,0,0,12,,我也说不清\N{\rEng}I don't know.
+Dialogue: 0,0:52:24.50,0:52:25.96,Default-2,,0,0,12,,泰勒 该走了\N{\rEng}Taylor, we gotta roll,
+Dialogue: 0,0:52:25.98,0:52:29.45,Default-2,,0,0,12,,不然你赚的钱都得交罚单了\N{\rEng}or you're gonna end up spending your take on my parking ticket.
+Dialogue: 0,0:52:29.99,0:52:33.06,Default-2,,0,0,12,,你们不考虑转行跳舞吗？\N{\rEng}So, you guys don't want a career change?
+Dialogue: 0,0:52:33.08,0:52:34.97,Default-2,,0,0,12,,转行？\N{\rEng}Career change? How... I mean...
+Dialogue: 0,0:52:34.99,0:52:37.28,Default-2,,0,0,12,,我们肯定能闯出名堂\N{\rEng}We'll make a name for ourselves.
+Dialogue: 0,0:52:38.39,0:52:40.98,Default-2,,0,0,12,,别急着走 先进来一下\N{\rEng}You got to get in here before you go.
+Dialogue: 0,0:52:41.00,0:52:43.07,Default-2,,0,0,12,,-来个大团抱！ -哦 哦 好\N{\rEng}-Group hug. -Oh, oh, okay.
+Dialogue: 0,0:52:43.09,0:52:44.40,Default-2,,0,0,12,,-大团抱！ -来\N{\rEng}-Group hug. -Okay.
+Dialogue: 0,0:52:44.48,0:52:45.98,Default-2,,0,0,12,,快 快 快\N{\rEng}Go.
+Dialogue: 0,0:52:46.00,0:52:47.60,Default-2,,0,0,12,,来 来\N{\rEng}Come on.
+Dialogue: 0,0:52:53.88,0:52:55.86,Default-2,,0,0,12,,街头艺人万岁\N{\rEng}Buskers forever.
+Dialogue: 0,0:52:55.88,0:52:57.43,Default-2,,0,0,12,,好了 好了\N{\rEng}Yeah. Buskers forever.
+Dialogue: 0,0:52:57.45,0:53:00.69,Default-2,,0,0,12,,得赶在贴罚单前抓紧走\N{\rEng}We gotta roll before the meter maid shows up.
+Dialogue: 0,0:53:05.94,0:53:07.61,Default-2,,0,0,12,,真替你难过\N{\rEng}I'm so sorry.
+Dialogue: 0,0:53:08.07,0:53:09.31,Default-2,,0,0,12,,真倒霉\N{\rEng}That sucks.
+Dialogue: 0,0:53:09.33,0:53:11.29,Default-2,,0,0,12,,这确实倒霉\N{\rEng}It does suck.
+Dialogue: 0,0:53:11.94,0:53:13.88,Default-2,,0,0,12,,我真觉得他人还不错\N{\rEng}I thought he was a nice guy.
+Dialogue: 0,0:53:13.90,0:53:17.42,Default-2,,0,0,12,,床上功夫也到位 我们在一起挺开心的\N{\rEng}He was a pretty good lover, and we had fun and all that.
+Dialogue: 0,0:53:17.69,0:53:22.37,Default-2,,0,0,12,,我回去得找下我们跳舞的视频 估计会上热搜\N{\rEng}If I can find a video of us dancing, which I'm gonna look because I bet we go viral,
+Dialogue: 0,0:53:22.39,0:53:29.94,Default-2,,0,0,12,,然后转发给他 再附句“这就是你错过的缘分”\N{\rEng}I'm gonna send it to him with a text, a text that says, "This is what you're missing."
+Dialogue: 0,0:53:36.58,0:53:38.68,Default-2,,0,0,12,,你会没事的\N{\rEng}You're gonna be fine.
+Dialogue: 0,0:53:40.06,0:53:43.71,Default-2,,0,0,12,,我不是全都懂 可这件事我很清楚\N{\rEng}I don't know a lot, but I know that much.
+Dialogue: 0,0:53:45.41,0:53:52.64,Default-2,,0,0,12,,光辉就在你前面 往前迈一步乌云就消散\N{\rEng}You got a bright sunbeam in front of you, and you're gonna step right into it, I can tell.
+Dialogue: 0,0:53:53.07,0:53:54.24,Default-2,,0,0,12,,但现在\N{\rEng}But yeah.
+Dialogue: 0,0:53:56.38,0:53:59.35,Default-2,,0,0,12,,真倒霉 没啥好说的\N{\rEng}It sucks. Not much else to say.
+Dialogue: 0,0:54:01.64,0:54:06.02,Default-2,,0,0,12,,一切都完了 我们也只剩下句真倒霉\N{\rEng}Everything goes down the drain, and all we can say is, "That sucks."
+Dialogue: 0,0:54:06.05,0:54:07.22,Default-2,,0,0,12,,对\N{\rEng}Yeah.
+Dialogue: 0,0:54:08.04,0:54:11.94,Default-2,,0,0,12,,说不定谁都躲不掉这劫\N{\rEng}Maybe we're going down the drain too.
+Dialogue: 0,0:54:11.96,0:54:13.64,Default-2,,0,0,12,,说不定\N{\rEng}Maybe.
+Dialogue: 0,0:54:15.66,0:54:17.42,Default-2,,0,0,12,,我走这条路\N{\rEng}I'm this way.
+Dialogue: 0,0:54:19.58,0:54:22.39,Default-2,,0,0,12,,我往那边走\N{\rEng}Uh, I'm that way.
+Dialogue: 0,0:54:27.24,0:54:29.62,Default-2,,0,0,12,,多谢你陪我跳舞\N{\rEng}Thank you for the dance.
+Dialogue: 0,0:55:24.03,0:55:27.36,Default-2,,0,0,12,,当他走过泰勒摆鼓的地方\N{\rEng}As he passes the place where Taylor set up her drums,
+Dialogue: 0,0:55:27.38,0:55:31.43,Default-2,,0,0,12,,那两个问题又冒了出来\N{\rEng}those two questions recur.
+Dialogue: 0,0:55:32.30,0:55:36.28,Default-2,,0,0,12,,为什么要停下脚步听？\N{\rEng}Why did he stop to listen?
+Dialogue: 0,0:55:36.30,0:55:41.27,Default-2,,0,0,12,,又为什么要跳起舞？\N{\rEng}And why did he start to dance?
+Dialogue: 0,0:55:42.05,0:55:45.13,Default-2,,0,0,12,,他自己也想不通\N{\rEng}He doesn't know.
+Dialogue: 0,0:55:45.31,0:55:51.21,Default-2,,0,0,12,,有答案能让这回忆更动人吗？\N{\rEng}And would answers make a good thing better?
+Dialogue: 0,0:55:51.23,0:55:54.91,Default-2,,0,0,12,,后来 他走路都成问题\N{\rEng}Later, he'll lose the ability to walk,
+Dialogue: 0,0:55:54.93,0:55:59.74,Default-2,,0,0,12,,和那个小老妹跳舞成了个传说\N{\rEng}never mind dancing with little sister on the promenade.
+Dialogue: 0,0:55:59.76,0:56:04.14,Default-2,,0,0,12,,再后来 他咀嚼都成了难题\N{\rEng}Later, he'll lose the ability to chew food.
+Dialogue: 0,0:56:04.16,0:56:08.19,Default-2,,0,0,12,,再后来 他记不住妻子的名字\N{\rEng}Later, he'll forget his wife's name.
+Dialogue: 0,0:56:08.21,0:56:14.15,Default-2,,0,0,12,,到最后 他分不清白日黑夜\N{\rEng}Later, he'll lose his grip on the difference between waking and sleeping
+Dialogue: 0,0:56:14.17,0:56:23.16,Default-2,,0,0,12,,陷入一种让人质疑生命意义的巨大痛苦中\N{\rEng}and enter a land of pain so great he will wonder why God made the world.
+Dialogue: 0,0:56:23.18,0:56:30.08,Default-2,,0,0,12,,但有时 他还会记得当初把公文包一丢\N{\rEng}What he will remember, occasionally, is how he stopped and dropped his briefcase
+Dialogue: 0,0:56:30.10,0:56:34.69,Default-2,,0,0,12,,跟着鼓点起舞的感觉\N{\rEng}and began to move his hips to the beat of the drums.
+Dialogue: 0,0:56:34.71,0:56:40.83,Default-2,,0,0,12,,他会觉得 这就是上帝让世界存在的意义\N{\rEng}And he will think that is why God made the world.
+Dialogue: 0,0:56:40.85,0:56:42.93,Default-2,,0,0,12,,仅此而已\N{\rEng}Just that.
+Dialogue: 0,0:56:58.08,0:57:04.16,Note,,0,0,0,,{\pos(193,130)\fs14\fsp3\fad(300,300)}第一幕
+Dialogue: 0,0:56:59.39,0:57:04.16,Note,,0,0,0,,{\pos(193,172)\fs14\fsp3\fad(300,300)}我包罗万象
+Dialogue: 0,0:57:06.05,0:57:09.94,Default-1,,0,0,0,,查克一直盼着能有个小妹妹\N{\rEng}Chuck was looking forward to having a baby sister.
+Dialogue: 0,0:57:09.96,0:57:13.95,Default-1,,0,0,0,,更盼着父母能赶紧回来\N{\rEng}Of course, he was also looking forward to having parents,
+Dialogue: 0,0:57:13.97,0:57:22.07,Default-1,,0,0,0,,谁料95号高架上结的冰让一切化为泡影\N{\rEng}but none of that worked out thanks to a patch 95 of well-hidden ice on an I-95 overpass.
+Dialogue: 0,0:57:23.59,0:57:26.13,Default-1,,0,0,0,,事发时查克没在车上\N{\rEng}Chuck wasn't in the car when it happened
+Dialogue: 0,0:57:26.15,0:57:28.92,Default-1,,0,0,0,,他父母去享受二人世界\N{\rEng}because his parents were having a dinner date
+Dialogue: 0,0:57:28.94,0:57:32.36,Default-1,,0,0,0,,那天晚上他爷爷奶奶带他\N{\rEng}and he was being babysat by his grandparents,
+Dialogue: 0,0:57:32.38,0:57:36.27,Default-1,,0,0,0,,{\rNote\fs13}Zaydee和Bubbie是东欧犹太移民常用的祖父母称呼{\r}\N他那会儿还叫他们{\u1}阿爷阿奶{\u0}\N{\rEng}who, at the time, he was still calling {\u1}Zaydee{\u0} and {\u1}Bubbie{\u0}.
+Dialogue: 0,0:57:36.29,0:57:37.84,Default-1,,0,0,0,,他那时七岁了\N{\rEng}He was seven years old.
+Dialogue: 0,0:57:37.86,0:57:39.92,Default-1,,0,0,0,,真赞喔\N{\rEng}Excellent job.
+Dialogue: 0,0:57:40.21,0:57:46.07,Default-1,,0,0,0,,一年半载 屋子里全是悲伤\N{\rEng}For a year and a half, it was a house of unadulterated sadness.
+Dialogue: 0,0:57:46.09,0:57:50.99,Default-1,,0,0,0,,对阿尔比和莎拉·克兰兹来说 不只是儿子和儿媳没了\N{\rEng}Albie and Sarah Krantz had not only lost their son and daughter-in-law...
+Dialogue: 0,0:57:51.01,0:57:52.47,Default-1,,0,0,0,,咋不吃饭了？\N{\rEng}Why're you not eating?
+Dialogue: 0,0:57:52.49,0:57:57.07,Default-1,,0,0,0,,那本该三个月后出生的孙女也没了\N{\rEng}...they had lost the granddaughter who would've been born just three months later.
+Dialogue: 0,0:57:57.09,0:57:58.77,Default-1,,0,0,0,,咋回事儿？\N{\rEng}What's going on?
+Dialogue: 0,0:57:58.79,0:58:01.08,Default-1,,0,0,0,,名字都选好了...\N{\rEng}The name had already been picked out...
+Dialogue: 0,0:58:01.10,0:58:03.52,Default-1,,0,0,0,,-她叫艾雨莎 -艾雨莎\N{\rEng}-Her name is Alyssa. -...Alyssa.
+Dialogue: 0,0:58:03.54,0:58:07.06,Default-1,,0,0,0,,查克说那名字听着像下雨时\N{\rEng}When Chuck said that sounded to him like rain,
+Dialogue: 0,0:58:07.06,0:58:11.13,Default-1,,0,0,0,,他妈哭笑不得\N{\rEng}his mother had laughed and cried at the same time.
+Dialogue: 0,0:58:11.15,0:58:14.43,Default-1,,0,0,0,,他永远忘不了那表情\N{\rEng}He never forgot that.
+Dialogue: 0,0:58:14.85,0:58:19.80,Default-1,,0,0,0,,阿尔比靠两件事来排解悲伤\N{\rEng}Albie processed his grief by turning to his two absolutes,
+Dialogue: 0,0:58:19.82,0:58:23.19,Default-1,,0,0,0,,算账和喝酒\N{\rEng}numbers and alcohol.
+Dialogue: 0,0:58:23.21,0:58:28.11,Default-1,,0,0,0,,但对莎拉来说 一切却都失去了滋味\N{\rEng}Sarah, though, could find no joy in her usual pleasures.
+Dialogue: 0,0:58:28.13,0:58:32.98,Default-1,,0,0,0,,曾让她陶醉的音乐 艺术和美食\N{\rEng}She loved the flavors of life, music, art, and food,
+Dialogue: 0,0:58:33.00,0:58:38.50,Default-1,,0,0,0,,如今都索然无味\N{\rEng}but now, found the world quiet and gray and flavorless.
+Dialogue: 0,0:58:40.36,0:58:44.86,Default-1,,0,0,0,,随着时间流逝 家里又慢慢有了些温暖\N{\rEng}Some of the good feelings came back into the house with time.
+Dialogue: 0,0:58:44.88,0:58:48.48,Default-1,,0,0,0,,事故后全靠外卖度日\N{\rEng}There were a lot of takeout meals after the accident,
+Dialogue: 0,0:58:48.50,0:58:53.74,Default-1,,0,0,0,,但查克快十岁那年 他奶奶又重新下厨\N{\rEng}but around the time Chuck turned 10, his grandma started cooking again.
+Dialogue: 0,0:58:53.76,0:58:57.59,Default-1,,0,0,0,,她做饭时爱放摇滚乐\N{\rEng}She liked rock-and-roll while she was cooking.
+Dialogue: 0,0:58:57.61,0:59:05.60,Default-1,,0,0,0,,查克肯定觉得太潮了 可她显然乐在其中\N{\rEng}Music Chuck would've thought much too young for her, but which she clearly enjoyed.
+Dialogue: 0,0:59:22.23,0:59:27.44,Default-1,,0,0,0,,来吧 小老弟 来跳舞吧\N{\rEng}Come on, little brother, let's dance.
+Dialogue: 0,0:59:57.58,0:59:58.79,Note,,0,0,0,,{\pos(172,138)\fs13\shad0.5\bord0.5}《西区故事》
+Dialogue: 0,1:00:01.24,1:00:02.11,Note,,0,0,0,,{\pos(172,138)\fs13\shad0.5\bord0.5}《雨中曲》
+Dialogue: 0,1:00:03.60,1:00:04.73,Note,,0,0,0,,{\pos(172,138)\fs13\shad0.5\bord0.5}《歌厅》
+Dialogue: 0,1:00:07.84,1:00:08.98,Note,,0,0,0,,{\pos(172,138)\fs13\shad0.5\bord0.5}《爵士春秋》
+Dialogue: 0,1:00:13.39,1:00:15.23,Note,,0,0,0,,{\pos(172,138)\fs13\shad0.5\bord0.5}《封面女郎》
+Dialogue: 0,1:00:18.21,1:00:22.51,Note,,0,0,0,,{\pos(340,16)\fs13\shad0.5\bord0.5}电影《封面女郎》(1944)
+Dialogue: 0,1:00:22.54,1:00:27.38,Default-1,,0,0,0,,小宝 你有本事学会 你天生是跳舞的料\N{\rEng}You could learn those moves, kiddo. You're a natural.
+Dialogue: 0,1:00:27.40,1:00:28.79,Default-1,,0,0,0,,你在哪学的？\N{\rEng}Wh-Where did you learn?
+Dialogue: 0,1:00:28.81,1:00:30.64,Default-1,,0,0,0,,高中\N{\rEng}High school.
+Dialogue: 0,1:00:31.07,1:00:34.32,Default-1,,0,0,0,,你上高中的时候是什么样的？\N{\rEng}What were you like in high school?
+Dialogue: 0,1:00:34.34,1:00:36.67,Default-1,,0,0,0,,{\rNote\fs13}Kusit为希伯来语{\r}\N我可是个{\u1}小辣妹{\u0}\N{\rEng}I was a {\u1}kusit{\u0}.
+Dialogue: 0,1:00:36.69,1:00:39.21,Default-1,,0,0,0,,千万别把我这话告诉你阿爷哦\N{\rEng}But don't you tell your Zaydee I said that.
+Dialogue: 0,1:00:39.24,1:00:42.09,Default-1,,0,0,0,,他是个老古董\N{\rEng}He's old school, that one.
+Dialogue: 0,1:00:43.57,1:00:46.32,Default-1,,0,0,0,,查克守口如瓶\N{\rEng}Chuck never told.
+Dialogue: 0,1:00:46.58,1:00:50.87,Default-1,,0,0,0,,他把爷爷奶奶家处处都当自己家\N{\rEng}His grandparents' house became every inch his home
+Dialogue: 0,1:00:50.89,1:00:56.37,Default-1,,0,0,0,,除了塔尖阁楼\N{\rEng}with one exception. the cupola on the roof.
+Dialogue: 0,1:00:57.89,1:01:01.93,Default-1,,0,0,0,,查克被严令禁止进那阁楼\N{\rEng}Chuck was forbidden to go into the cupola.
+Dialogue: 0,1:01:01.93,1:01:08.36,Default-1,,0,0,0,,那是他爷爷的一条铁律 不容置疑\N{\rEng}That was his grandfather's rule, and it was absolute, emphatic.
+Dialogue: 0,1:01:08.38,1:01:11.75,Default-1,,0,0,0,,他爷爷阿尔比做事宽容\N{\rEng}Albie wasn't a stern man in other matters.
+Dialogue: 0,1:01:11.77,1:01:15.06,Default-1,,0,0,0,,平时人挺温和的\N{\rEng}He was downright gentle in most respects.
+Dialogue: 0,1:01:15.08,1:01:19.54,Default-1,,0,0,0,,偏偏在这事上绝不讲情面\N{\rEng}But on this point, he was rigid.
+Dialogue: 0,1:01:20.29,1:01:24.23,Default-1,,0,0,0,,查克可不止问过一次\N{\rEng}Chuck asked about it, of course, and more than once.
+Dialogue: 0,1:01:24.26,1:01:28.24,Default-1,,0,0,0,,那上头有什么？从高高的窗户能看到啥？\N{\rEng}What was up there? What could you see from the high window?
+Dialogue: 0,1:01:28.26,1:01:33.31,Default-1,,0,0,0,,最重要的是 为啥老是锁着？\N{\rEng}And the big question, why was the room locked?
+Dialogue: 0,1:01:33.49,1:01:34.37,Default-1,,0,0,0,,他奶奶说...\N{\rEng}Grandma said...
+Dialogue: 0,1:01:34.37,1:01:36.88,Default-1,,0,0,0,,楼上地板不结实 一踩就会坍下去\N{\rEng}Because the floor isn't safe and you might go right through it.
+Dialogue: 0,1:01:36.91,1:01:37.82,Default-1,,0,0,0,,他爷爷说...\N{\rEng}Grandpa said...
+Dialogue: 0,1:01:37.82,1:01:41.08,Default-1,,0,0,0,,由于那烂地板 屋子里空无一物\N{\rEng}There's nothing up there because of that rotten floor.
+Dialogue: 0,1:01:41.08,1:01:44.96,Default-1,,0,0,0,,你往窗外瞅 也就只能看到商场\N{\rEng}And the only thing you can see through the windows is the shopping center.
+Dialogue: 0,1:01:44.98,1:01:50.39,Default-1,,0,0,0,,他一直这么说 直到查克十一岁生日前一晚\N{\rEng}He said that until, one night, just before Chuck's 11th birthday,
+Dialogue: 0,1:01:50.42,1:01:53.10,Default-1,,0,0,0,,他才吐出部分实情\N{\rEng}when he told at least part of the truth.
+Dialogue: 0,1:01:53.10,1:01:54.79,Default-1,,0,0,0,,{\an7\i1}宇宙历年法\N{\rEng}{\i1}The cosmic calendar
+Dialogue: 0,1:01:54.81,1:01:59.54,Default-1,,0,0,0,,{\an7\i1}把宇宙的历史压缩到一本365天日历\N{\rEng}{\i1}compresses the local history of the universe into a single year.
+Dialogue: 0,1:01:59.56,1:02:02.10,Default-1,,0,0,0,,{\an7\i1}从1月1日宇宙诞生算起\N{\rEng}{\i1}If the universe began on January 1st,
+Dialogue: 0,1:02:02.12,1:02:04.87,Default-1,,0,0,0,,{\an7\i1}我们的银河系要到5月才出现\N{\rEng}{\i1}it was not until May that the Milky Way formed.
+Dialogue: 0,1:02:04.87,1:02:07.72,Default-1,,0,0,0,,俗话说酒后吐真言\N{\rEng}Drinking is not good for secrets.
+Dialogue: 0,1:02:07.74,1:02:13.16,Default-1,,0,0,0,,当儿子 儿媳还有那个名字听着像下雨的\N{\rEng}And after the death of his son, daughter-in-law, and granddaughter-to-be,
+Dialogue: 0,1:02:13.18,1:02:15.88,Default-1,,0,0,0,,未来孙女艾雨莎全都去世后\N{\rEng}Alyssa, who sounds like rain,
+Dialogue: 0,1:02:15.90,1:02:18.73,Default-1,,0,0,0,,阿尔比·克兰兹就拼命喝酒\N{\rEng}Albie Krantz drank a great deal.
+Dialogue: 0,1:02:18.73,1:02:22.43,Default-1,,0,0,0,,{\an7\i1}人类全部的历史 都在\N{\rEng}{\i1}Everything humans have ever done occurred in that bright speck
+Dialogue: 0,1:02:22.45,1:02:26.00,Default-1,,0,0,0,,{\an7\i1}这本日历的最后一天\N{\rEng}{\i1}at the lower right of the cosmic calendar.
+Dialogue: 0,1:02:26.00,1:02:31.96,Default-1,,0,0,0,,我打赌 从阁楼往外看 能看到西福商场\N{\rEng}I'll bet you could see way past the Westford Mall from the cupola.
+Dialogue: 0,1:02:31.98,1:02:37.36,Default-1,,0,0,0,,整座小镇肯定也能看得一清二楚\N{\rEng}You gotta be able to see the whole town from up there, I bet.
+Dialogue: 0,1:02:37.38,1:02:43.71,Default-1,,0,0,0,,要真上去了 你看见的可不只是风景\N{\rEng}If you went up there, you might see a lot more than you wanted.
+Dialogue: 0,1:02:43.73,1:02:46.20,Default-1,,0,0,0,,小查 这门紧锁是有原因的\N{\rEng}That's why it's locked, Chucko.
+Dialogue: 0,1:02:46.20,1:02:49.37,Default-1,,0,0,0,,{\an7\i1}日历里每个月代表12.5亿年\N{\rEng}{\i1}Every month is one and a quarter billion years long.
+Dialogue: 0,1:02:49.39,1:02:52.20,Default-1,,0,0,0,,{\an7\i1}每一天代表4000万年\N{\rEng}{\i1}Each day represents 40 million years.
+Dialogue: 0,1:02:52.20,1:02:55.21,Default-1,,0,0,0,,他想问清楚\N{\rEng}He wanted to ask what Grandpa meant.
+Dialogue: 0,1:02:55.35,1:02:59.16,Default-1,,0,0,0,,尽管他才10岁\N{\rEng}But the adult part of him, not there in person, no, not at 10,
+Dialogue: 0,1:02:59.18,1:03:04.07,Default-1,,0,0,0,,可脑子里的成熟声音冒出来\N{\rEng}but something that had begun to speak on rare occasions,
+Dialogue: 0,1:03:04.09,1:03:11.16,Default-1,,0,0,0,,告诉他别吭声 安静地等着\N{\rEng}told him to be quiet. Be quiet and wait.
+Dialogue: 0,1:03:11.16,1:03:16.22,Default-1,,0,0,0,,{\an7\i1}人类的全部历史就像我手掌那么大\N{\rEng}{\i1}But all of human history would occupy an area the size of my hand.
+Dialogue: 0,1:03:16.24,1:03:21.29,Default-1,,0,0,0,,{\an7\i1}现在让我们回到太古时代...\N{\rEng}{\i1}We're just beginning to trace the long and tortuous path which began with the primeval...
+Dialogue: 0,1:03:21.38,1:03:24.49,Default-1,,0,0,0,,你知道这房子是什么风格的吗？\N{\rEng}You know what style of house this is?
+Dialogue: 0,1:03:24.51,1:03:26.01,Default-1,,0,0,0,,维多利亚风格\N{\rEng}Victorian.
+Dialogue: 0,1:03:26.03,1:03:27.79,Default-1,,0,0,0,,没错\N{\rEng}That's right.
+Dialogue: 0,1:03:28.34,1:03:34.37,Default-1,,0,0,0,,可不是仿古的 1885年建的正经维多利亚式\N{\rEng}And not pretend Victorian either. It was built in 1885.
+Dialogue: 0,1:03:34.39,1:03:37.42,Default-1,,0,0,0,,后来翻新过大概六次吧\N{\rEng}It's been remodeled half a dozen times since.
+Dialogue: 0,1:03:37.44,1:03:42.34,Default-1,,0,0,0,,可那阁楼一直保留至今\N{\rEng}But that cupola was there from the start.
+Dialogue: 0,1:03:42.36,1:03:44.86,Default-1,,0,0,0,,我七十年代初搬来\N{\rEng}Been here since '71.
+Dialogue: 0,1:03:44.88,1:03:50.31,Default-1,,0,0,0,,搬来至今 我上那阁楼都没到六次\N{\rEng}And in all those years, I haven't been up to that damn cupola half a dozen times.
+Dialogue: 0,1:03:50.33,1:03:52.95,Default-1,,0,0,0,,因为地板烂了？\N{\rEng}'Cause the floor is rotted?
+Dialogue: 0,1:03:53.76,1:03:56.82,Default-1,,0,0,0,,因为闹鬼\N{\rEng}'Cause it's full of ghosts.
+Dialogue: 0,1:03:57.24,1:04:00.49,Default-1,,0,0,0,,{\an7\i1}...发生在12月31日的晚上10点30分\N{\rEng}{\i1}...around 10:30 p.m. on December 31st.
+Dialogue: 0,1:04:00.94,1:04:03.27,Default-1,,0,0,0,,-还记得圣诞述异那个故事吗？ -嗯\N{\rEng}-Y-You remember Scrooge? -Yeah.
+Dialogue: 0,1:04:03.29,1:04:04.95,Default-1,,0,0,0,,那部叫做《圣诞欢歌》的电影？\N{\rEng}That Scrooge movie we watched?
+Dialogue: 0,1:04:04.97,1:04:06.27,Default-1,,0,0,0,,记得\N{\rEng}I remember.
+Dialogue: 0,1:04:06.29,1:04:09.93,Default-1,,0,0,0,,你觉得那算鬼故事吗？\N{\rEng}Do you think of that as a ghost story?
+Dialogue: 0,1:04:09.95,1:04:11.63,Default-1,,0,0,0,,应该算吧\N{\rEng}I-I-I guess so.
+Dialogue: 0,1:04:11.65,1:04:15.34,Default-1,,0,0,0,,有人说那是鬼故事\N{\rEng}Heard someone say it was a ghost story.
+Dialogue: 0,1:04:16.87,1:04:19.74,Default-1,,0,0,0,,他吓的说“圣诞节未卜先知”\N{\rEng}Christmas Yet to Come.
+Dialogue: 0,1:04:19.74,1:04:24.62,Default-1,,0,0,0,,{\an7\i1}晚上11点59分20秒...\N{\rEng}{\i1}11:59:20, evening, last day of the...
+Dialogue: 0,1:04:24.70,1:04:28.86,Default-1,,0,0,0,,杰弗里家那男孩一个月后就没了\N{\rEng}Jefferies boy was a month later.
+Dialogue: 0,1:04:28.88,1:04:39.74,Default-1,,0,0,0,,亨利·彼得森拖得久些 等了四五年\N{\rEng}Henry Peterson, that took longer. Four...maybe five years on.
+Dialogue: 0,1:04:39.76,1:04:47.52,Default-1,,0,0,0,,到那时 阁楼里看到的 我几乎忘得精光\N{\rEng}And by then...I almost forgot what I saw up there.
+Dialogue: 0,1:04:47.55,1:04:50.40,Default-1,,0,0,0,,几乎\N{\rEng}Almost.
+Dialogue: 0,1:04:51.93,1:04:56.63,Default-1,,0,0,0,,我说过再也不上去\N{\rEng}Said I'd never go back up there after that.
+Dialogue: 0,1:04:56.65,1:05:03.12,Default-1,,0,0,0,,真不想上去 要不是为了莎拉\N{\rEng}And I wish I hadn't because of Sarah.
+Dialogue: 0,1:05:03.52,1:05:08.51,Default-1,,0,0,0,,为了你的阿奶 小查\N{\rEng}Because of your Bubbie, Chucky.
+Dialogue: 0,1:05:08.53,1:05:12.43,Default-1,,0,0,0,,最疼你的阿奶\N{\rEng}Your sweet Bubbie.
+Dialogue: 0,1:05:12.45,1:05:15.34,Default-1,,0,0,0,,都是面包\N{\rEng}And the bread.
+Dialogue: 0,1:05:15.36,1:05:19.94,Default-1,,0,0,0,,{\an7\i1}我们听说过的所有人...\N{\rEng}{\i1}Every person we've ever heard of, somewhere in there...
+Dialogue: 0,1:05:20.02,1:05:23.88,Default-1,,0,0,0,,这就是等待 小查\N{\rEng}It's the waiting, Chucko.
+Dialogue: 0,1:05:24.11,1:05:26.20,Default-1,,0,0,0,,这是最难熬的\N{\rEng}That's the hard part.
+Dialogue: 0,1:05:26.20,1:05:28.96,Default-1,,0,0,0,,{\an7\i1}所有历史书上的事 都只...\N{\rEng}{\i1}Everything in the history books happended...
+Dialogue: 0,1:05:29.00,1:05:34.16,Default-1,,0,0,0,,{\an7\i1}发生在这本日历最后10秒钟里\N{\rEng}{\i1}here in the last 10 seconds of the cosmic calendar.
+Dialogue: 0,1:05:34.18,1:05:37.51,Default-1,,0,0,0,,呜 外面真冷\N{\rEng}Ooh! It's getting cold out there.
+Dialogue: 0,1:05:37.53,1:05:41.16,Default-1,,0,0,0,,维拉向大家问好 还谢我煲的汤\N{\rEng}Vera says hi. She says thanks for the soup.
+Dialogue: 0,1:05:41.18,1:05:44.28,Default-1,,0,0,0,,她把八卦全抖给我 抖得可带劲了\N{\rEng}She laid the gossip on me, laid it good.
+Dialogue: 0,1:05:44.30,1:05:47.35,Default-1,,0,0,0,,当然 要不然咱咋离不开她呢\N{\rEng}Of course...That's why we have a Vera, isn't it?
+Dialogue: 0,1:05:47.37,1:05:49.38,Default-1,,0,0,0,,有什么新鲜事吗？\N{\rEng}So, what's the latest?
+Dialogue: 0,1:05:49.40,1:05:54.73,Default-1,,0,0,0,,不知道你听说了没 凯伦和马蒂在搞婚姻咨询\N{\rEng}Well, I don't know if you've heard, but Trish is saying Karen and Matty are in therapy.
+Dialogue: 0,1:05:54.75,1:05:57.67,Default-1,,0,0,0,,-搞什么？ -阿爷 亨利·彼得森到底是谁？\N{\rEng}-Again. -Who's Henry Peterson, Zaydee?
+Dialogue: 0,1:05:57.67,1:06:03.00,Default-1,,0,0,0,,{\an7\i1}...珍惜我们的宇宙 不要辜负这150亿年\N{\rEng}{\i1}...the universe that made us or we can squander our 15 billion-year heritage.
+Dialogue: 0,1:06:03.02,1:06:05.08,Default-1,,0,0,0,,再买点煎饼粉\N{\rEng}And get some pancake mix.
+Dialogue: 0,1:06:05.11,1:06:07.77,Default-1,,0,0,0,,要黄盒的 别买橙盒的 都记住了吗？\N{\rEng}Yellow box, not the orange box. You got all that?
+Dialogue: 0,1:06:07.80,1:06:09.18,Default-1,,0,0,0,,记住了\N{\rEng}I got it.
+Dialogue: 0,1:06:09.20,1:06:11.96,Default-1,,0,0,0,,-要我写下来吗？ -我记得住\N{\rEng}-Do you need me to write it down? -I got it.
+Dialogue: 0,1:06:11.98,1:06:15.30,Default-1,,0,0,0,,别开车 走路去能醒醒酒\N{\rEng}Don't you think about driving. The walk will sober you up.
+Dialogue: 0,1:06:15.33,1:06:17.78,Default-1,,0,0,0,,好 好 好\N{\rEng}Yeah, yeah, yeah.
+Dialogue: 0,1:06:34.74,1:06:37.47,Default-1,,0,0,0,,他去便利店了 一会儿就回来\N{\rEng}He'll be back with some groceries.
+Dialogue: 0,1:06:37.49,1:06:43.34,Default-1,,0,0,0,,要不今晚一起烤棉花糖？\N{\rEng}Then, how about tonight, we do some s'mores in the fireplace?
+Dialogue: 0,1:06:43.36,1:06:44.57,Default-1,,0,0,0,,随便\N{\rEng}Yeah.
+Dialogue: 0,1:06:44.60,1:06:47.01,Default-1,,0,0,0,,好吧\N{\rEng}Yeah.
+Dialogue: 0,1:06:47.37,1:06:51.05,Default-1,,0,0,0,,他是不是跟你说闹鬼的事了？\N{\rEng}Was he blabbing to you about his ghosts?
+Dialogue: 0,1:06:51.08,1:06:54.55,Default-1,,0,0,0,,阁楼里闹鬼的事？\N{\rEng}The ones that live in the cupola?
+Dialogue: 0,1:06:54.90,1:06:56.49,Default-1,,0,0,0,,是呀\N{\rEng}Yeah.
+Dialogue: 0,1:06:56.64,1:06:59.70,Default-1,,0,0,0,,是真的吗？\N{\rEng}Well, are there?
+Dialogue: 0,1:07:00.07,1:07:02.40,Default-1,,0,0,0,,你说呢？\N{\rEng}What do you think?
+Dialogue: 0,1:07:02.42,1:07:05.06,Default-1,,0,0,0,,别太信你阿爷\N{\rEng}I wouldn't pay too much attention to Zaydee.
+Dialogue: 0,1:07:05.08,1:07:11.60,Default-1,,0,0,0,,他人不错 就是有时喝得太多\N{\rEng}He's a good man. But, sometimes, well, sometimes, he drinks too much.
+Dialogue: 0,1:07:11.63,1:07:14.77,Default-1,,0,0,0,,喝多了就会天马行空 你懂他那一套\N{\rEng}Then he rides his hobby horses. I'm sure you know what I'm talking about.
+Dialogue: 0,1:07:14.80,1:07:18.73,Default-1,,0,0,0,,杰弗里家男孩是谁？\N{\rEng}Who was the Jefferies boy?
+Dialogue: 0,1:07:21.40,1:07:26.11,Default-1,,0,0,0,,好吧 小宝 那是件让人心酸的事\N{\rEng}Well...that was a very sad thing, kiddo.
+Dialogue: 0,1:07:26.37,1:07:28.78,Default-1,,0,0,0,,他住旁边那巷子\N{\rEng}He lived on the next block over,
+Dialogue: 0,1:07:28.80,1:07:34.31,Default-1,,0,0,0,,追球追到马路上结果被车撞了\N{\rEng}and he got hit by a car when he chased a ball into the street.
+Dialogue: 0,1:07:34.33,1:07:37.81,Default-1,,0,0,0,,那是很久前的事儿了\N{\rEng}It happened a long time ago.
+Dialogue: 0,1:07:38.68,1:07:45.80,Default-1,,0,0,0,,要是你爷爷说他提前见过那一幕 他并没有\N{\rEng}And if your grandpa says he saw it before it happened, he's mistaken.
+Dialogue: 0,1:07:47.38,1:07:51.80,Default-1,,0,0,0,,那只是他酒后乱说\N{\rEng}He just drinks too much.
+Dialogue: 0,1:08:00.61,1:08:05.29,Default-1,,0,0,0,,要不我帮你送到史坦利奶奶那儿？\N{\rEng}You know, I could take those to Mrs. Stanley if you want.
+Dialogue: 0,1:08:05.31,1:08:09.90,Default-1,,0,0,0,,哎呀 你真贴心 维拉看到你肯定特开心\N{\rEng}Oh, that's very thoughtful of you. I bet Vera'd love that.
+Dialogue: 0,1:08:11.89,1:08:13.48,Default-1,,0,0,0,,简直绝了\N{\rEng}Just wonderful.
+Dialogue: 0,1:08:13.50,1:08:15.51,Default-1,,0,0,0,,你奶奶真是个烘焙大师\N{\rEng}Your, your grandmother is an artist.
+Dialogue: 0,1:08:15.54,1:08:18.31,Default-1,,0,0,0,,谢谢你带来 你主动要来送的吧？\N{\rEng}Thank you for bringing them over. Was that your idea?
+Dialogue: 0,1:08:18.33,1:08:20.05,Default-1,,0,0,0,,-说实话哦 -是的\N{\rEng}-Be honest. -It was.
+Dialogue: 0,1:08:20.07,1:08:22.70,Default-1,,0,0,0,,要喝茶吗？\N{\rEng}Well, can I make you a cup of tea?
+Dialogue: 0,1:08:22.72,1:08:27.39,Default-1,,0,0,0,,其实我不喝茶 有杯牛奶就完美了\N{\rEng}Um, I don't drink tea, but, um, I wouldn't mind a glass of milk.
+Dialogue: 0,1:08:28.67,1:08:31.10,Default-1,,0,0,0,,你奶奶真是个大好人\N{\rEng}Well, your grandmother's a saint.
+Dialogue: 0,1:08:31.13,1:08:32.47,Default-1,,0,0,0,,你爷爷呢？\N{\rEng}And what about your granddad?
+Dialogue: 0,1:08:32.47,1:08:34.65,Default-1,,0,0,0,,他背上那东西去检查了吗？\N{\rEng}Did he have that thing on his back looked at?
+Dialogue: 0,1:08:34.68,1:08:37.15,Default-1,,0,0,0,,嗯 医生拿掉了 还做了化验\N{\rEng}Yeah, the, the doctor took it off and had it tested.
+Dialogue: 0,1:08:37.17,1:08:38.85,Default-1,,0,0,0,,全告诉我\N{\rEng}Tell me everything.
+Dialogue: 0,1:08:38.87,1:08:41.55,Default-1,,0,0,0,,不是坏的那种\N{\rEng}It wasn't one of the bad ones.
+Dialogue: 0,1:08:41.57,1:08:43.29,Default-1,,0,0,0,,谢天谢地\N{\rEng}Thank God for that.
+Dialogue: 0,1:08:43.31,1:08:44.78,Default-1,,0,0,0,,嗯\N{\rEng}Yeah.
+Dialogue: 0,1:08:45.88,1:08:52.60,Default-1,,0,0,0,,他跟奶奶聊那个叫亨利·彼得森的人\N{\rEng}He, um, he was talking to Grandma about someone named Henry Peterson.
+Dialogue: 0,1:08:52.62,1:08:53.91,Default-1,,0,0,0,,太惨了\N{\rEng}So awful.
+Dialogue: 0,1:08:53.93,1:08:57.35,Default-1,,0,0,0,,亨利跟你爷爷一样是管账的\N{\rEng}You know, Henry was a bookkeeper, just like your granddad.
+Dialogue: 0,1:08:57.37,1:09:00.75,Default-1,,0,0,0,,还接了镇上你阿爷扛不下的活儿...\N{\rEng}He did a lot of the other businesses in town. The ones that your Zaydee didn't do...
+Dialogue: 0,1:09:00.78,1:09:03.17,Default-1,,0,0,0,,到底怎么回事？\N{\rEng}How did it happen?
+Dialogue: 0,1:09:04.69,1:09:06.75,Default-1,,0,0,0,,这种事你还是别听了\N{\rEng}I don't think you want to hear about that stuff.
+Dialogue: 0,1:09:06.77,1:09:11.55,Default-1,,0,0,0,,呃 爷爷说 说那很平和\N{\rEng}Um, w-w-well, Granddad said it was, uh, peaceful.
+Dialogue: 0,1:09:11.57,1:09:13.27,Default-1,,0,0,0,,平和？\N{\rEng}Peaceful?
+Dialogue: 0,1:09:13.29,1:09:16.19,Default-1,,0,0,0,,他自尽了 上吊的\N{\rEng}He killed himself. Hung himself.
+Dialogue: 0,1:09:16.21,1:09:19.89,Default-1,,0,0,0,,他老婆跟个刚满十八的小伙子私奔了\N{\rEng}His wife, you see, she ran off with this younger man, barely old enough to vote.
+Dialogue: 0,1:09:19.91,1:09:23.46,Default-1,,0,0,0,,她自己都四十多了 你怎么看？\N{\rEng}And she was in her 40s. What do you think of that?
+Dialogue: 0,1:09:23.48,1:09:25.03,Default-1,,0,0,0,,-天哪 -对 可不是\N{\rEng}-Wow. -Damn right, wow.
+Dialogue: 0,1:09:25.05,1:09:28.88,Default-1,,0,0,0,,我还听说...\N{\rEng}And then, I heard that...
+Dialogue: 0,1:09:33.02,1:09:36.18,Default-1,,0,0,0,,学校那边有什么新鲜事？\N{\rEng}What's happening at school?
+Dialogue: 0,1:09:36.20,1:09:38.47,Default-1,,0,0,0,,谁和谁在亲亲啦？\N{\rEng}Who's smooching who?
+Dialogue: 0,1:09:38.50,1:09:43.78,Default-1,,0,0,0,,放心说吧 无人能闻得见 我只多留片刻\N{\rEng}"Talk honestly, for no one else hears you and I stay only a minute longer."
+Dialogue: 0,1:09:43.80,1:09:46.79,Default-1,,0,0,0,,我是否自相矛盾？\N{\rEng}"Do I contradict myself?
+Dialogue: 0,1:09:46.81,1:09:51.57,Default-1,,0,0,0,,好吧 那我就自相矛盾\N{\rEng}"Very well then, I contradict myself,"
+Dialogue: 0,1:09:51.59,1:09:56.01,Default-1,,0,0,0,,我心疆无限 我包罗万象\N{\rEng}"I am large. I contain multitudes."
+Dialogue: 0,1:09:56.03,1:09:58.32,Default-1,,0,0,0,,六年级的最后一堂课上\N{\rEng}On the last day of sixth grade,
+Dialogue: 0,1:09:58.34,1:10:04.54,Default-1,,0,0,0,,那位小清新气息 管不住课堂的理查兹老师\N{\rEng}Miss Richards, a sweet, hippie-dippyish young woman who had no command of discipline
+Dialogue: 0,1:10:04.56,1:10:09.42,Default-1,,0,0,0,,怕是很快就要被劝退\N{\rEng}and would probably not last long in the public education system,
+Dialogue: 0,1:10:09.44,1:10:17.77,Default-1,,0,0,0,,还是在查克班上照念惠特曼《自我之歌》的诗\N{\rEng}tried to recite for Chuck's class some verse of Walt Whitman's "Song of Myself."
+Dialogue: 0,1:10:17.79,1:10:21.26,Default-1,,0,0,0,,若最初寻我不得 莫失信心\N{\rEng}"Failing to fetch me at first keep encouraged.
+Dialogue: 0,1:10:21.28,1:10:25.44,Default-1,,0,0,0,,错过此处 再觅它方\N{\rEng}Missing me one place, search another."
+Dialogue: 0,1:10:37.33,1:10:40.14,Default-1,,0,0,0,,这节课还算顺利 对吧？\N{\rEng}That went well, don't you think?
+Dialogue: 0,1:10:40.16,1:10:43.83,Default-1,,0,0,0,,嗯 让您为难了\N{\rEng}Yeah, I'm, I'm sorry about that.
+Dialogue: 0,1:10:44.39,1:10:54.38,Default-1,,0,0,0,,惠特曼那句“我心疆无限 我包罗万象”是啥意思？\N{\rEng}What does he mean when he says, "I am large, I contain multitudes"?
+Dialogue: 0,1:10:54.40,1:10:56.73,Default-1,,0,0,0,,你觉得他想表达什么？\N{\rEng}What do you think he means?
+Dialogue: 0,1:10:56.75,1:10:59.09,Default-1,,0,0,0,,包罗他认识的所有人\N{\rEng}All the people he knows.
+Dialogue: 0,1:10:59.11,1:11:00.52,Default-1,,0,0,0,,对\N{\rEng}Yes.
+Dialogue: 0,1:11:00.88,1:11:04.05,Default-1,,0,0,0,,但也许不止于此\N{\rEng}But maybe he means even more.
+Dialogue: 0,1:11:04.08,1:11:07.87,Default-1,,0,0,0,,来 过来\N{\rEng}Here. Come here.
+Dialogue: 0,1:11:09.32,1:11:11.78,Default-1,,0,0,0,,我的两手之间 那里有什么？\N{\rEng}What's in there? Between my hands?
+Dialogue: 0,1:11:11.81,1:11:13.57,Default-1,,0,0,0,,我头\N{\rEng}My brain.
+Dialogue: 0,1:11:13.59,1:11:16.79,Default-1,,0,0,0,,不 不是这个意思\N{\rEng}No, um, that's not exactly what I mean.
+Dialogue: 0,1:11:16.81,1:11:22.01,Default-1,,0,0,0,,我是说 在我两手之间 里面装的是什么\N{\rEng}What's in there? Right between my hands right now.
+Dialogue: 0,1:11:22.03,1:11:23.18,Default-1,,0,0,0,,我不知道\N{\rEng}I don't know.
+Dialogue: 0,1:11:23.20,1:11:26.26,Default-1,,0,0,0,,里面有你认识的所有人吗？\N{\rEng}All the people you know?
+Dialogue: 0,1:11:26.28,1:11:27.80,Default-1,,0,0,0,,有吧\N{\rEng}I guess.
+Dialogue: 0,1:11:27.82,1:11:31.78,Default-1,,0,0,0,,就只有你认识的人吗？\N{\rEng}Just the people you know?
+Dialogue: 0,1:11:31.80,1:11:36.46,Default-1,,0,0,0,,里面是你见过的记住的一切\N{\rEng}Everything you see. Everything you know.
+Dialogue: 0,1:11:36.48,1:11:38.57,Default-1,,0,0,0,,是整个世界 查克\N{\rEng}The world, Chuck.
+Dialogue: 0,1:11:38.59,1:11:41.29,Default-1,,0,0,0,,天上的飞机 地上的井盖\N{\rEng}Planes in the sky. Manhole covers in the street.
+Dialogue: 0,1:11:41.31,1:11:44.43,Default-1,,0,0,0,,年复一年 你脑海中的世界\N{\rEng}Every year that you live, that world inside your head
+Dialogue: 0,1:11:44.45,1:11:49.13,Default-1,,0,0,0,,会越来越大 越鲜明 越丰富 越复杂\N{\rEng}will get bigger and brighter and more detailed and complex.
+Dialogue: 0,1:11:49.15,1:11:52.78,Default-1,,0,0,0,,你会在脑海中构建城市 国家 大陆\N{\rEng}You will build cities and countries and continents,
+Dialogue: 0,1:11:52.80,1:11:57.65,Default-1,,0,0,0,,并用真实和想象的人去充实那里\N{\rEng}and you will fill them with people and faces, real and imagined.
+Dialogue: 0,1:11:57.67,1:12:00.07,Default-1,,0,0,0,,明白了吗？\N{\rEng}Do you understand?
+Dialogue: 0,1:12:00.09,1:12:01.79,Default-1,,0,0,0,,别就此止步\N{\rEng}Don't stop there.
+Dialogue: 0,1:12:01.81,1:12:06.24,Default-1,,0,0,0,,把你见过的 认识的\N{\rEng}You fill the whole thing with everyone you ever meet,
+Dialogue: 0,1:12:06.27,1:12:11.75,Default-1,,0,0,0,,甚至想象的每个人都给装进去\N{\rEng}everyone you ever know, everyone you ever just imagine.
+Dialogue: 0,1:12:11.78,1:12:14.76,Default-1,,0,0,0,,它就变成了个小宇宙\N{\rEng}It'll be a universe.
+Dialogue: 0,1:12:14.78,1:12:20.33,Default-1,,0,0,0,,整个宇宙就在我两手之间\N{\rEng}A whole universe right between my hands.
+Dialogue: 0,1:12:20.35,1:12:25.85,Default-1,,0,0,0,,你能包罗万象\N{\rEng}You contain multitudes.
+Dialogue: 0,1:12:26.18,1:12:27.96,Default-1,,0,0,0,,那\N{\rEng}So...
+Dialogue: 0,1:12:29.01,1:12:33.26,Default-1,,0,0,0,,那个宇宙会怎样 要是有人\N{\rEng}what happens to that universe if someone...
+Dialogue: 0,1:12:33.28,1:12:35.44,Default-1,,0,0,0,,比如说\N{\rEng}I don't know,
+Dialogue: 0,1:12:35.46,1:12:41.79,Default-1,,0,0,0,,在冰面上打滑 冲下高架桥 或者\N{\rEng}hits a patch of ice and goes off an overpass or...
+Dialogue: 0,1:12:41.94,1:12:44.79,Default-1,,0,0,0,,别太纠结这些\N{\rEng}Don't worry too much about those things.
+Dialogue: 0,1:12:44.81,1:12:50.32,Default-1,,0,0,0,,只要记住 你包罗万象 查克\N{\rEng}Just remember that you contain multitudes, Chuck.
+Dialogue: 0,1:12:50.34,1:12:53.77,Default-1,,0,0,0,,这多棒啊\N{\rEng}Isn't that wonderful?
+Dialogue: 0,1:12:54.17,1:12:56.45,Default-1,,0,0,0,,好了 就这样 你真是个好孩子\N{\rEng}Now, go on. You were such a good boy.
+Dialogue: 0,1:12:56.48,1:13:00.41,Default-1,,0,0,0,,能教你我很开心\N{\rEng}I've really enjoyed having you in class.
+Dialogue: 0,1:13:20.15,1:13:24.44,Default-1,,0,0,0,,查克暑假本来过得挺好 直到八月\N{\rEng}Chuck did enjoy his summer until August,
+Dialogue: 0,1:13:24.46,1:13:27.69,Default-1,,0,0,0,,他阿奶去世了\N{\rEng}when Bubbie died.
+Dialogue: 0,1:13:30.40,1:13:33.40,Default-1,,0,0,0,,事情发生在街角的便利店里\N{\rEng}It happened at the grocery store down the street,
+Dialogue: 0,1:13:33.43,1:13:37.15,Default-1,,0,0,0,,公开场合 有点不太体面\N{\rEng}in public, which was a little undignified,
+Dialogue: 0,1:13:37.17,1:13:41.25,Default-1,,0,0,0,,至少这种死法能让人安心地说...\N{\rEng}but at least it was the kind of death where people can safely say...
+Dialogue: 0,1:13:41.28,1:13:44.07,Default-1,,0,0,0,,幸好她一生没受什么罪\N{\rEng}Thank God she didn't suffer.
+Dialogue: 0,1:13:44.09,1:13:45.56,Default-1,,0,0,0,,至于那句...\N{\rEng}The other standby...
+Dialogue: 0,1:13:45.58,1:13:47.39,Default-1,,0,0,0,,她一生又长又圆满\N{\rEng}She had a long, full life.
+Dialogue: 0,1:13:47.41,1:13:50.16,Default-1,,0,0,0,,就说不准了\N{\rEng}...was more of a gray area.
+Dialogue: 0,1:13:50.18,1:13:54.62,Default-1,,0,0,0,,毕竟她才六十多岁\N{\rEng}Sarah Krantz had yet to reach her mid-60s.
+Dialogue: 0,1:13:57.03,1:14:03.72,Default-1,,0,0,0,,又一次 家里再次陷入彻底的悲伤\N{\rEng}Once more, the house on Pilchard Street was one of unadulterated sadness.
+Dialogue: 0,1:14:04.11,1:14:07.80,Default-1,,0,0,0,,阿尔比戴上了黑纱 越发消瘦\N{\rEng}Albie wore his mourning band, and lost weight,
+Dialogue: 0,1:14:07.83,1:14:10.22,Default-1,,0,0,0,,也不再讲笑话了\N{\rEng}and stopped telling his jokes
+Dialogue: 0,1:14:10.24,1:14:14.93,Default-1,,0,0,0,,比他实际七十岁还显老\N{\rEng}and began to look older than his 70 years.
+Dialogue: 0,1:14:21.35,1:14:24.37,Default-1,,0,0,0,,-就买这点？ -嗯\N{\rEng}-That's it? -Yeah.
+Dialogue: 0,1:14:24.39,1:14:26.98,Default-1,,0,0,0,,一块七毛五\N{\rEng}Buck 75.
+Dialogue: 0,1:14:28.39,1:14:35.34,Default-1,,0,0,0,,几周前来的那个女士 就是后来去世的那位\N{\rEng}Um, that lady who was in here a few weeks ago, the one who died.
+Dialogue: 0,1:14:35.36,1:14:38.78,Default-1,,0,0,0,,事情发生在哪儿？\N{\rEng}Where was she when it happened?
+Dialogue: 0,1:14:38.80,1:14:42.38,Default-1,,0,0,0,,小朋友 这话题有点吓人\N{\rEng}That's a little creepy, kid.
+Dialogue: 0,1:14:42.41,1:14:45.43,Default-1,,0,0,0,,她是我奶奶\N{\rEng}She was my grandma.
+Dialogue: 0,1:14:46.02,1:14:48.06,Default-1,,0,0,0,,她当时想拿面包\N{\rEng}She was getting a loaf of bread.
+Dialogue: 0,1:14:48.08,1:14:52.62,Default-1,,0,0,0,,结果把整排货架都拽倒砸她身上了\N{\rEng}Pulled down almost everything on the shelf when she collapsed.
+Dialogue: 0,1:14:52.64,1:14:57.25,Default-1,,0,0,0,,要是我说多了 你别介意\N{\rEng}I'm sorry if that's too much information.
+Dialogue: 0,1:14:57.77,1:14:59.63,Default-1,,0,0,0,,没事\N{\rEng}Nah.
+Dialogue: 0,1:15:00.51,1:15:03.72,Default-1,,0,0,0,,我早知道了\N{\rEng}I already knew that.
+Dialogue: 0,1:15:57.44,1:16:00.16,Default-1,,0,0,0,,-别！ -啥？\N{\rEng}-No! -What?!
+Dialogue: 0,1:16:00.18,1:16:05.83,Default-1,,0,0,0,,-走开 快走开 -等下\N{\rEng}-Get away from there! You get away from there. -What? Hey, hey!
+Dialogue: 0,1:16:27.09,1:16:30.07,Default-1,,0,0,0,,把锁给我\N{\rEng}Give me that.
+Dialogue: 0,1:16:30.38,1:16:32.93,Default-1,,0,0,0,,给我 给我\N{\rEng}Give it to me. Give it to me.
+Dialogue: 0,1:16:32.95,1:16:36.52,Default-1,,0,0,0,,抓紧给我\N{\rEng}Give me it.
+Dialogue: 0,1:16:38.59,1:16:42.42,Default-1,,0,0,0,,哦 对不起\N{\rEng}Oh. Oh, I'm sorry.
+Dialogue: 0,1:16:42.44,1:16:44.03,Default-1,,0,0,0,,对不起\N{\rEng}I'm sorry.
+Dialogue: 0,1:16:44.05,1:16:45.87,Default-1,,0,0,0,,你没受伤吧\N{\rEng}Are you okay?
+Dialogue: 0,1:16:45.89,1:16:48.73,Default-1,,0,0,0,,你看到了什么？\N{\rEng}What did you see?
+Dialogue: 0,1:16:49.50,1:16:51.65,Default-1,,0,0,0,,到底看到了什么？\N{\rEng}What did you see?
+Dialogue: 0,1:16:51.67,1:16:55.61,Default-1,,0,0,0,,对不起 你不能去那里\N{\rEng}I'm sorry. It's just, you can't.
+Dialogue: 0,1:16:55.63,1:16:58.57,Default-1,,0,0,0,,绝不能去那里 小查\N{\rEng}You can't do that, Chucky.
+Dialogue: 0,1:16:58.59,1:17:00.26,Default-1,,0,0,0,,绝不能\N{\rEng}You just can't.
+Dialogue: 0,1:17:00.28,1:17:02.10,Default-1,,0,0,0,,哦 我真对不起\N{\rEng}Oh, I'm so sorry.
+Dialogue: 0,1:17:02.13,1:17:08.07,Default-1,,0,0,0,,哦 对不起 真的 真是对不起\N{\rEng}Oh, I'm sorry. I'm so, so sorry. I'm sorry.
+Dialogue: 0,1:17:18.43,1:17:21.79,Note,,0,0,0,,{\pos(192,15)\fs13\shad0.5\bord0.5\fsp2\i1}课后兴趣班纳新
+Dialogue: 0,1:17:18.43,1:17:21.79,Note,,0,0,0,,{\pos(100,64)\fsp2\1c33AAAAAA\b1}游泳社团
+Dialogue: 0,1:17:18.43,1:17:21.79,Note,,0,0,0,,{\pos(164,64)\fsp2\1c33AAAAAA\b1}舞蹈社团
+Dialogue: 0,1:17:18.43,1:17:21.79,Note,,0,0,0,,{\pos(228,64)\fsp1\1c33AAAAAA\b1}数学竞赛社
+Dialogue: 0,1:17:18.43,1:17:21.79,Note,,0,0,0,,{\pos(294,64)\fsp2\1c33AAAAAA\b1}读书会
+Dialogue: 0,1:17:27.62,1:17:32.21,Note,,0,0,0,,{\move(192,90,188,84)\fsp2\i1\1c33AAAAAA\b1\1c&H5B8090&}舞蹈社团
+Dialogue: 0,1:17:27.62,1:17:32.21,Note,,0,0,0,,{\move(230,110,244,112)\fs12\i1\1c33AAAAAA\b1\1c&H0E80A2&}舞侠们 来跳舞吧
+Dialogue: 0,1:17:30.27,1:17:34.42,Default-1,,0,0,0,,来吧 小老弟 来跳舞吧\N{\rEng}Come on, little brother. Let's dance.
+Dialogue: 0,1:17:49.90,1:17:52.66,Default-1,,0,0,0,,舞侠们 舞者们 大家好\N{\rEng}Hello, twirlers, and hello, spinners.
+Dialogue: 0,1:17:52.68,1:17:56.75,Default-1,,0,0,0,,哎呦 今年居然有三个男孩 破纪录了\N{\rEng}What do you know? Three boys this year. It's a new record.
+Dialogue: 0,1:17:56.77,1:18:00.15,Default-1,,0,0,0,,小先生们别怕被取笑\N{\rEng}You gentlemen might find yourselves being teased for your new hobby.
+Dialogue: 0,1:18:00.17,1:18:04.02,Default-1,,0,0,0,,我保证 你们是全校最聪明的\N{\rEng}I assure you, you are the smartest young men in the whole school.
+Dialogue: 0,1:18:04.04,1:18:06.07,Default-1,,0,0,0,,待会儿你们就明白了\N{\rEng}You'll soon see what I mean.
+Dialogue: 0,1:18:06.09,1:18:09.11,Default-1,,0,0,0,,不认识我的同学们 我是罗巴赫老师\N{\rEng}For those who don't know me, I am Miss Rohrbacher.
+Dialogue: 0,1:18:09.13,1:18:13.77,Default-1,,0,0,0,,在女子体育课外 我被尊称为...\N{\rEng}And when I'm not teaching the girls phys-ed,  I am what a few students have called,
+Dialogue: 0,1:18:13.79,1:18:16.47,Default-1,,0,0,0,,舞林怪才\N{\rEng}"The Dance Monster."
+Dialogue: 0,1:18:16.49,1:18:18.30,Default-1,,0,0,0,,没反应？好吧\N{\rEng}Nothing? Alright.
+Dialogue: 0,1:18:18.32,1:18:22.17,Default-1,,0,0,0,,你们加入的社团堪称学校最牛的\N{\rEng}You have chosen what might be the best club this school has ever had.
+Dialogue: 0,1:18:22.19,1:18:25.31,Default-1,,0,0,0,,与女排社团并驾齐驱\N{\rEng}'Cause if we didn't have girls volleyball, we wouldn't have nothing.
+Dialogue: 0,1:18:25.34,1:18:27.35,Default-1,,0,0,0,,不 不 不\N{\rEng}No, no, no.
+Dialogue: 0,1:18:27.37,1:18:32.35,Default-1,,0,0,0,,回来 马尔福同学 你现在归我管了\N{\rEng}Back, Mr. Mulford, you are mine now.
+Dialogue: 0,1:18:33.16,1:18:35.67,Default-1,,0,0,0,,华尔兹\N{\rEng}Waltz.
+Dialogue: 0,1:18:36.38,1:18:39.34,Default-1,,0,0,0,,查克会跳\N{\rEng}Chuck knew it.
+Dialogue: 0,1:18:41.53,1:18:43.73,Default-1,,0,0,0,,恰恰舞\N{\rEng}Cha-cha.
+Dialogue: 0,1:18:44.52,1:18:47.44,Default-1,,0,0,0,,查克也会跳\N{\rEng}Chuck knew it.
+Dialogue: 0,1:18:48.06,1:18:49.81,Default-1,,0,0,0,,摇摆舞\N{\rEng}Swing.
+Dialogue: 0,1:18:49.83,1:18:51.59,Default-1,,0,0,0,,三拍步 摇摆步\N{\rEng}Triple step. Rock step.
+Dialogue: 0,1:18:51.61,1:18:54.08,Default-1,,0,0,0,,查克还会跳\N{\rEng}Chuck knew it.
+Dialogue: 0,1:18:54.11,1:18:55.75,Default-1,,0,0,0,,三拍步 摇摆步\N{\rEng}Triple step. Rock step.
+Dialogue: 0,1:18:56.80,1:18:59.64,Default-1,,0,0,0,,桑巴舞\N{\rEng}Samba.
+Dialogue: 0,1:19:00.82,1:19:02.13,Default-1,,0,0,0,,没跳过这个\N{\rEng}Don't know that one.
+Dialogue: 0,1:19:02.16,1:19:05.39,Default-1,,0,0,0,,他是这小社团里跳的最好的\N{\rEng}He was, by far, the best dancer in the little club.
+Dialogue: 0,1:19:05.41,1:19:09.96,Default-1,,0,0,0,,老师常让他和不会跳的女生搭档\N{\rEng}So, Miss Rohrbacher mostly put him with the girls who were clumsy.
+Dialogue: 0,1:19:09.98,1:19:15.18,Default-1,,0,0,0,,他明白老师的用意 也乐意帮忙\N{\rEng}He understood she did it to make them better, and he was a good sport about it.
+Dialogue: 0,1:19:15.20,1:19:17.75,Default-1,,0,0,0,,快下课前\N{\rEng}Near the end of their two hours, however,
+Dialogue: 0,1:19:17.77,1:19:23.10,Default-1,,0,0,0,,舞林怪才才心软 让他和凯特·麦考伊搭档\N{\rEng}The Dance Monster would show mercy and pair him with Cat McCoy,
+Dialogue: 0,1:19:23.12,1:19:28.89,Default-1,,0,0,0,,她八年级 也是所有女生里跳得最溜的\N{\rEng}who was an eighth grader and the best dancer of the girls.
+Dialogue: 0,1:19:28.91,1:19:31.63,Default-1,,0,0,0,,查克可没动她的心思\N{\rEng}Chuck didn't expect romance.
+Dialogue: 0,1:19:31.66,1:19:36.64,Default-1,,0,0,0,,卡特确实漂亮 不过也比他高一头\N{\rEng}Cat was not only gorgeous, she was a full foot taller than he was.
+Dialogue: 0,1:19:36.66,1:19:41.77,Default-1,,0,0,0,,但他很喜欢和她一起跳 她也有同感\N{\rEng}But he loved to dance with her, and the feeling was mutual.
+Dialogue: 0,1:19:41.79,1:19:44.43,Default-1,,0,0,0,,...外 二 三 转\N{\rEng}...three. Out, two, three. Switch.
+Dialogue: 0,1:19:44.45,1:19:46.25,Default-1,,0,0,0,,好 停\N{\rEng}And stop.
+Dialogue: 0,1:19:46.27,1:19:48.87,Default-1,,0,0,0,,内 二 三 外 二 三\N{\rEng}In, two, three. Out, two, three.
+Dialogue: 0,1:19:48.89,1:19:51.60,Default-1,,0,0,0,,转 换箱步\N{\rEng}Turn. Now box.
+Dialogue: 0,1:19:51.63,1:19:56.92,Default-1,,0,0,0,,一 二 三 一 二 三\N{\rEng}One, two, three. One, two, three.
+Dialogue: 0,1:19:56.94,1:19:59.27,Default-1,,0,0,0,,看 你 们 跳 的 啥\N{\rEng}I don't know what that is.
+Dialogue: 0,1:19:59.29,1:20:00.88,Default-1,,0,0,0,,老 天 呐\N{\rEng}Oh, my God.
+Dialogue: 0,1:20:00.90,1:20:05.61,Default-1,,0,0,0,,算了 自由练十分钟\N{\rEng}Okay, 10 minutes freestyle.
+Dialogue: 0,1:20:21.40,1:20:23.78,Default-1,,0,0,0,,嘿 瞧好\N{\rEng}Hey. Watch this.
+Dialogue: 0,1:20:29.23,1:20:31.08,Default-1,,0,0,0,,快教我\N{\rEng}Show me how you did that.
+Dialogue: 0,1:20:31.10,1:20:32.56,Default-1,,0,0,0,,看好\N{\rEng}Ready?
+Dialogue: 0,1:20:32.58,1:20:35.52,Default-1,,0,0,0,,滑 滑 滑\N{\rEng}Slide, slide, slide.
+Dialogue: 0,1:20:35.87,1:20:37.65,Default-1,,0,0,0,,来试试\N{\rEng}Here, ready?
+Dialogue: 0,1:20:37.68,1:20:40.13,Default-1,,0,0,0,,来跟我学\N{\rEng}Try it with me.
+Dialogue: 0,1:20:41.98,1:20:45.96,Default-1,,0,0,0,,不行 把鞋脱了 穿袜子滑\N{\rEng}Uh, kick off your shoes and do it in your socks.
+Dialogue: 0,1:20:45.98,1:20:48.64,Default-1,,0,0,0,,遵命\N{\rEng}Aye-aye.
+Dialogue: 0,1:20:48.90,1:20:51.28,Default-1,,0,0,0,,滑右脚\N{\rEng}Now, slide.
+Dialogue: 0,1:20:51.30,1:20:53.27,Default-1,,0,0,0,,滑左脚\N{\rEng}Slide.
+Dialogue: 0,1:20:53.29,1:20:55.62,Default-1,,0,0,0,,看 你学会了\N{\rEng}Yeah. There you go.
+Dialogue: 0,1:20:55.65,1:20:59.67,Default-1,,0,0,0,,来 让我看看\N{\rEng}Hey! Show me.
+Dialogue: 0,1:21:00.00,1:21:04.16,Default-1,,0,0,0,,停 滑 停 滑 滑 滑\N{\rEng}Pop. Slide. Pop. Slide. Slide. Slide.
+Dialogue: 0,1:21:04.18,1:21:06.55,Default-1,,0,0,0,,再来次\N{\rEng}Yeah, again.
+Dialogue: 0,1:21:06.57,1:21:08.89,Default-1,,0,0,0,,停 滑 停\N{\rEng}Pop. Slide. Pop.
+Dialogue: 0,1:21:12.36,1:21:18.13,Default-1,,0,0,0,,那天下课晚了半小时\N{\rEng}Twirlers and Spinners let out half an hour late that day.
+Dialogue: 0,1:21:18.32,1:21:21.26,Default-1,,0,0,0,,刚太酷了 你自己琢磨出来的吗？\N{\rEng}That's so rad. You figured that out by yourself?
+Dialogue: 0,1:21:21.28,1:21:26.97,Default-1,,0,0,0,,我就不断回放 反复看 最终学会的\N{\rEng}Well, I just kept rewinding and rewinding 'til I figured it out.
+Dialogue: 0,1:21:27.55,1:21:30.94,Default-1,,0,0,0,,在舞会那天我们一起跳这个吧\N{\rEng}We should do that at the Fling.
+Dialogue: 0,1:21:30.97,1:21:35.23,Default-1,,0,0,0,,呃 别误会 才不是要跟你谈恋爱\N{\rEng}Uh, not as a date or anything.
+Dialogue: 0,1:21:35.25,1:21:37.89,Default-1,,0,0,0,,我跟道奇·温特沃斯在一起\N{\rEng}I'm going out with Dougie Wentworth.
+Dialogue: 0,1:21:37.91,1:21:39.48,Default-1,,0,0,0,,你知道吧？\N{\rEng}You know that, right?
+Dialogue: 0,1:21:39.51,1:21:41.36,Default-1,,0,0,0,,知道\N{\rEng}Yeah.
+Dialogue: 0,1:21:42.98,1:21:47.38,Default-1,,0,0,0,,可这不妨碍我们露露绝活\N{\rEng}But that doesn't mean we couldn't show them some cool moves.
+Dialogue: 0,1:21:47.40,1:21:49.35,Default-1,,0,0,0,,我超想跳 你呢？\N{\rEng}I really want to. Do you?
+Dialogue: 0,1:21:49.38,1:21:51.99,Default-1,,0,0,0,,我 我不确定\N{\rEng}I-I don't know.
+Dialogue: 0,1:21:52.01,1:21:54.84,Default-1,,0,0,0,,我太矮了\N{\rEng}I'm a lot shorter.
+Dialogue: 0,1:21:54.87,1:21:58.54,Default-1,,0,0,0,,人们会笑话我的\N{\rEng}I think people will laugh.
+Dialogue: 0,1:22:12.07,1:22:14.60,Default-1,,0,0,0,,-这管用 -确实管用\N{\rEng}-That totally works. -It totally does.
+Dialogue: 0,1:22:14.63,1:22:16.85,Default-1,,0,0,0,,-确定吗？ -当然确定\N{\rEng}-Are you sure? -Oh, yeah, I'm sure.
+Dialogue: 0,1:22:16.87,1:22:19.89,Default-1,,0,0,0,,感觉很好\N{\rEng}Well, they feel great!
+Dialogue: 0,1:22:20.21,1:22:22.81,Default-1,,0,0,0,,就是码有点大\N{\rEng}Uh, just a little big.
+Dialogue: 0,1:22:24.65,1:22:26.24,Default-1,,0,0,0,,差不多了\N{\rEng}That should be enough.
+Dialogue: 0,1:22:26.26,1:22:28.05,Default-1,,0,0,0,,-再塞点 -再塞点\N{\rEng}-Little more. -Maybe one more.
+Dialogue: 0,1:22:28.08,1:22:30.79,Default-1,,0,0,0,,怎么样？\N{\rEng}How's that?
+Dialogue: 0,1:22:31.23,1:22:34.43,Default-1,,0,0,0,,就像溜冰一样\N{\rEng}Floor feels like ice.
+Dialogue: 0,1:22:34.45,1:22:37.84,Default-1,,0,0,0,,要是把地板刮花 可要被揍\N{\rEng}You put scratches on that floor, the janitor is gonna beat y...
+Dialogue: 0,1:22:37.86,1:22:43.04,Default-1,,0,0,0,,蒂米 不会刮花的 他很轻的\N{\rEng}Timmy. There won't be no scratches. He's too light on his feet to leave any.
+Dialogue: 0,1:22:43.19,1:22:46.92,Default-1,,0,0,0,,几乎都对了\N{\rEng}Almost perfect.
+Dialogue: 0,1:22:49.81,1:22:53.51,Default-1,,0,0,0,,这两题再算一遍\N{\rEng}Take another run at these two.
+Dialogue: 0,1:22:53.64,1:22:57.23,Default-1,,0,0,0,,别叹气 你有这方面天赋 知道吗？\N{\rEng}You don't need to sigh. You're good at this, you know?
+Dialogue: 0,1:22:57.25,1:22:58.88,Default-1,,0,0,0,,你真的很出色\N{\rEng}You're really good at it.
+Dialogue: 0,1:22:58.90,1:23:01.45,Default-1,,0,0,0,,好吧 可这也太枯燥了\N{\rEng}Yeah, but it's boring.
+Dialogue: 0,1:23:01.47,1:23:04.23,Default-1,,0,0,0,,枯燥？是说数学吗？\N{\rEng}Boring? What, you mean math?
+Dialogue: 0,1:23:04.25,1:23:05.41,Default-1,,0,0,0,,嗯\N{\rEng}Yeah.
+Dialogue: 0,1:23:05.43,1:23:10.10,Default-1,,0,0,0,,我觉得你下学期课后应该报个数学竞赛社\N{\rEng}I wonder if maybe next semester you might want to try Math League after school.
+Dialogue: 0,1:23:10.13,1:23:14.04,Default-1,,0,0,0,,我整个高中都在参加 特有趣\N{\rEng}I did it all high school, in fact, and it was so great.
+Dialogue: 0,1:23:14.06,1:23:17.07,Default-1,,0,0,0,,我现在报的是舞蹈社团\N{\rEng}I'm doing Twirlers and Spinners.
+Dialogue: 0,1:23:17.22,1:23:18.82,Default-1,,0,0,0,,对\N{\rEng}Yeah.
+Dialogue: 0,1:23:20.15,1:23:23.63,Default-1,,0,0,0,,嘿 先放下笔 先听我说说\N{\rEng}Hey, hey, put that down for a second, will you?
+Dialogue: 0,1:23:23.66,1:23:26.09,Default-1,,0,0,0,,说点数学的事\N{\rEng}Just a little about math.
+Dialogue: 0,1:23:26.12,1:23:29.39,Default-1,,0,0,0,,人们最初都以为它很枯燥\N{\rEng}Because people start out thinking it might be boring,
+Dialogue: 0,1:23:29.41,1:23:31.96,Default-1,,0,0,0,,这就是错在起点\N{\rEng}and that's their first mistake.
+Dialogue: 0,1:23:31.98,1:23:35.41,Default-1,,0,0,0,,无论干什么职业 做哪份工作\N{\rEng}It's used in every career, in every job,
+Dialogue: 0,1:23:35.44,1:23:38.48,Default-1,,0,0,0,,地球上生活的方方面面都离不开它\N{\rEng}in every facet of life on this planet.
+Dialogue: 0,1:23:38.50,1:23:41.70,Default-1,,0,0,0,,毋庸置疑 就连地球自己也离不开它\N{\rEng}That's a fact. Hell, the planet.
+Dialogue: 0,1:23:41.73,1:23:44.80,Default-1,,0,0,0,,一天到底有多长？\N{\rEng}How do you think we figure out how long a day is?
+Dialogue: 0,1:23:44.82,1:23:47.34,Default-1,,0,0,0,,谁都知道一天有多长\N{\rEng}Everybody knows how long a day is.
+Dialogue: 0,1:23:47.36,1:23:49.93,Default-1,,0,0,0,,-多长？ -24小时\N{\rEng}-How long? -Twenty-four hours.
+Dialogue: 0,1:23:49.95,1:23:53.41,Default-1,,0,0,0,,大家都说一天有24小时 但这是错的\N{\rEng}People say it's 24 hours, but they're wrong.
+Dialogue: 0,1:23:53.43,1:23:58.90,Default-1,,0,0,0,,在恒星日中一天有23小时零56分钟\N{\rEng}There are 23 hours and 56 minutes in a stellar day.
+Dialogue: 0,1:23:58.92,1:24:02.51,Default-1,,0,0,0,,还零几秒钟 数学可以证明\N{\rEng}Plus a few odd seconds. Math proves it.
+Dialogue: 0,1:24:02.53,1:24:04.95,Default-1,,0,0,0,,怎么知道地球存在多久？\N{\rEng}How do we know how old the Earth is?
+Dialogue: 0,1:24:04.97,1:24:08.25,Default-1,,0,0,0,,宇宙存在多久？人类又存在多久？\N{\rEng}How old the universe is, how long people have been here?
+Dialogue: 0,1:24:08.27,1:24:13.00,Default-1,,0,0,0,,又怎么建桥 盖楼 测星距\N{\rEng}Or how to build a bridge or a skyscraper or how far apart the stars are?
+Dialogue: 0,1:24:13.02,1:24:14.83,Default-1,,0,0,0,,怎么登月的？\N{\rEng}How did we land on the moon?
+Dialogue: 0,1:24:14.85,1:24:19.68,Default-1,,0,0,0,,星星是怎么燃烧的？原子怎么聚变裂变的？\N{\rEng}The stars themselves. Why they burn, why atoms split and fuse,
+Dialogue: 0,1:24:19.71,1:24:22.84,Default-1,,0,0,0,,这些都离不开数学\N{\rEng}and all the rest is just math.
+Dialogue: 0,1:24:22.86,1:24:25.58,Default-1,,0,0,0,,星星本身就是数学产物\N{\rEng}Hey, stars are just math.
+Dialogue: 0,1:24:25.61,1:24:27.54,Default-1,,0,0,0,,当你仰望夜空时\N{\rEng}When you look at the night sky,
+Dialogue: 0,1:24:27.56,1:24:31.63,Default-1,,0,0,0,,看到的是宇宙最壮丽的方程式\N{\rEng}you're seeing the greatest equation in the universe.
+Dialogue: 0,1:24:31.65,1:24:34.46,Default-1,,0,0,0,,更别说你的舞蹈 那也是数学\N{\rEng}Heck, your dancing, that's math too.
+Dialogue: 0,1:24:34.48,1:24:37.46,Default-1,,0,0,0,,舞蹈的语言到底是什么？\N{\rEng}I mean, what's the language of dance?
+Dialogue: 0,1:24:37.48,1:24:39.45,Default-1,,0,0,0,,你怎么学舞步的？\N{\rEng}How do you learn your steps?
+Dialogue: 0,1:24:39.48,1:24:43.04,Default-1,,0,0,0,,名字就在那里 叫数拍\N{\rEng}It's even in the name. I mean, they call it "the count."
+Dialogue: 0,1:24:43.07,1:24:44.68,Default-1,,0,0,0,,一 二 三 四\N{\rEng}One and two and three and four.
+Dialogue: 0,1:24:44.70,1:24:47.51,Default-1,,0,0,0,,华尔兹呢？一 二 三 一 二 三\N{\rEng}What's a waltz? One, two, three, one, two, three.
+Dialogue: 0,1:24:47.53,1:24:50.69,Default-1,,0,0,0,,全是数字 都是数学\N{\rEng}Just numbers, just math.
+Dialogue: 0,1:24:50.71,1:24:52.80,Default-1,,0,0,0,,不仅如此\N{\rEng}And more than that,
+Dialogue: 0,1:24:52.83,1:24:55.61,Default-1,,0,0,0,,数学可以是门艺术\N{\rEng}there's an art to it.
+Dialogue: 0,1:24:55.63,1:25:00.57,Default-1,,0,0,0,,我干的活儿 你看这堆文件 这些档案\N{\rEng}What I do, all these files here, all these folders,
+Dialogue: 0,1:25:00.59,1:25:03.32,Default-1,,0,0,0,,记录的都是人们的生活\N{\rEng}these are all people's lives.
+Dialogue: 0,1:25:03.35,1:25:05.97,Default-1,,0,0,0,,他们每个选择\N{\rEng}Every choice they made.
+Dialogue: 0,1:25:05.99,1:25:08.39,Default-1,,0,0,0,,去年 过去十年\N{\rEng}Last year, last 10 years.
+Dialogue: 0,1:25:08.41,1:25:10.54,Default-1,,0,0,0,,他们在意的一切\N{\rEng}Everything that's important to them.
+Dialogue: 0,1:25:10.56,1:25:13.71,Default-1,,0,0,0,,所有缺点 嗜好和梦想\N{\rEng}Every weakness they have, every vice, every dream,
+Dialogue: 0,1:25:13.73,1:25:17.67,Default-1,,0,0,0,,全都体现在数字里\N{\rEng}it's all here in numbers.
+Dialogue: 0,1:25:17.69,1:25:20.15,Default-1,,0,0,0,,要是哪个外行进来 生搬硬算\N{\rEng}Some schmuck comes in, takes those numbers,
+Dialogue: 0,1:25:20.17,1:25:24.16,Default-1,,0,0,0,,缺了艺术感 就能害人丢了房子\N{\rEng}does the math without artistry, someone loses their house.
+Dialogue: 0,1:25:24.18,1:25:28.16,Default-1,,0,0,0,,而我注入一丝艺术匠心\N{\rEng}I take those numbers, do a little art,
+Dialogue: 0,1:25:28.18,1:25:30.60,Default-1,,0,0,0,,便能救人于难\N{\rEng}I save someone's life.
+Dialogue: 0,1:25:30.62,1:25:32.25,Default-1,,0,0,0,,这就是会计的魅力\N{\rEng}That's what I do.
+Dialogue: 0,1:25:32.27,1:25:36.05,Default-1,,0,0,0,,这就是会计的意义\N{\rEng}That's what accounting is.
+Dialogue: 0,1:25:36.08,1:25:40.11,Default-1,,0,0,0,,也许他们该教这些有趣的\N{\rEng}Well, maybe they should teach that, the cool stuff,
+Dialogue: 0,1:25:40.13,1:25:43.30,Default-1,,0,0,0,,别教枯燥的\N{\rEng}and not just all the boring stuff.
+Dialogue: 0,1:25:43.33,1:25:44.46,Default-1,,0,0,0,,嗯\N{\rEng}Hmm.
+Dialogue: 0,1:25:51.77,1:25:54.71,Default-1,,0,0,0,,数学可不止这些\N{\rEng}Math is something else too.
+Dialogue: 0,1:25:54.73,1:25:59.54,Default-1,,0,0,0,,像统计学 概率学\N{\rEng}Some math, math that's called statistics or probability,
+Dialogue: 0,1:25:59.56,1:26:03.03,Default-1,,0,0,0,,可以未卜先知\N{\rEng}it can tell you stuff about your future.
+Dialogue: 0,1:26:03.49,1:26:06.56,Default-1,,0,0,0,,比方说\N{\rEng}It could tell you, for example,
+Dialogue: 0,1:26:06.59,1:26:10.63,Default-1,,0,0,0,,你进职业球队的几率\N{\rEng}you're more likely to be drafted by a major league sports team
+Dialogue: 0,1:26:10.65,1:26:14.61,Default-1,,0,0,0,,大过靠跳舞谋生\N{\rEng}than to make a real living as a dancer.
+Dialogue: 0,1:26:17.04,1:26:20.78,Default-1,,0,0,0,,大家都爱看跳舞 没错\N{\rEng}The world loves dancers, it truly does.
+Dialogue: 0,1:26:20.80,1:26:23.70,Default-1,,0,0,0,,可社会更需要会计师\N{\rEng}But it needs accountants,
+Dialogue: 0,1:26:23.72,1:26:28.84,Default-1,,0,0,0,,需求大所以机会也多\N{\rEng}so there's much more demand, so there's much more opportunity.
+Dialogue: 0,1:26:29.02,1:26:33.05,Default-1,,0,0,0,,我知道这话扎心 但这就是事实\N{\rEng}I know that might hurt, but it's the truth.
+Dialogue: 0,1:26:33.07,1:26:38.06,Default-1,,0,0,0,,数学只讲事实 它不会撒谎\N{\rEng}Math is truth. It won't lie to you.
+Dialogue: 0,1:26:38.08,1:26:43.81,Default-1,,0,0,0,,数学不掺感情 它就是这么纯粹\N{\rEng}It doesn't factor in your preferences. It's pure that way.
+Dialogue: 0,1:26:44.00,1:26:47.56,Default-1,,0,0,0,,数学能做很多事\N{\rEng}Math can do a lot of things.
+Dialogue: 0,1:26:48.00,1:26:51.38,Default-1,,0,0,0,,数学可以是门艺术\N{\rEng}Math can be art.
+Dialogue: 0,1:26:51.40,1:26:53.86,Default-1,,0,0,0,,但数学可不会撒谎\N{\rEng}But it can't lie.
+Dialogue: 0,1:26:53.88,1:26:54.88,Default-1,,0,0,0,,所以...\N{\rEng}So...
+Dialogue: 0,1:26:56.39,1:27:00.56,Default-1,,0,0,0,,再把那两题重算一遍吧\N{\rEng}take another run at those two because, Chucko,
+Dialogue: 0,1:27:00.58,1:27:03.52,Default-1,,0,0,0,,小查 你很出色\N{\rEng}you are good.
+Dialogue: 0,1:27:03.54,1:27:07.99,Default-1,,0,0,0,,你有 艺术细胞\N{\rEng}You... have art in you.
+Dialogue: 0,1:27:49.02,1:27:51.17,Default-1,,0,0,0,,嘿！你今天超好看的！\N{\rEng}Hey! You look great!
+Dialogue: 0,1:27:51.19,1:27:54.26,Default-1,,0,0,0,,谢谢 你也是\N{\rEng}Thanks. Uh, you too.
+Dialogue: 0,1:27:55.33,1:27:57.31,Default-1,,0,0,0,,想不想给他们露两手？\N{\rEng}Wanna show 'em how it's done?
+Dialogue: 0,1:27:57.33,1:28:04.02,Default-1,,0,0,0,,这个 我不 我 我可能扭到脚了\N{\rEng}Uh, I don't know. I kinda, um...I kinda hurt my leg.
+Dialogue: 0,1:28:04.35,1:28:06.09,Default-1,,0,0,0,,真的假的？\N{\rEng}You hurt your leg?
+Dialogue: 0,1:28:06.11,1:28:09.66,Default-1,,0,0,0,,要不 要不 等首更好的歌吧？\N{\rEng}Maybe, maybe let's, let's wait for a better song.
+Dialogue: 0,1:28:30.80,1:28:32.78,Default-1,,0,0,0,,嘿 小子\N{\rEng}Hey, kiddo.
+Dialogue: 0,1:28:33.15,1:28:34.85,Default-1,,0,0,0,,嘿\N{\rEng}Hey.
+Dialogue: 0,1:28:36.24,1:28:40.18,Default-1,,0,0,0,,我以为你今晚要大放异彩呢\N{\rEng}Thought you were gonna tear it up tonight.
+Dialogue: 0,1:28:40.21,1:28:42.36,Default-1,,0,0,0,,我 我也不知道\N{\rEng}I don't, I don't know.
+Dialogue: 0,1:28:42.38,1:28:44.52,Default-1,,0,0,0,,鞋子怪怪的\N{\rEng}My shoes feel all funny,
+Dialogue: 0,1:28:44.55,1:28:48.47,Default-1,,0,0,0,,我 我脚扭了\N{\rEng}and... I hurt my leg.
+Dialogue: 0,1:28:48.82,1:28:51.67,Default-1,,0,0,0,,哦 你脚扭了？\N{\rEng}Oh, you hurt your leg?
+Dialogue: 0,1:28:51.69,1:28:53.02,Default-1,,0,0,0,,嗯\N{\rEng}Yeah.
+Dialogue: 0,1:28:53.21,1:28:56.23,Default-1,,0,0,0,,真替你可惜\N{\rEng}I'm sorry to hear that.
+Dialogue: 0,1:28:56.35,1:28:57.98,Default-1,,0,0,0,,你一个人来的？\N{\rEng}So, you came stag, huh?
+Dialogue: 0,1:28:58.00,1:29:00.57,Default-1,,0,0,0,,-啥？-没带约会对象？\N{\rEng}-Hmm? -No date.
+Dialogue: 0,1:29:00.60,1:29:02.29,Default-1,,0,0,0,,没 我\N{\rEng}Nah, I...
+Dialogue: 0,1:29:02.31,1:29:07.95,Default-1,,0,0,0,,情况会变的 相信我 迟早会变 再等等\N{\rEng}That'll change. Believe me, it'll change. Just give it some time.
+Dialogue: 0,1:29:07.97,1:29:09.77,Default-1,,0,0,0,,舞池里这些...\N{\rEng}None of this, none of...
+Dialogue: 0,1:29:09.79,1:29:12.65,Default-1,,0,0,0,,舞池里这些都不重要\N{\rEng}None of that out there really means anything.
+Dialogue: 0,1:29:12.67,1:29:18.44,Default-1,,0,0,0,,跳得怎样 都只是热身和演习 别把它当真\N{\rEng}It's all just, just a scrimmage. Just a practice.
+Dialogue: 0,1:29:19.50,1:29:21.83,Default-1,,0,0,0,,嘿 这首正好 来跳吧\N{\rEng}Hey, this is perfect. Come on.
+Dialogue: 0,1:29:21.85,1:29:24.18,Default-1,,0,0,0,,不行 我...\N{\rEng}Nah, I'm still, uh...
+Dialogue: 0,1:29:24.20,1:29:25.75,Default-1,,0,0,0,,我脚还怪怪的\N{\rEng}My leg's still wonky.
+Dialogue: 0,1:29:25.78,1:29:28.66,Default-1,,0,0,0,,查克 得了吧 让我们炸翻全场\N{\rEng}Chuck, come on. We're gonna blow the roof off.
+Dialogue: 0,1:29:28.68,1:29:30.37,Default-1,,0,0,0,,对不起\N{\rEng}I'm sorry.
+Dialogue: 0,1:29:30.90,1:29:33.27,Default-1,,0,0,0,,真的很痛\N{\rEng}It really hurts.
+Dialogue: 0,1:29:46.92,1:29:52.69,Default-1,,0,0,0,,我从八岁就开始跳舞 又教体育\N{\rEng}You know, I've been dancing since I was eight, and I teach PE,
+Dialogue: 0,1:29:52.71,1:29:55.12,Default-1,,0,0,0,,看过不少孩子受伤后的样子\N{\rEng}and I've seen when my kids get hurt.
+Dialogue: 0,1:29:55.14,1:29:57.63,Default-1,,0,0,0,,他们走路都不一样了\N{\rEng}I see how their walk changes.
+Dialogue: 0,1:29:57.66,1:29:59.57,Default-1,,0,0,0,,站姿也怪\N{\rEng}I see how their posture changes.
+Dialogue: 0,1:29:59.60,1:30:02.72,Default-1,,0,0,0,,说句实话 在我看来\N{\rEng}And don't mind me saying, but you look...
+Dialogue: 0,1:30:03.25,1:30:06.40,Default-1,,0,0,0,,查克 你看上去好好的\N{\rEng}Well, you look fine to me, Chuck.
+Dialogue: 0,1:30:06.42,1:30:11.06,Default-1,,0,0,0,,我没逼你非得跟她跳 决定权在你\N{\rEng}I'm not saying that you have to dance with the girl. It's up to you.
+Dialogue: 0,1:30:11.09,1:30:16.20,Default-1,,0,0,0,,我只想说 不管跳不跳 别说谎\N{\rEng}I'm just saying dance or no dance, you don't have to lie.
+Dialogue: 0,1:30:16.22,1:30:19.65,Default-1,,0,0,0,,跟她实话实说\N{\rEng}Tell her the truth.
+Dialogue: 0,1:30:20.47,1:30:23.70,Default-1,,0,0,0,,她会理解的\N{\rEng}She can take it.
+Dialogue: 0,1:31:35.98,1:31:39.72,Default-1,,0,0,0,,-准备好了吗？ -嗯 来跳吧\N{\rEng}-You ready? -Yeah. Let's do it.
+Dialogue: 0,1:33:59.08,1:34:05.52,Default-1,,0,0,0,,再跳一遍！再跳一遍！\N{\rEng}One more time! One more time!
+Dialogue: 0,1:34:05.87,1:34:13.42,Default-1,,0,0,0,,他们年纪虽小 却足够聪明知道何时收场\N{\rEng}They may have been young, but they were smart enough to know when to quit.
+Dialogue: 0,1:34:18.93,1:34:20.39,Default-1,,0,0,0,,谢谢大家\N{\rEng}Thank you, guys.
+Dialogue: 0,1:34:20.41,1:34:25.70,Default-1,,0,0,0,,在他39岁因脑瘤早逝前六个月\N{\rEng}Six months before he died of a brain tumor at the unfair age of 39,
+Dialogue: 0,1:34:25.72,1:34:29.44,Default-1,,0,0,0,,趁头脑还算清楚\N{\rEng}and while his mind was still working, mostly,
+Dialogue: 0,1:34:29.46,1:34:35.75,Default-1,,0,0,0,,他跟妻子珍妮坦白了手背上疤的来历\N{\rEng}Chuck told his wife the truth about the scar on the back of his hand.
+Dialogue: 0,1:34:35.77,1:34:37.62,Default-1,,0,0,0,,最开始交往时\N{\rEng}When they'd first started dating,
+Dialogue: 0,1:34:37.64,1:34:41.25,Default-1,,0,0,0,,他说这疤是那晚舞会后\N{\rEng}he told her he'd gotten it from a boy named Doug Wentworth,
+Dialogue: 0,1:34:41.27,1:34:46.15,Default-1,,0,0,0,,舞伴凯特的男友温特沃斯因为吃醋\N{\rEng}who was pissed about him dancing with his girlfriend at a middle school formal
+Dialogue: 0,1:34:46.17,1:34:49.53,Default-1,,0,0,0,,把他推到围栏上铁丝划的\N{\rEng}and pushed him into a chain link fence outside the gym.
+Dialogue: 0,1:34:49.55,1:34:52.71,Default-1,,0,0,0,,这疤我没说真话\N{\rEng}I lied about that, though.
+Dialogue: 0,1:34:54.05,1:34:59.68,Default-1,,0,0,0,,哇 你还是这么神秘\N{\rEng}Oh, my. A man of secrets, even still.
+Dialogue: 0,1:35:01.06,1:35:02.87,Default-1,,0,0,0,,亲爱的 怎么弄的？\N{\rEng}What happened, love?
+Dialogue: 0,1:35:02.89,1:35:05.56,Default-1,,0,0,0,,那晚舞跳完\N{\rEng}When our fabulous dance was over, I...
+Dialogue: 0,1:35:05.58,1:35:08.74,Default-1,,0,0,0,,我全身又汗又热\N{\rEng}I was sweaty and I was so hot.
+Dialogue: 0,1:35:08.76,1:35:10.92,Default-1,,0,0,0,,脸都热得通红\N{\rEng}I-I felt like my cheeks were gonna catch fire.
+Dialogue: 0,1:35:10.95,1:35:12.19,Default-1,,0,0,0,,跳的太好了\N{\rEng}You were great.
+Dialogue: 0,1:35:12.22,1:35:14.87,Default-1,,0,0,0,,-谢谢 -真是个大明星啊\N{\rEng}-Thank you. -What a star.
+Dialogue: 0,1:35:14.90,1:35:18.49,Default-1,,0,0,0,,我那时只想逃离灯光\N{\rEng}All I wanted in that moment was just darkness,
+Dialogue: 0,1:35:18.51,1:35:24.95,Default-1,,0,0,0,,吹吹凉风 一个人呆会儿\N{\rEng}cool air, and to be by myself.
+Dialogue: 0,1:35:27.00,1:35:30.72,Default-1,,0,0,0,,那晚天空繁星闪烁\N{\rEng}There were millions of stars that night.
+Dialogue: 0,1:35:30.74,1:35:32.59,Default-1,,0,0,0,,千万星辰\N{\rEng}Millions of them.
+Dialogue: 0,1:35:32.61,1:35:35.33,Default-1,,0,0,0,,千层万叠\N{\rEng}And millions more behind them.
+Dialogue: 0,1:35:35.35,1:35:40.29,Default-1,,0,0,0,,也许 嗯 它们只是天文数字\N{\rEng}And sure, m-may... Yeah, maybe they were just math.
+Dialogue: 0,1:35:40.31,1:35:42.92,Default-1,,0,0,0,,却好像在翩翩起舞\N{\rEng}But they also danced.
+Dialogue: 0,1:35:42.94,1:35:47.38,Default-1,,0,0,0,,我知道 因为那一瞬我看见了\N{\rEng}I know 'cause I saw one of them.
+Dialogue: 0,1:35:47.88,1:35:51.52,Default-1,,0,0,0,,我那时想 宇宙边疆无限\N{\rEng}And I remember thinking, the universe is large
+Dialogue: 0,1:35:51.54,1:35:54.06,Default-1,,0,0,0,,宇宙包罗万象\N{\rEng}and, and it contains multitudes,
+Dialogue: 0,1:35:54.09,1:35:58.46,Default-1,,0,0,0,,也包含了我\N{\rEng}but it-it also contains me.
+Dialogue: 0,1:35:58.59,1:36:04.67,Default-1,,0,0,0,,而在那一刻 我真觉得自己很精彩\N{\rEng}And in this moment...I am wonderful.
+Dialogue: 0,1:36:04.69,1:36:07.92,Default-1,,0,0,0,,我理应拥有这份精彩\N{\rEng}And I have a right to be wonderful.
+Dialogue: 0,1:36:07.95,1:36:09.87,Default-1,,0,0,0,,啊\N{\rEng}Oh!
+Dialogue: 0,1:36:12.78,1:36:16.16,Default-1,,0,0,0,,干嘛为这事撒谎 小傻瓜\N{\rEng}Why lie about that, silly?
+Dialogue: 0,1:36:16.18,1:36:20.07,Default-1,,0,0,0,,你真是个奇妙的存在 亲爱的\N{\rEng}You're a strange wonder, my dear.
+Dialogue: 0,1:36:20.09,1:36:26.99,Default-1,,0,0,0,,他没再多说 因为那道疤另有深意\N{\rEng}He doesn't offer more because the scar was important for another reason.
+Dialogue: 0,1:36:27.01,1:36:30.17,Default-1,,0,0,0,,是他讲不完的故事的一环\N{\rEng}It was part of a story he couldn't tell,
+Dialogue: 0,1:36:30.19,1:36:35.18,Default-1,,0,0,0,,其中有他长大的那幢维多利亚老宅\N{\rEng}even though there was now an apartment building on the site of the Victorian house
+Dialogue: 0,1:36:35.20,1:36:38.74,Default-1,,0,0,0,,尽管早拆了盖楼了\N{\rEng}where he had done most of his growing up.
+Dialogue: 0,1:36:38.76,1:36:42.96,Default-1,,0,0,0,,那幢闹鬼的维多利亚老宅\N{\rEng}The haunted Victorian house.
+Dialogue: 0,1:36:42.99,1:36:44.86,Default-1,,0,0,0,,不知道\N{\rEng}No reason.
+Dialogue: 0,1:36:45.82,1:36:48.10,Default-1,,0,0,0,,就是心血来潮吧\N{\rEng}Funny thinking, I guess.
+Dialogue: 0,1:36:48.12,1:36:52.63,Default-1,,0,0,0,,这疤意义非凡 他也尽力讲得加料\N{\rEng}The scar meant more, so he had made it more.
+Dialogue: 0,1:36:52.65,1:36:57.07,Default-1,,0,0,0,,可讲得总没有它真正的意义深\N{\rEng}He just couldn't make it as much more as it really was.
+Dialogue: 0,1:36:57.09,1:36:59.29,Default-1,,0,0,0,,讲得还有点糊涂\N{\rEng}That made little sense.
+Dialogue: 0,1:36:59.32,1:37:03.69,Default-1,,0,0,0,,但随着脑癌细胞的疯狂进攻\N{\rEng}But as the glioblastoma continued its blitzkrieg,
+Dialogue: 0,1:37:03.71,1:37:09.91,Default-1,,0,0,0,,他那快散架的大脑最多也只能讲到这样\N{\rEng}it was the best his disintegrating mind could manage.
+Dialogue: 0,1:37:39.86,1:37:43.64,Default-1,,0,0,0,,查克的爷爷 他的阿爷\N{\rEng}Chuck's grandpa, his Zaydee,
+Dialogue: 0,1:37:43.66,1:37:49.47,Default-1,,0,0,0,,在那场秋季舞会五年后 因心脏病发作去世\N{\rEng}died of a heart attack five years after the Fall Fling dance.
+Dialogue: 0,1:37:49.49,1:37:51.92,Default-1,,0,0,0,,事发时查克读高二\N{\rEng}Chuck was a junior in high school
+Dialogue: 0,1:37:51.94,1:37:53.73,Default-1,,0,0,0,,是乐队主唱\N{\rEng}singing in a band and
+Dialogue: 0,1:37:53.76,1:37:57.98,Default-1,,0,0,0,,正在台上像摇滚巨星一样跳得带劲儿\N{\rEng}dancing like Jagger during the instrumental breaks.
+Dialogue: 0,1:37:58.00,1:38:01.22,Default-1,,0,0,0,,他自己都安排妥当了\N{\rEng}He made all the arrangements himself.
+Dialogue: 0,1:38:01.24,1:38:03.12,Default-1,,0,0,0,,几周前\N{\rEng}Came in a few weeks ago
+Dialogue: 0,1:38:03.14,1:38:05.73,Default-1,,0,0,0,,还特地来馆里再确认一遍\N{\rEng}just to make sure everything was to the letter,
+Dialogue: 0,1:38:05.75,1:38:08.01,Default-1,,0,0,0,,我还纳闷呢\N{\rEng}which I thought was strange.
+Dialogue: 0,1:38:08.31,1:38:10.39,Default-1,,0,0,0,,很少有人这么上心\N{\rEng}Not many people bother to do that.
+Dialogue: 0,1:38:10.41,1:38:15.01,Default-1,,0,0,0,,大多数人只来一趟定好流程\N{\rEng}Most people, they come here once to set it all up.
+Dialogue: 0,1:38:15.25,1:38:18.41,Default-1,,0,0,0,,办好手续就不再来了\N{\rEng}They aren't anxious to come back again.
+Dialogue: 0,1:38:18.43,1:38:25.07,Default-1,,0,0,0,,再见到那人 都是穿着体面衣服躺那儿 懂吧\N{\rEng}Next time I see 'em, they're in their Sunday best, if you get me.
+Dialogue: 0,1:38:25.09,1:38:29.18,Default-1,,0,0,0,,他人特好 也是我多年的好友\N{\rEng}He was a great man and a good friend.
+Dialogue: 0,1:38:29.67,1:38:32.75,Default-1,,0,0,0,,他为我们做账整整二十三年了\N{\rEng}He's been doing our books for 23 years
+Dialogue: 0,1:38:32.78,1:38:38.04,Default-1,,0,0,0,,账做得稳 多次税务检查都帮我们顺利过关\N{\rEng}and saved our skin more than once when the tax man was coming.
+Dialogue: 0,1:38:38.81,1:38:41.34,Default-1,,0,0,0,,要现在给你结账吗？\N{\rEng}So, do I owe you any money?
+Dialogue: 0,1:38:41.37,1:38:42.94,Default-1,,0,0,0,,一分都不用\N{\rEng}Not a penny.
+Dialogue: 0,1:38:42.96,1:38:48.70,Default-1,,0,0,0,,他那次来就把钱全给结清了\N{\rEng}He took care of that too. Settled his tab that same visit.
+Dialogue: 0,1:38:48.75,1:38:50.50,Default-1,,0,0,0,,听我说\N{\rEng}You know...
+Dialogue: 0,1:38:50.98,1:38:53.05,Default-1,,0,0,0,,最离奇的是\N{\rEng}the strangest thing.
+Dialogue: 0,1:38:53.07,1:38:56.40,Default-1,,0,0,0,,这事儿很怪 可别觉得我扯\N{\rEng}And this will sound strange, so bear with me.
+Dialogue: 0,1:38:56.42,1:38:58.05,Default-1,,0,0,0,,说来话长\N{\rEng}See,
+Dialogue: 0,1:38:58.05,1:39:03.11,Default-1,,0,0,0,,年轻时我曾想当电视上天气预报员\N{\rEng}I, uh, dreamed of being a television weatherman in my salad days
+Dialogue: 0,1:39:03.13,1:39:05.85,Default-1,,0,0,0,,也许能成全国台的\N{\rEng}with maybe one of the networks.
+Dialogue: 0,1:39:05.87,1:39:07.98,Default-1,,0,0,0,,最终没成\N{\rEng}Wasn't in the cards for me.
+Dialogue: 0,1:39:08.31,1:39:13.12,Default-1,,0,0,0,,倒是去地方台待过一个夏天\N{\rEng}But I did spend a summer at WKNB.
+Dialogue: 0,1:39:13.14,1:39:17.95,Default-1,,0,0,0,,在那儿 有个同事号称能\N{\rEng}Well, there was a guy at KNB who they said
+Dialogue: 0,1:39:17.97,1:39:23.93,Default-1,,0,0,0,,不用雷达就能提前两周感知风暴\N{\rEng}could feel a storm coming two solid weeks away without the radar.
+Dialogue: 0,1:39:23.96,1:39:25.69,Default-1,,0,0,0,,有第六感\N{\rEng}Had a sixth sense.
+Dialogue: 0,1:39:25.72,1:39:28.04,Default-1,,0,0,0,,简直了\N{\rEng}Damnedest thing I ever saw.
+Dialogue: 0,1:39:28.06,1:39:30.35,Default-1,,0,0,0,,他会露出一种神情\N{\rEng}Uh, used to make this face,
+Dialogue: 0,1:39:30.37,1:39:33.83,Default-1,,0,0,0,,当别人说要出远门\N{\rEng}this face when people talked about their travel plans,
+Dialogue: 0,1:39:33.85,1:39:35.92,Default-1,,0,0,0,,然后他洞察出什么后\N{\rEng}if he knew something they didn't.
+Dialogue: 0,1:39:35.94,1:39:40.93,Default-1,,0,0,0,,那神情不笑不乐\N{\rEng}Not... not a smile, per se. No joy in it.
+Dialogue: 0,1:39:40.95,1:39:45.37,Default-1,,0,0,0,,就一脸 我全知道的样子\N{\rEng}Just a... knowing.
+Dialogue: 0,1:39:45.39,1:39:48.31,Default-1,,0,0,0,,我管那叫 预报员天眼\N{\rEng}"Weatherman Stare," I called it.
+Dialogue: 0,1:39:48.34,1:39:51.01,Default-1,,0,0,0,,我可没那本事\N{\rEng}And I didn't have it, not me.
+Dialogue: 0,1:39:51.04,1:39:55.89,Default-1,,0,0,0,,所以我在这行 而不是那行\N{\rEng}So, I'm here, not there.
+Dialogue: 0,1:39:56.13,1:40:01.60,Default-1,,0,0,0,,你爷爷来时也带着同样的神情\N{\rEng}Your granddad had that same face when he was in here.
+Dialogue: 0,1:40:01.62,1:40:05.73,Default-1,,0,0,0,,像是 他早料到要下雨\N{\rEng}Like... he knew it was gonna rain.
+Dialogue: 0,1:40:05.75,1:40:10.48,Default-1,,0,0,0,,而我只是个卖他伞的人\N{\rEng}And I was just a guy selling him an umbrella.
+Dialogue: 0,1:40:10.50,1:40:12.77,Default-1,,0,0,0,,那就是预报员天眼\N{\rEng}Weatherman Stare.
+Dialogue: 0,1:40:12.80,1:40:15.37,Default-1,,0,0,0,,我敢打包票\N{\rEng}I'm sure of it.
+Dialogue: 0,1:40:15.85,1:40:18.11,Default-1,,0,0,0,,太离谱了\N{\rEng}The strangest thing.
+Dialogue: 0,1:40:19.20,1:40:21.45,Default-1,,0,0,0,,爷爷阿尔比把一切家当都留给了他\N{\rEng}Albie left him everything.
+Dialogue: 0,1:40:21.47,1:40:25.09,Default-1,,0,0,0,,这足够支付他的大学学费\N{\rEng}More than enough to pay for his college education.
+Dialogue: 0,1:40:25.11,1:40:28.45,Default-1,,0,0,0,,再后来 他把那幢维多利亚老宅卖了\N{\rEng}And later on, the sale of the Victorian
+Dialogue: 0,1:40:28.47,1:40:30.43,Default-1,,0,0,0,,用这笔钱买了\N{\rEng}paid for the house he and Ginny moved into
+Dialogue: 0,1:40:30.46,1:40:35.46,Default-1,,0,0,0,,和他妻子珍妮度蜜月后住的新家\N{\rEng}after their honeymoon in the Catskills.
+Dialogue: 0,1:40:35.48,1:40:41.25,Default-1,,0,0,0,,他铁了心不去奥马哈和外公外婆一起住\N{\rEng}He flatly refused to move to Omaha to live with his mother's parents.
+Dialogue: 0,1:40:41.27,1:40:43.16,Default-1,,0,0,0,,-听着 我真的很爱你们... -他这样说\N{\rEng}-Look, I love you guys... -He said.
+Dialogue: 0,1:40:43.18,1:40:46.63,Default-1,,0,0,0,,...但我在这里长大的 也想在这待到上大学\N{\rEng}...but this is where I grew up and want to stay till college.
+Dialogue: 0,1:40:46.66,1:40:48.69,Default-1,,0,0,0,,我都17了 不是小孩子了\N{\rEng}I'm 17. I'm not a baby.
+Dialogue: 0,1:40:48.71,1:40:54.65,Default-1,,0,0,0,,于是 早已退休的老两口 住进那幢维多利亚老宅\N{\rEng}So, they, both long retired, came to him and stayed in the Victorian
+Dialogue: 0,1:40:54.67,1:40:57.52,Default-1,,0,0,0,,陪查克二十多个月\N{\rEng}for the 20-odd months before Chuck went off
+Dialogue: 0,1:40:57.54,1:41:01.84,Default-1,,0,0,0,,直到他去伊利诺伊大学\N{\rEng}to the University of Illinois.
+Dialogue: 0,1:41:01.92,1:41:06.60,Default-1,,0,0,0,,可他们没赶上参加葬礼\N{\rEng}They weren't able to be there for the funeral, however.
+Dialogue: 0,1:41:06.63,1:41:09.28,Default-1,,0,0,0,,葬礼办得很迅速利落 正如阿尔比所愿\N{\rEng}It happened fast, as Albie had wanted,
+Dialogue: 0,1:41:09.30,1:41:14.26,Default-1,,0,0,0,,他外公外婆在奥马哈还有一些事要收尾\N{\rEng}and his mom's folks had loose ends to tie up in Omaha.
+Dialogue: 0,1:41:14.29,1:41:17.89,Default-1,,0,0,0,,说实话 查克并不怎么想他们\N{\rEng}Chuck didn't really miss them, if he was honest.
+Dialogue: 0,1:41:17.91,1:41:25.75,Default-1,,0,0,0,,他跟他阿爷一样 最讨厌瞎折腾 也受不了人多\N{\rEng}His Zaydee hated a fuss almost as much as he hated a crowd.
+Dialogue: 0,1:41:26.65,1:41:29.47,Default-1,,0,0,0,,他们来的前一天\N{\rEng}A day before they were scheduled to arrive,
+Dialogue: 0,1:41:29.49,1:41:31.84,Default-1,,0,0,0,,查克才拆开\N{\rEng}Chuck finally opened the envelope
+Dialogue: 0,1:41:31.87,1:41:36.12,Default-1,,0,0,0,,放玄关桌上的那大信封\N{\rEng}that had been sitting on the table in the front hall.
+Dialogue: 0,1:41:36.14,1:41:38.87,Default-1,,0,0,0,,信封是来自山姆·亚伯勒\N{\rEng}It was from Sam Yarborough,
+Dialogue: 0,1:41:38.89,1:41:42.96,Default-1,,0,0,0,,亚伯勒殡仪馆的老板兼首席殡葬师\N{\rEng}owner and chief undertaker at Yarborough Funeral Home,
+Dialogue: 0,1:41:42.98,1:41:49.70,Default-1,,0,0,0,,里面装着阿尔比·克兰兹的个人物品\N{\rEng}and inside were Albie Krantz's personal effects.
+Dialogue: 0,1:43:43.96,1:43:48.17,Default-1,,0,0,0,,在这屋里 查克爷爷见过杰弗里家那男孩\N{\rEng}In this room, Chuck's grandpa had seen the Jefferies boy,
+Dialogue: 0,1:43:48.19,1:43:51.84,Default-1,,0,0,0,,被车撞得血肉模糊\N{\rEng}body broken by the car.
+Dialogue: 0,1:43:51.87,1:43:56.23,Default-1,,0,0,0,,他见过亨利·彼得森吊在天花板上\N{\rEng}He'd seen Henry Peterson hanging from the ceiling.
+Dialogue: 0,1:43:56.25,1:43:59.51,Default-1,,0,0,0,,他还见过他妻子躺在地上断了气\N{\rEng}He'd seen his own wife lying dead.
+Dialogue: 0,1:43:59.53,1:44:01.93,Default-1,,0,0,0,,查克想\N{\rEng}And likely, Chuck supposed,
+Dialogue: 0,1:44:01.95,1:44:05.97,Default-1,,0,0,0,,也许就在那晚偷他钥匙的时候\N{\rEng}perhaps the night Chuck had stolen his keys,
+Dialogue: 0,1:44:05.99,1:44:10.33,Default-1,,0,0,0,,阿尔比还看见自己摔倒在地\N{\rEng}Albie had even seen himself crumpled to the floor,
+Dialogue: 0,1:44:10.35,1:44:13.77,Default-1,,0,0,0,,死死抓着胳膊\N{\rEng}still clutching his upper arm.
+Dialogue: 0,1:44:13.79,1:44:17.55,Default-1,,0,0,0,,“这就是等待”他爷爷曾说\N{\rEng}"It's the waiting," he'd said.
+Dialogue: 0,1:44:17.57,1:44:20.64,Default-1,,0,0,0,,“这是最难熬的”\N{\rEng}"That's the hard part."
+Dialogue: 0,1:44:20.66,1:44:24.95,Default-1,,0,0,0,,现在轮到查克自己的煎熬了\N{\rEng}Now Chuck's own waiting would begin.
+Dialogue: 0,1:44:24.97,1:44:27.91,Default-1,,0,0,0,,到底要等多久？\N{\rEng}How long would that wait be?
+Dialogue: 0,1:44:27.93,1:44:33.86,Default-1,,0,0,0,,病床上那个人到底多少岁？\N{\rEng}Exactly how old was the man in the hospital bed?
+Dialogue: 0,1:44:36.98,1:44:42.18,Default-1,,0,0,0,,看不见的监护仪发出最后一声“哔”\N{\rEng}There was a final bip from the unseen monitor
+Dialogue: 0,1:44:42.20,1:44:45.60,Default-1,,0,0,0,,然后也随之消失\N{\rEng}and then that was gone too.
+Dialogue: 0,1:44:46.99,1:44:52.63,Default-1,,0,0,0,,不像电影里那样慢慢淡去\N{\rEng}The man did not fade, as ghostly apparitions did in the movies.
+Dialogue: 0,1:44:52.65,1:44:55.28,Default-1,,0,0,0,,就直接不见了\N{\rEng}He was just gone.
+Dialogue: 0,1:44:55.30,1:45:00.08,Default-1,,0,0,0,,仿佛从未出现过\N{\rEng}Insisting he had never been there in the first place.
+Dialogue: 0,1:45:00.53,1:45:02.93,Default-1,,0,0,0,,-那不可能... -查克想\N{\rEng}-He wasn't... -Chuck thinks.
+Dialogue: 0,1:45:02.95,1:45:05.86,Default-1,,0,0,0,,...我偏不信\N{\rEng}...and I will insist he wasn't.
+Dialogue: 0,1:45:05.88,1:45:11.52,Default-1,,0,0,0,,我会痛痛快快地活 直到最后一刻\N{\rEng}And I will live my life until my life runs out.
+Dialogue: 0,1:45:11.54,1:45:14.28,Default-1,,0,0,0,,我很精彩\N{\rEng}I am wonderful.
+Dialogue: 0,1:45:14.85,1:45:18.38,Default-1,,0,0,0,,我配得上这份精彩\N{\rEng}I deserve to be wonderful.
+Dialogue: 0,1:45:19.24,1:45:22.62,Default-1,,0,0,0,,我包罗万象\N{\rEng}And I contain multitudes.
+Dialogue: 0,1:45:48.09,1:45:50.68,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}影片编剧兼导演\N{\fs14\fsp1}迈克·弗拉纳根
+Dialogue: 0,1:45:50.68,1:45:53.23,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}改编自同名短篇小说\N{\fs14\fsp1}原著作者史蒂芬·金
+Dialogue: 0,1:45:53.26,1:45:55.29,Note,,0,0,0,,{\pos(192,124)\1c&HA2B7C1&\fs11\fsp4}制片人\N{\fs14\fsp1}特雷弗·梅西\N迈克·弗拉纳根
+Dialogue: 0,1:45:57.54,1:45:59.51,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp1}执行制片人\N{\fs14\fsp1}史蒂芬·金
+Dialogue: 0,1:45:59.51,1:46:05.80,Note,,0,0,0,,{\pos(192,120)\1c&HA2B7C1&\fs14\fsp1}蒙太奇字幕组 原创译制\N{\fs9}许可CC BY‑NC‑SA 4.0\N{\fs13}翻译：小p · 后期：novaeye\N{\fs8}Telegram和IRC交流群：MontageSubs
+Dialogue: 0,1:46:05.82,1:46:07.82,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}摄影\N{\fs14\fsp1}埃本·博尔特
+Dialogue: 0,1:46:09.96,1:46:11.94,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}剪辑\N{\fs14\fsp1}迈克·弗拉纳根
+Dialogue: 0,1:46:14.14,1:46:16.08,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}配乐\N{\fs14\fsp1}纽顿兄弟
+Dialogue: 0,1:46:23.49,1:46:25.58,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}汤姆·希德勒斯顿 {\fs9}饰{\fs14} 成年查克
+Dialogue: 0,1:46:25.61,1:46:27.64,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}切瓦特·艾乔福 {\fs9}饰{\fs14} 安德森老师
+Dialogue: 0,1:46:27.64,1:46:29.77,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}凯伦·吉兰 {\fs9}饰{\fs14} 护士菲莉西娅
+Dialogue: 0,1:46:29.79,1:46:31.83,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}米娅·萨拉 {\fs9}饰{\fs14} 阿奶莎拉
+Dialogue: 0,1:46:31.86,1:46:33.97,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}卡尔·伦布利 {\fs9}饰{\fs14} 殡仪馆老板亚伯勒
+Dialogue: 0,1:46:33.99,1:46:36.00,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}本杰明·帕亚克 {\fs9}饰{\fs14} 幼年查克
+Dialogue: 0,1:46:36.02,1:46:38.08,Note,,0,0,0,,{\pos(192,128)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}雅各布·特伦布莱 {\fs9}饰{\fs14} 青年查克
+Dialogue: 0,1:46:38.12,1:46:40.14,Note,,0,0,0,,{\pos(192,128)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}马克·哈米尔 {\fs9}饰{\fs14} 阿爷阿尔比
+Dialogue: 0,1:46:40.16,1:46:43.29,Note,,0,0,0,,{\pos(192,114)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}大卫·达斯马齐连 {\fs9}饰{\fs14} 布莱恩家长\N哈维·吉兰 {\fs9}饰{\fs14} 艾米丽家长\N迈克·特鲁科 {\fs9}饰{\fs14} 迪伦家长\N科里安卡·基尔切尔 {\fs9}饰{\fs14} 查克妻子珍妮
+Dialogue: 0,1:46:43.31,1:46:46.41,Note,,0,0,0,,{\pos(192,114)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}马修·里沃德 {\fs9}饰{\fs14} 工人格斯\N拉胡尔·科利 {\fs9}饰{\fs14} 男护士布里\N维奥莱特·麦格劳 {\fs9}饰{\fs14} 旱冰女孩莉莉\N赛达·埃库洛纳 {\fs9}饰{\fs14} 银行职工安德莉娅
+Dialogue: 0,1:46:46.43,1:46:49.52,Note,,0,0,0,,{\pos(192,114)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}口袋女王(泰勒·戈登) {\fs9}饰{\fs14} 街头鼓手泰勒\N安娜丽丝·巴索 {\fs9}饰{\fs14} 街头舞伴珍妮丝\N安迪·格鲁什 {\fs9}饰{\fs14} 鼓手同伴麦克
+Dialogue: 0,1:46:49.54,1:46:52.65,Note,,0,0,0,,{\pos(192,114)\1c&HA2B7C1&\fs11\fsp4}主演\N{\fs14\fsp1}凯特·西格尔 {\fs9}饰{\fs14} 语文老师理查兹\N萨曼莎·斯洛扬 {\fs9}饰{\fs14} 舞蹈老师罗巴赫\N特里尼蒂·布利斯 {\fs9}饰{\fs14} 学校舞伴麦考伊\N希瑟·兰坚坎普 {\fs9}饰{\fs14} 八卦奶奶维拉
+Dialogue: 0,1:46:52.68,1:46:54.76,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4}旁白\N{\fs14\fsp1}尼克·奥弗曼
+Dialogue: 0,1:46:54.79,1:46:56.78,Note,,0,0,0,,{\pos(192,114)\1c&HA2B7C1&\fs11\fsp1}制作公司\N{\fs14\fsp4}无畏影业\N红室影业
+Dialogue: 0,1:46:56.81,1:46:59.87,Note,,0,0,0,,{\pos(192,124)\1c&HA2B7C1&\fs14\fsp4}迈克·弗拉纳根\N{\fs11\fsp1}导演作品
+Dialogue: 0,1:46:59.89,1:47:05.31,Note,,0,0,0,,{\pos(191,136)\fs18\1c&HA2B7C1&\fad(0,500)}查克的一生
+Dialogue: 0,1:47:07.10,1:47:12.24,Note,,0,0,0,,{\pos(192,134)\1c&HA2B7C1&\fs11\fsp4\fad(1000,1000)}谨以缅怀\N{\fs14\fsp1}斯科特·沃普勒
+Dialogue: 0,1:50:39.77,1:50:43.49,Note,,0,0,0,,{\an2\pos(192,250)\fs24\shad1\bord1\b1\1c00CCCCCC\fsp2}（霓虹影业）
+Dialogue: 0,1:50:39.77,1:50:43.49,Note,,0,0,0,,{\an2\pos(192,34)\1c00CCCCCC&\fs14}蒙 太 奇 字 幕 组(MontageSubs)\N{\fs9}用爱发电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\blur0\shad0\bord0\fs9}\h\h{\r\1c00CCCCCC&\fs9}Powered by love
