@@ -154,11 +154,13 @@ A huge chunk's gone from Santa Barbara to Fresno.
 
 33
 00:02:40,000 --> 00:02:41,550
--太可怕了 -...沉入大海了 -It's fucking crazy. -Into the ocean.
+-太可怕了 -...沉入大海了
+-It's fucking crazy. -Into the ocean.
 
 34
 00:02:41,570 --> 00:02:43,370
--就那样没了 -别慌 别慌 -Just like that. -Alright, alright.
+-就那样没了 -别慌 别慌
+-Just like that. -Alright, alright.
 
 35
 00:02:42,910 --> 00:02:44,770
@@ -505,7 +507,8 @@ that's just fuckin' mean.
 
 104
 00:05:42,920 --> 00:05:45,460
--见笑了 -嗯 -Sorry. -Yeah.
+-见笑了 -嗯
+-Sorry. -Yeah.
 
 105
 00:05:46,640 --> 00:05:54,240
@@ -603,7 +606,7 @@ and whole species of birds and fish dying off had taken priority.
 126
 00:06:39,500 --> 00:06:44,550
 {\an9}...烧到现在 这成为美国史上最严重的山火
-...till today, thought to be the largest wildfire in United States history.
+ ...till today, thought to be the largest wildfire in United States history.
 
 127
 00:06:48,380 --> 00:06:53,450
@@ -724,7 +727,8 @@ She left!
 
 150
 00:08:22,520 --> 00:08:24,630
--还记得她前任佩德罗吗？ -记得 -Her ex. Remember Pedro? -Mm-hm.
+-还记得她前任佩德罗吗？ -记得
+-Her ex. Remember Pedro? -Mm-hm.
 
 151
 00:08:24,650 --> 00:08:26,610
@@ -743,7 +747,8 @@ And I remember how bad that divorce was.
 
 154
 00:08:30,960 --> 00:08:32,660
--有印象吗？ -嗯 记得 -Do you remember? -Yeah, I remember.
+-有印象吗？ -嗯 记得
+-Do you remember? -Yeah, I remember.
 
 155
 00:08:32,740 --> 00:08:37,360
@@ -777,7 +782,8 @@ Marriages.
 
 161
 00:08:47,980 --> 00:08:50,000
--你是个乐天派 -不 -You're an optimist. -No.
+-你是个乐天派 -不
+-You're an optimist. -No.
 
 162
 00:08:50,630 --> 00:08:53,700
@@ -835,7 +841,7 @@ Who stole my nylons? Egads! The very...
 173
 00:09:14,490 --> 00:09:15,180
 {\an7}不饿
-Not very.
+ Not very.
 
 174
 00:09:15,270 --> 00:09:17,500
@@ -864,7 +870,8 @@ I went uptown.
 
 179
 00:09:23,010 --> 00:09:25,300
-{\an7}-去购物？ -不是 -Shopping? -No.
+{\an7}-去购物？ -不是
+-Shopping? -No.
 
 180
 00:09:27,710 --> 00:09:28,710
@@ -1636,7 +1643,8 @@ You might make it before lunch.
 
 336
 00:18:29,820 --> 00:18:32,240
--别指望早到 -发生了什么事？ -I wouldn't count on it. -What happened?
+-别指望早到 -发生了什么事？
+-I wouldn't count on it. -What happened?
 
 337
 00:18:32,260 --> 00:18:34,460
@@ -1700,7 +1708,8 @@ I didn't turn on the TV this morning.
 
 349
 00:19:01,850 --> 00:19:03,050
--难怪 -有什么新闻吗？ -Oh! -Is there something new?
+-难怪 -有什么新闻吗？
+-Oh! -Is there something new?
 
 350
 00:19:03,070 --> 00:19:06,010
@@ -1759,7 +1768,8 @@ They're saying it's the bub-bublonic,
 
 361
 00:19:29,390 --> 00:19:30,600
--树疫病 -鼠疫 -bubonic plague. -Bubonic.
+-树疫病 -鼠疫
+-bubonic plague. -Bubonic.
 
 362
 00:19:30,620 --> 00:19:32,560
@@ -1888,7 +1898,8 @@ Hey, I'm curious about the billboard on the bank building.
 
 387
 00:20:21,190 --> 00:20:22,480
--你看到了吗？ -怎么能躲得过？ -Have you seen it? -How could I miss it?
+-你看到了吗？ -怎么能躲得过？
+-Have you seen it? -How could I miss it?
 
 388
 00:20:22,500 --> 00:20:25,860
@@ -1972,7 +1983,8 @@ and all those students got shot?
 
 404
 00:21:11,330 --> 00:21:13,050
--是的 -还有俄罗斯政府被推翻 -Yeah. -And the overthrow of the Russian government.
+-是的 -还有俄罗斯政府被推翻
+-Yeah. -And the overthrow of the Russian government.
 
 405
 00:21:13,070 --> 00:21:15,660
@@ -2177,7 +2189,8 @@ Dr. Winston's MIA.
 
 447
 00:23:54,930 --> 00:23:56,600
--什么意思？ -你没听错 -What? -Yeah.
+-什么意思？ -你没听错
+-What? -Yeah.
 
 448
 00:23:56,620 --> 00:23:58,950
@@ -2318,7 +2331,8 @@ All Krantz all the time.
 
 476
 00:27:23,440 --> 00:27:26,290
--知道他是谁吗？ -不知道 -Any idea who he is? -None.
+-知道他是谁吗？ -不知道
+-Any idea who he is? -None.
 
 477
 00:27:26,310 --> 00:27:31,650
@@ -2337,7 +2351,8 @@ Our last meme.
 
 480
 00:27:38,930 --> 00:27:41,310
--你往哪走？ -丰收里 -Where are you heading? -Harvest Acres.
+-你往哪走？ -丰收里
+-Where are you heading? -Harvest Acres.
 
 481
 00:27:41,330 --> 00:27:44,610
@@ -2351,7 +2366,8 @@ I'm heading there myself.
 
 483
 00:27:47,060 --> 00:27:48,530
--我前妻住那儿 -噢 -My ex lives there. -Huh.
+-我前妻住那儿 -噢
+-My ex lives there. -Huh.
 
 484
 00:27:48,550 --> 00:27:49,820
@@ -2744,7 +2760,8 @@ Oh, thank God. Oh, thank God.
 
 562
 00:34:07,840 --> 00:34:11,640
--谢天谢地 -这些都 都... -Thank God. -They, they just...
+-谢天谢地 -这些都 都...
+-Thank God. -They, they just...
 
 563
 00:34:13,240 --> 00:34:16,090
@@ -2927,7 +2944,8 @@ which is always better than the weekend itself.
 
 599
 00:39:34,080 --> 00:39:36,540
--泰勒 都差不多了吧？ -嗯 谢了 -All good. Taylor? -Yeah, thanks.
+-泰勒 都差不多了吧？ -嗯 谢了
+-All good. Taylor? -Yeah, thanks.
 
 600
 00:39:36,560 --> 00:39:39,500
@@ -3040,7 +3058,8 @@ It was totally unexpected, like having a door slammed in your face just as you w
 
 622
 00:41:10,050 --> 00:41:11,590
--那感觉... -真他妈离谱 -It was... -Fucking bullshit!
+-那感觉... -真他妈离谱
+-It was... -Fucking bullshit!
 
 623
 00:41:11,610 --> 00:41:13,160
@@ -3054,7 +3073,8 @@ She isn't in love with him. never even kidded herself that she was.
 
 625
 00:41:17,450 --> 00:41:19,300
--但依然... -他喵的糟透了 -But still it... -Fucking sucks.
+-但依然... -他喵的糟透了
+-But still it... -Fucking sucks.
 
 626
 00:41:19,320 --> 00:41:22,610
@@ -3083,7 +3103,8 @@ Maybe she can recapture a little of that happiness.
 
 631
 00:41:38,820 --> 00:41:41,030
--去你妈的 -说什么？ -Fucking really?! -Excuse me.
+-去你妈的 -说什么？
+-Fucking really?! -Excuse me.
 
 632
 00:41:41,050 --> 00:41:43,520
@@ -3356,7 +3377,8 @@ Here, can you, uh, take this?
 
 686
 00:50:12,890 --> 00:50:14,420
--好 -拧这里 -Sure. -Just, just spin the thingy here.
+-好 -拧这里
+-Sure. -Just, just spin the thingy here.
 
 687
 00:50:14,500 --> 00:50:16,470
@@ -3370,7 +3392,8 @@ you know what I mean?
 
 689
 00:50:18,370 --> 00:50:20,500
--好 好 -找点事散散心 -Yeah, yeah. -To doing something else.
+-好 好 -找点事散散心
+-Yeah, yeah. -To doing something else.
 
 690
 00:50:20,600 --> 00:50:22,690
@@ -3394,7 +3417,8 @@ No. Oh, no. I...
 
 694
 00:50:27,950 --> 00:50:29,870
--不 不是的 -你做什么的？ -No, I do not, sir. -What do you do for a living?
+-不 不是的 -你做什么的？
+-No, I do not, sir. -What do you do for a living?
 
 695
 00:50:29,960 --> 00:50:31,850
@@ -3553,11 +3577,13 @@ You got to get in here before you go.
 
 726
 00:52:41,000 --> 00:52:43,070
--来个大团抱！ -哦 哦 好 -Group hug. -Oh, oh, okay.
+-来个大团抱！ -哦 哦 好
+-Group hug. -Oh, oh, okay.
 
 727
 00:52:43,090 --> 00:52:44,400
--大团抱！ -来 -Group hug. -Okay.
+-大团抱！ -来
+-Group hug. -Okay.
 
 728
 00:52:44,480 --> 00:52:45,980
@@ -3849,7 +3875,8 @@ The name had already been picked out...
 
 786
 00:58:01,100 --> 00:58:03,520
--她叫艾雨莎 -艾雨莎 -Her name is Alyssa. -...Alyssa.
+-她叫艾雨莎 -艾雨莎
+-Her name is Alyssa. -...Alyssa.
 
 787
 00:58:03,540 --> 00:58:07,060
@@ -4241,7 +4268,8 @@ And in all those years, I haven't been up to that damn cupola half a dozen times
 
 866
 01:04:00,940 --> 01:04:03,270
--还记得圣诞述异那个故事吗？ -嗯 -Y-You remember Scrooge? -Yeah.
+-还记得圣诞述异那个故事吗？ -嗯
+-Y-You remember Scrooge? -Yeah.
 
 867
 01:04:03,290 --> 01:04:04,950
@@ -4375,7 +4403,8 @@ Well, I don't know if you've heard, but Trish is saying Karen and Matty are in t
 
 893
 01:05:54,750 --> 01:06:00,970
--搞什么？ -阿爷 亨利·彼得森到底是谁？ -Again. -Who's Henry Peterson, Zaydee?
+-搞什么？ -阿爷 亨利·彼得森到底是谁？
+-Again. -Who's Henry Peterson, Zaydee?
 
 894
 01:05:57,140 --> 01:06:03,000
@@ -4399,7 +4428,8 @@ I got it.
 
 898
 01:06:09,200 --> 01:06:11,960
--要我写下来吗？ -我记得住 -Do you need me to write it down? -I got it.
+-要我写下来吗？ -我记得住
+-Do you need me to write it down? -I got it.
 
 899
 01:06:11,980 --> 01:06:15,300
@@ -4533,7 +4563,8 @@ Thank you for bringing them over. Was that your idea?
 
 925
 01:08:18,330 --> 01:08:20,050
--说实话哦 -是的 -Be honest. -It was.
+-说实话哦 -是的
+-Be honest. -It was.
 
 926
 01:08:20,070 --> 01:08:22,700
@@ -4642,7 +4673,8 @@ And she was in her 40s. What do you think of that?
 
 947
 01:09:23,480 --> 01:09:25,030
--天哪 -对 可不是 -Wow. -Damn right, wow.
+-天哪 -对 可不是
+-Wow. -Damn right, wow.
 
 948
 01:09:25,050 --> 01:09:28,880
@@ -4976,7 +5008,8 @@ and began to look older than his 70 years.
 
 1014
 01:14:21,350 --> 01:14:24,370
--就买这点？ -嗯 -That's it? -Yeah.
+-就买这点？ -嗯
+-That's it? -Yeah.
 
 1015
 01:14:24,390 --> 01:14:26,980
@@ -5030,11 +5063,13 @@ I already knew that.
 
 1025
 01:15:57,440 --> 01:16:00,160
--别！ -啥？ -No! -What?!
+-别！ -啥？
+-No! -What?!
 
 1026
 01:16:00,180 --> 01:16:05,830
--走开 快走开 -等下 -Get away from there! You get away from there. -What? Hey, hey!
+-走开 快走开 -等下
+-Get away from there! You get away from there. -What? Hey, hey!
 
 1027
 01:16:27,090 --> 01:16:30,070
@@ -5458,11 +5493,13 @@ I think people will laugh.
 
 1111
 01:22:12,070 --> 01:22:14,600
--这管用 -确实管用 -That totally works. -It totally does.
+-这管用 -确实管用
+-That totally works. -It totally does.
 
 1112
 01:22:14,630 --> 01:22:16,850
--确定吗？ -当然确定 -Are you sure? -Oh, yeah, I'm sure.
+-确定吗？ -当然确定
+-Are you sure? -Oh, yeah, I'm sure.
 
 1113
 01:22:16,870 --> 01:22:19,890
@@ -5481,7 +5518,8 @@ That should be enough.
 
 1116
 01:22:26,260 --> 01:22:28,050
--再塞点 -再塞点 -Little more. -Maybe one more.
+-再塞点 -再塞点
+-Little more. -Maybe one more.
 
 1117
 01:22:28,080 --> 01:22:30,790
@@ -5605,7 +5643,8 @@ Everybody knows how long a day is.
 
 1141
 01:23:47,360 --> 01:23:49,930
--多长？ -24小时 -How long? -Twenty-four hours.
+-多长？ -24小时
+-How long? -Twenty-four hours.
 
 1142
 01:23:49,950 --> 01:23:53,410
@@ -5685,7 +5724,7 @@ How do you learn your steps?
 1157
 01:24:39,480 --> 01:24:43,040
 名字就在那里 叫数拍
-It's even in the name. I mean, they call it "the count."
+ It's even in the name. I mean, they call it "the count."
 
 1158
 01:24:43,070 --> 01:24:44,680
@@ -5969,7 +6008,8 @@ So, you came stag, huh?
 
 1214
 01:28:58,000 --> 01:29:00,570
--啥？-没带约会对象？ -Hmm? -No date.
+-啥？-没带约会对象？
+-Hmm? -No date.
 
 1215
 01:29:00,600 --> 01:29:02,290
@@ -6064,7 +6104,7 @@ I'm not saying that you have to dance with the girl. It's up to you.
 1233
 01:30:11,090 --> 01:30:16,200
 我只想说 不管跳不跳 别说谎
-I'm just saying dance or no dance, you don't have to lie.
+ I'm just saying dance or no dance, you don't have to lie.
 
 1234
 01:30:16,220 --> 01:30:19,650
@@ -6078,7 +6118,8 @@ She can take it.
 
 1236
 01:31:35,980 --> 01:31:39,720
--准备好了吗？ -嗯 来跳吧 -You ready? -Yeah. Let's do it.
+-准备好了吗？ -嗯 来跳吧
+-You ready? -Yeah. Let's do it.
 
 1237
 01:33:59,080 --> 01:34:05,520
@@ -6167,7 +6208,8 @@ You were great.
 
 1254
 01:35:12,220 --> 01:35:14,870
--谢谢 -真是个大明星啊 -Thank you. -What a star.
+-谢谢 -真是个大明星啊
+-Thank you. -What a star.
 
 1255
 01:35:14,900 --> 01:35:18,490
@@ -6566,7 +6608,8 @@ He flatly refused to move to Omaha to live with his mother's parents.
 
 1334
 01:40:41,270 --> 01:40:43,160
--听着 我真的很爱你们... -他这样说 -Look, I love you guys... -He said.
+-听着 我真的很爱你们... -他这样说
+-Look, I love you guys... -He said.
 
 1335
 01:40:43,180 --> 01:40:46,630
@@ -6740,7 +6783,8 @@ Insisting he had never been there in the first place.
 
 1369
 01:45:00,530 --> 01:45:02,930
--那不可能... -查克想 -He wasn't... -Chuck thinks.
+-那不可能... -查克想
+-He wasn't... -Chuck thinks.
 
 1370
 01:45:02,950 --> 01:45:05,860
@@ -6777,7 +6821,7 @@ And I contain multitudes.
 {\an8}改编自史蒂芬·金同名短篇小说
 
 1377
-01:45:53,255 --> 01:45:55,458
+01:45:53,255 --> 01:45:55,363
 {\an8}制片人
 特雷弗·梅西
 迈克·弗拉纳根
@@ -6863,7 +6907,7 @@ Telegram和IRC交流群：MontageSubs
 1393
 01:46:46,431 --> 01:46:49,515
 {\an8}主演
-泰勒·戈登（口袋女王） 饰 街头鼓手泰勒
+口袋女王(泰勒·戈登) 饰 街头鼓手泰勒
 安娜丽丝·巴索 饰 街头舞伴珍妮丝 & 安迪·格鲁什 饰 鼓手同伴麦克
 
 1394
