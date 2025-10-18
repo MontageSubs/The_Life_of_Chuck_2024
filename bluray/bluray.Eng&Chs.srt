@@ -3831,7 +3831,7 @@ who, at the time, he was still calling Zaydee and Bubbie.
 
 777
 00:57:32,380 --> 00:57:37,860
-{\an9}Zaydee和Bubbie是东欧犹太移民常用的祖父母称呼
+{\an9}【Zaydee和Bubbie是东欧犹太移民常用的祖父母称呼】
 
 778
 00:57:36,290 --> 00:57:37,840
@@ -6009,7 +6009,7 @@ So, you came stag, huh?
 1214
 01:28:58,000 --> 01:29:00,570
 -Hmm? -No date.
--啥？-没带约会对象？
+-啥？ -没有舞伴？
 
 1215
 01:29:00,600 --> 01:29:02,290
@@ -6947,6 +6947,6 @@ Telegram和IRC交流群：MontageSubs
 
 1401
 01:50:39,766 --> 01:50:43,485
-{\an8}蒙太奇字幕组 (MontageSubs)
+{\an8}蒙太奇字幕组(MontageSubs)
 用 爱 发 电 ❤️ Powered by love
 
