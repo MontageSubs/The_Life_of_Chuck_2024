@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td><a href="https://zimuku.org/detail/220569.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.tv/a/595208"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/599619"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
     <td><a href="https://assrt.net/xml/sub/668/668049.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
     <td><a href="https://www.opensubtitles.org/en/subtitles/13326916/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
     <td><a href="https://www.opensubtitles.org/en/subtitles/13326913/the-life-of-chuck-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
