@@ -1,0 +1,22 @@
+# File: .github/workflows/web-srt-convert-chs-eng.yml
+
+name: web-srt-convert-chs-eng
+
+on:
+  push:
+    paths:
+      - 'web/web.srt'   # Only trigger when web/web.srt changes / 仅在 web/web.srt 文件变化时触发
+
+permissions:
+  contents: write       # Required for reusable workflow to push changes / 必须，允许复用工作流提交更改
+
+jobs:
+  call-infra:
+    uses: MontageSubs/subtitle-infra/.github/workflows/srt-convert-chs-eng.yml@main
+    with:
+      source_repository: ${{ github.repository }}
+      source_ref:       ${{ github.ref }}
+      source_file:      web/web.srt
+      target_dir:       web
+    secrets:
+      repo_token: ${{ secrets.GITHUB_TOKEN }}
